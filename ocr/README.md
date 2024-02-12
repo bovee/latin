@@ -16,8 +16,10 @@ rename '.gt' '' *.png
 
 For some books, I found adding `-e ocr_par` to the `hocr-extract-images` command gave more lines.
 I then manually edited the `.txt` files (see Vim section below) to make sure the text was correct.
-Once I had a folder of `.gt.txt` and `.png` files from the above, I made a few edits to the Makefile (e.g. `START_MODEL = lat`) and then ran `make training` to generate the final `.traineddata` file.
+Once I had a folder of `.gt.txt` and `.png` files from the above, I ran `make training` to generate the final `.traineddata` file.
 I then ran this model against a book again to generate more `.gt.txt` and `.png` files and then re-ran it again on those, etc.
+
+The current model (v2) was trained with a ~400 new samples (on top of `START_MODEL=lat`) and has a minimal training error rate (BCER) of 0.054%.
 
 ## OCRing a Book
 
@@ -52,4 +54,14 @@ Vim supports most macron letters with digraphs (e.g. press `^K`, then `a`, then 
 ```vim
 dig y- 563
 dig Y- 562
+```
+
+Frequently a single letter only needs to be macronized or unmacronized; here is a short script to do that quickly (which can be bound to something besides `zz`):
+```
+function! Macronize()
+  let l:char = matchstr(getline('.'), '\%' . col('.') . 'c.')
+  let l:char = get({ 'a': 'ā', 'e': 'ē', 'i': 'ī', 'o': 'ō', 'u': 'ū', 'y': 'ȳ', 'ā': 'a', 'ē': 'e', 'ī': 'i', 'ō': 'o', 'ū': 'u', 'ȳ': 'y', 'A': 'Ā', 'E': 'Ē', 'I': 'Ī', 'O': 'Ō', 'U': 'Ū', 'Y': 'Ȳ', 'Ā': 'A', 'Ē': 'E', 'Ī': 'I', 'Ō': 'O', 'Ū': 'U', 'Ȳ': 'Y' }, l:char, l:char)
+  call setline(line('.'), substitute(getline('.'), '\%' . col('.') . 'c.', l:char, ''))
+endfunction
+map zz :call Macronize()<CR>
 ```
