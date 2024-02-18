@@ -153,6 +153,8 @@ Latrō quīdam, nōmine Alcimus, cum dormientis anūs, perfrāctō tuguriō, ad 
 
 Diāna cum in valle quādam aestīvō tempore ex assiduā vēnātiōne dēfatīgāta esset, ad fontem ut lavārētur sē contulit. Actaeōn autem vēnātor, cum ad eundem locum ut sē et canēs suōs refrīgerāret vēnisset, in cōnspectum deae incidit. Cum tamen nēminī mortālī deam invītam vidēre licēret, Actaeōn, nē glōriārī posset sē Diānam vīdisse, in cervum est conversus, ita ut prō ferā ā suīs ipse canibus est lacerātus.
 
+![Actaeōn vēnator ā canibus suīs lacerātur](./appleton_fabulae_images/acteon.png "Actaeōn vēnator ā canibus suīs lacerātur")
+
 ## Zēnō et servus
 
 Zēnō philosophus ūnum ex servīs suīs quem in fūrtō comprehenderat, lōrāriīs caedendum trādidit. Servus autem, ut supplicium dēprecārētur, fātō affīrmāvit dēcrētum esse sē fūrem fore. Quibus verbīs servus dominī suī sententiam spectāvit; ēnō scīlicet omnia fātō fierī cēnsēbat. Servō tamen tālia affīrmantī, “Et fātō,” inquit, “dēcrētum est fore ut
@@ -177,6 +179,8 @@ Avārus quīdam somniō quondam commōtus ad coniectōrem dētulit somniāsse s�
 ## Īphigenīa
 
 Agamemnōn et Menelāus cum Helenam, uxōrem Menelāī quam Paris āvexerat, Trōiam repetītum īrent, in Aulide tempestāte ob īram Diānae ita retinēbantur ut nāvigāre nōn possent, quod Agamemnōn in vēnandō cervam deae interfēcit. Is cum haruspicēs convocāsset, et Calchās eum respondisset aliter expiārī nōn posse, nisi Īphigenīam fīliam immolāsset, diū ā tam nefāriō scelere abhorruit. Tandem autem Ulixēs eī persuāsit ut vātī pārēret. Ulixēs igitur ad Īphigenīam addūcendam dīmissus est. Quī, cum ad Clytaemnēstram mātrem ēius vēnisset, ēmentītur eam Achillī in mātrimōnium dūcī. Quam cum adductam Agamemnōn in eō esset ut immolāret, Diānam virginis miseruit. Itaque, cālīgine eī obiectā, cervam prō eā supposuit, Īphigenīamque in terram Tauricam dēlātam templī suī sacerdōtem fēcit.
+
+![Calchās Īphigenīam immolātūrus](./appleton_fabulae_images/iphigenia.png "Calchās Īphigenīam immolātūrus")
 
 ## Īphigenīa Taurica
 
@@ -210,7 +214,9 @@ Peliadēs, ut animadvertērunt Aesōnem senectūtem remediīs Mēdēae expulisse
 
 Phaethōn, sōlis fīlius, patrem suum ut currum ūnum diem sibi dīrigere licēret diū flāgitābat. Tandem optātum currum ascendit.  Monitīs itaque īnstrūctus patris, per iter ignōtum equōs summō gaudiō dīrigere incēpit.  Equī tamen, ignōtō agitātōre perterritī, mundī īnferiōrem partem petiērunt. Quamobrem cum propius terram currus esset vectus, cūnctī mortālēs, quod nimiō ardōre incendēbantur, ab Iove opem implōrantēs petiērunt nē orbem terrārum flammīs omnīnō cōnsūmeret. Itaque Iūppiter precibus commōtus Phaethontem, fulmine ictum, ē currū praecipitāvit, equīque vinculīs ita līberātī, agnitō itinere, ad suam statiōnem reversī sunt. Indī autem, quod calōre vīcīnī ignis sanguis eōrum in ātrum colōrem versus est, nigrī sunt factī.
 
-## Musae in avēs conversae
+![Phaethōn ē currū praecipitātus](./appleton_fabulae_images/phaethon.png "Phaethōn ē currū praecipitātus")
+
+## Mūsae in avēs conversae
 
 Mūsae cum Parnassum montem adversīs tempestātibus petiissent, invītātae ā Pyrēneō, quī Daulida, Phōcidis urbem, incolēbat, tēcta subiērunt. Pyrēneus autem pulchritūdine virginum captus ūnam in mātrimōnium dūcere volēbat. Sed cum nūlla eī nūbere vellet, ad vīm īnferendam, claudī rēgiam iussit. Mūsae tamen, nē ab eō retinērentur, in volucrēs sunt conversae, quās ille dum per ardua montium persequitur, prōlāpsus per altitūdinem scopulōrum praecipitātus est, ita ut tōtum corpus ēlīsum sit vītamque fīnierit.
 
@@ -245,6 +251,8 @@ Satyrus quondam pauperem frīgore paene exanimātum in tugurium suum hospitiō e
 ## Equus Trōiānus
 
 Cum Achīvī per decem annōs Trōiam capere nōn possent, Epēus monitū Minervae equum mīrae magnitūdinis ligneum fēcit. In equō mīlitēs sunt inclūsī, et in tergō haec verba scrīpta, Danaī Minervae dōnō dant. Quibus factīs, castra trānstulērunt Tenedum. Quod Trōiānī cum vīdissent, hostēs abīsse arbitrātī sunt. Priamus equum in arcem Minervae dūcī iussit; et cum vātēs Cassandra hostēs inesse vōciferārētur, fidēs eī nōn est habita. Quem in arcem cum statuissent, et ipsī nocturnō lūsū ac vīnō fessī obdormiissent, Achīvī ex equō, ā Sinōne apertō, exiērunt, et, portārum custōdibus occīsīs, sociōs suōs, signō datō, recēpērunt, et Trōiā sunt potītī.
+
+![Equus Trōiānus](./appleton_fabulae_images/equus_troianus.png "Equus Trōiānus")
 
 ## Puer Procāx
 
@@ -290,6 +298,8 @@ Iūppiter cōnsilia sua Tantalō concrēdere solitus erat, eumque ad epulās de�
 
 Admētus Pheraeōrum rēx Alcēstim habuit coniugem, quī, cum gravissimē aegrōtāret, Apollinis miserātiōnem invocāvit. Cui respondit Apollō sē nihil in hōc eī posse praestāre, nisi quis dē propinquīs ēius sē prō illō mortī suā sponte offerret. Quod uxor ēius libentī animō fēcit, et sē ipsam interēmit. Quod cum Herculēs intellēxisset, mulieris tantā fidēlitāte misericordiā commōtus, ad īnferōs dēscendit, et Cerberum tricipitem sibi ad ōstium īnfernum resistentem, triplicī vīnctum catēnā, ab ōstiō abstrāxit. Quō modō Alcēstim ex īnfernīs redūxit.
 
+![Alcēstis ab Hercule ex īnfernīs reducta](./appleton_fabulae_images/alcestis.png "Alcēstis ab Hercule ex īnfernīs reducta")
+
 ## Procrūstēs
 
 Procrūstēs Neptūnī fīlius erat. Ad hunc hospes cum vēnisset, sī longior erat, minōre lectō prōpositō, reliquam corporis partem praecīdēbat. Sīn autem breviōre statūrā erat, lectō longiōre datō, tormentō eum extendēbat dōnec lectī longitūdinem aequāret. Herculēs tamen cum dē hominis crūdēlitāte certior esset factus, ut omnēs ā tālī pēste līberet, iter ad eum fēcit. Procrūstēs nihil malī suspicātus Herculem hospitiō excēpit, et, minōre lectō adhibitō, pedēs ēius, ut mōs, mutilātūrus erat cum subitō vī superātus ab Herecule est interfectus.
@@ -316,9 +326,13 @@ Agamemnōn et Menelāus, cum ad Trōiam oppugnandam coniūrātōs ducēs collige
 
 Ulixēs cum, Īliō captō, in patriam Ithacam redīret, tempestāte ad Lōtophagōs est dēlātus, quī lōtum edēbant, quae tantam suāvitātem omnibus praestābat, ut quī gustābant, oblīviōne captā, domum redīre nōllent. Ad eōs sociī duo ab Ulixe missī, cum herbam ab incolīs datam gustāssent, oblīviōne, ut fierī solēbat, obrutī, ad nāvēs nōn reversī sunt. Quōs cum Ulixēs diū frūstrā exspectāsset, cum aliīs sociīs, ut quid agerent illī invenīret, profectus est. Quibus inventīs, diū persuādēre ut sēcum redīrent cōnātus est; dēnique arcessītīs vinculīs, omnēs ad nāvem redūxit vīnctōs.
 
+![Ulixēs ad īnsulam cyclōpum nāvem appulit](./appleton_fabulae_images/ulixes_errores.png "Ulixēs ad īnsulam cyclōpum nāvem appulit")
+
 ### II
 
 Inde profectī ad Cyelōpem Polyphēmum, quī mediā fronte ūnum habēbat oculum et carne hūmānā vēscēbātur, dēvēnērunt. Huius in spēluncam Ulixēs et sociī ēius īnsciī intrāvērunt. At Polyphēmus, postquam pecus in spēluncam redēgit, mōlem saxeam ingentem ad iānuam opposuit, quā Ulixem cum sociīs inclūsit, quōrum nōnnūllōs coepit cōnsūmere. Ulixēs tamen, cum vidēret sē eī resistere nōn posse, vīnō, quod ā Marōne accēperat, eum ēbrium reddidit; cui, cum quid sibi nōmen esset rogāvisset, respondit sē Nēminem appellārī. Deinde cum oculum eī truncō ārdentī exussisset, sociōs suōs ad pecora alligāvit, nē ā Polyphēmō, dum exeunt, caperentur, et ipse sē ad arietem. Quō modō tūtī ēvāsērunt. At Polyphēmus clāmōre suō cēterōs Cyelōpēs convocāvit, quibus interrogantibus quam ob rem ita vōciferārētur respondit Nēminem sē interficere. Itaque illī dērīdendī causā Polyphēmum hōc dīcere ratī eum neglēxērunt.
+
+![Polyphēmus et Ulixēs](./appleton_fabulae_images/ulixes_errores_2.png "Polyphēmus et Ulixēs")
 
 ### III
 
@@ -328,9 +342,13 @@ Inde ad Aeolum vēnērunt, cui ab Iove ventōrum custōdia fuit trādita. Is Uli
 
 Deinde ad Circēn, quae, pōtiōne datā, hominēs in ferās commūtābat, ēvāsērunt. Ad eam Ulixēs Eurylochum cum vīgintī duōbus sociīs mīsit, quōs illa in porcōs statim commūtāvit. Posteā Ulixēs, cum sociōs quaesītum profectus esset, Mercuriō obviam iit, quī omnia eī exposuit et, remediō datō, quōmodo Circēn dēcipere posset mōnstrāvit. Itaque, cum ad Circēn vēnisset, pōculum ab eā accēpit, sed remedium Mercuriī monitū iniēcit, atque ēnse strīctō, minātus est sē Circēn interfectūrum nisi sociōs sibi restitūisset; quae, fidē datā sē nihil tāle iterum commissūram, sociōs Ulixis ad prīstinam fōrmam restituit.
 
+![Circē et comitēs Ulixis](./appleton_fabulae_images/ulixes_errores_3.png "Circē et comitēs Ulixis")
+
 ### V
 
 Tum ad Sīrēnēs vēnit, quae partem superiōrem corporis muliebrem habēbant, immānem autem īnferiōrem. Hārum fātum fuit tamdiū vīvere, quamdiū eārum cantum mortālis audiēns nēmō praetervectus esset. Ulixēs tamen ā Circē monitus, sociīs aurēs cērā obtūrāvit, sēque ad mālum cōnstringī iussit, et sīc praetervectus est. Quō factō, Sīrēnēs sē in undās praecipitāvērunt.
+
+![Ulixēs et Sīrēnēs](./appleton_fabulae_images/ulixes_errores_4.png "Ulixēs et Sīrēnēs")
 
 ### VI
 
@@ -348,12 +366,14 @@ Volcānus Iovī cēterīsque deīs solia aurea suum cuique idōneum argenteāsqu
 
 Daedalus cum iamdiū rēgem Mīnōem, ā quō in custōdiā tenēbātur, effugere vellet, pennās sibi et fīliō Īcarō cērā aptāvit, quibus, ut volucrēs, ē rēgis fīnibus possent effugere. Hīs ad umerōs affīxīs, Daedalus Īcarum monuit nē sōlī dum volat appropinquāret. Īcarus tamen, quī praeceptīs parentis obtemperāre nequīvit, altius Daedalō sē pennīs ērēxit.  Pennae igitur, cērā sōlis radiīs liquefactā, ex umerīs dēcidērunt; ipse quoque Īcarus in īnsulam prōnus dēcidit, quae ab ēius nōmine Īcaria est appellāta. Daedalus autem, sepultō fīliō, in Siciliam effūgit.
 
+![Daedalus et Īcarus](./appleton_fabulae_images/daedalus_et_icarus.png "Daedalus et Īcarus")
+
 ## Mycilus
 
 Mycilō cuidam, cum quiētī sē dedisset, Herculēs vīsus est appārēre atque eum ut patriam relinqueret monēre. Quae cum facere extimēsceret, quia lēx patriam dēserere atque in aliam trānsīre cīvitātem vetāret, rūrsus ab eōdem admonitus est. Nōn sine timōre igitur penātēs suōs dēstituit, ideōque in iūdicium pūblicum est dēvocātus. Iūdicibus calculī albī ac nigrī datī sunt, ut ātrīs damnārent, absolverent candidīs. Namque ut dīcit Ovidius : —
 
-    Mōs erat antīquīs niveīs ātrīsque lapillīs,
-    Hīs damnāre reōs, illīs absolvere culpā.
+    Mōs erat antīquīs niveīs ātrīsque lapillīs,  
+    Hīs damnāre reōs, illīs absolvere culpā.  
 
 Itaque Mycilus, cum nē capitis damnārētur timēret, Herculem invocāvit ut labōrantī sibi, quia ēius iussīs obtemperāsset, ferret auxilium.  Cuius precēs nōn incassum sunt missae. Nam cum calculī mōre patriae ex urnā essent dēductī, omnēs appāruērunt in colōrem album conversī.
 
@@ -419,7 +439,7 @@ Ulixēs, quod Palamēdis dolō erat dēceptus, in diēs māchinābātur quōmodo
 
 ## Cūra
 
-Cūra, dum fluvium quemdam trānsit, crētōsum lutum vīdit. Hōc diū contemplāta in hominis figūram coepit fingere. Dum sēcum dēlīberat quidnam fēcisset, Iūppiter intervēnit, quem Cūra ōrāvit ut signō spīritum daret. Hōc facile ab Iove impetrāvit; sed, cum nōmen suum eī indere vellet, Iūppiter prohibuit, suumque dīxit nōmen eī esse dandum. Dum dē nōmine Cūra et Iūppiter disceptant, accurrit et Tellūs, suumque nōmen eī impōnī dīxit oportēre, quandoquidem ē corpore suō facta esset figūra. Sāturnum iūdicem creāvērunt, quibus ille secus vidētur iūdicāsse: *—Tū, Iūppiter, quoniam spīritum dedistī, corpus recipitō: Cūra quoniam eum prīma fīnxit, quamdiū vīxerit, cūra eum teneat; sed quoniam dē nōmine ēius contrōversia est, Homō vocētur, quoniam ex humō vidētur esse factus.*
+Cūra, dum fluvium quemdam trānsit, crētōsum lutum vīdit. Hōc diū contemplāta in hominis figūram coepit fingere. Dum sēcum dēlīberat quidnam fēcisset, Iūppiter intervēnit, quem Cūra ōrāvit ut signō spīritum daret. Hōc facile ab Iove impetrāvit; sed, cum nōmen suum eī indere vellet, Iūppiter prohibuit, suumque dīxit nōmen eī esse dandum. Dum dē nōmine Cūra et Iūppiter disceptant, accurrit et Tellūs, suumque nōmen eī impōnī dīxit oportēre, quandoquidem ē corpore suō facta esset figūra. Sāturnum iūdicem creāvērunt, quibus ille secus vidētur iūdicāsse:—*Tū, Iūppiter, quoniam spīritum dedistī, corpus recipitō: Cūra quoniam eum prīma fīnxit, quamdiū vīxerit, cūra eum teneat; sed quoniam dē nōmine ēius contrōversia est, Homō vocētur, quoniam ex humō vidētur esse factus.*
 
 ## Cleobis et Bitōn
 
@@ -436,6 +456,8 @@ Schoeneus Atalantam fīliam, virginem fōrmōsissimam, habuit, quae virtūte su�
 ## Arīōn
 
 Arīōn, citharoedus praeclārissimus, cum per cīvitātem artem suam illūstrāvisset, permagnam sibi parāvit pecūniam. Quod cum famulī ēius intellēxissent, cum nautīs coniūrāvērunt ut eum interficerent. Cui Apollō per somnium vēnit, eumque monuit ut ōrnātū suō et corōnā amictus dēcantāret, et eīs sē trāderet, quī eī praesidiō vēnissent. Quem cum famulī et nautae interficere vellent, petiit ab eīs ut dēcantāre prius licēret. Cum autem citharae sonus et vōx ēius audīrentur, delphīnī circā nāvem vēnērunt. Quibus vīsīs, Arīōn sē in mare praecipitāvit, quem delphīnī sublātum Corinthum ad rēgem attulērunt. Quō cum perventum esset, delphīnus quī eum portāverat in lītore est exanimātus. Rēx igitur delphīnum sepelīrī iussit, et eī monumentum fierī. Nōn ita multō post rēgī nūntiātum est nāvem, quā vectus esset Arīōn, Corinthum tempestāte esse dēlātam. Quibus audītīs, nautās ad sē perdūcī iussit, quī, cum rēx dē Arīone ab eīs quaesīvisset, eum obīsse respondērunt. Quibus rēx, “Crās,” inquit, “ad delphīnī monumentum iūrābitis.” Intereā eōs custōdīrī iussit, es Arīonem monuit ut eō ōrnātū, quō sē in mare praecipitāvisset, in monumentō delphīnī māne dēlitēsceret. Itaque, cum nautās ad monumentum adductōs rēx per delphīnī mānēs iūrāre Arīonem obīsse iūssisset, Arīōn ipse caput ē monumentō prōtulit. Itaque nautae stupefactī, quōmodo servātus esset, obmūtuērunt, quōs rēx iussit ad delphīnī monumentum interficī.
+
+![Arīōn et delphīnus](./appleton_fabulae_images/arion.png "Arīōn et delphīnus")
 
 ## Halcyonē
 
@@ -505,4 +527,6 @@ Tribus post diēbus piscātor quīdam captum ā sē piscem grandem sānē ac pul
 
 ## Promētheus
 
-Promētheus prīmus hominēs ex lutō fīnxit; posteā Iovis iussū mulieris quoque effigiem fēcit, cui Minerva animam dedit, cēterīque deī alius aliud dōnum dedērunt. Hominēs multa saecula sine oppidīs lēgibusve vītam exēgērunt ūnā linguā loquentēs sub imperiō Iovis. Sed, postquam Mercurius aliīs linguīs sermōnēs īnstituit, discordia inter mortālēs esse coepit, quod Iovī placitum nōn est. Itaque hominēs in nātiōnēs distribuit. Sed mox ignem ab immortālibus petere incipiēbant. Hunc cum Iūppiter dare nōllet, Promētheus in ferulā dētulit in terrās, hominibusque mōnstrāvit quōmodo cinere obrutum servāre possent. Quāpropter Mercurius Iovis iussū eum in monte Caucasō clāvīs ferreīs ad saxum dēligāvit; aquilam quoque apposuit quae cor ēius dēvorāret. Quantum aquila diē ēderat, tantum nocte cor crēscēbat. Hanc aquilam post trīgintā annōs Herculēs interfēcit, Promētheumque Iīberāvit.
+Promētheus prīmus hominēs ex lutō fīnxit; posteā Iovis iussū mulieris quoque effigiem fēcit, cui Minerva animam dedit, cēterīque deī alius aliud dōnum dedērunt. Hominēs multa saecula sine oppidīs lēgibusve vītam exēgērunt ūnā linguā loquentēs sub imperiō Iovis. Sed, postquam Mercurius aliīs linguīs sermōnēs īnstituit, discordia inter mortālēs esse coepit, quod Iovī placitum nōn est. Itaque hominēs in nātiōnēs distribuit. Sed mox ignem ab immortālibus petere incipiēbant. Hunc cum Iūppiter dare nōllet, Promētheus in ferulā dētulit in terrās, hominibusque mōnstrāvit quōmodo cinere obrutum servāre possent. Quāpropter Mercurius Iovis iussū eum in monte Caucasō clāvīs ferreīs ad saxum dēligāvit; aquilam quoque apposuit quae cor ēius dēvorāret. Quantum aquila diē ēderat, tantum nocte cor crēscēbat. Hanc aquilam post trīgintā annōs Herculēs interfēcit, Promētheumque līberāvit.
+
+![Promētheus et aquila](./appleton_fabulae_images/arion.png "Promētheus et aquila")

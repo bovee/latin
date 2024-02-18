@@ -58,6 +58,8 @@ Septem annōs errant. Dēnique ad fluvium perveniunt. Discunt hunc fluvium esse 
 
 Vīvunt igitur, et beātam vītam agunt. Aenēān senem vidēmus, mox Ascanium fīlium rēgem accipiunt Trōiānī. Rēx novus novam urbem condit, quam Albam Longam appellat. Nam urbem vident esse et longam et albam. Cīvēs quī Albam Longam incolunt Albānōs appellant. Sīc haec fābula fīnem habet.
 
+![Aenēās Trōiā fugit](./chickering_images/cap_01_aeneas_troia_fugit.png "Aenēās Trōiā fugit")
+
 ## II. Amūlius et Numitor, Rōmulus et Remus
 
 “Multa cadunt inter calicem suprēmaque labra”
@@ -67,6 +69,8 @@ Post multōs annōs Silvius Procas est rēx Albānus. Duōs fīliōs, Numitōrem
 Propter hoc Amūlius putat sē semper rēgem esse posse. Sed Mārs est deus: Mārs Rheam Silviam uxōrem dūcit. Rhea Silvia, ut omnēs scītis, est virgō illa quam Amūlius timet. Silvia geminōs parit, quō Rōmulum et Remum appellat.
 
 Amūlius autem, rēx malus, puerōs in Tiberim dēicit. Sed nunc fluvius ultrā rīpās fluit. Deinde refluit, et Rōmulum et Remum siccōs relinquit. Nātūra geminōs cūrat dōnec Faustulus pāstor eōs capit. Uxor duōs puerōs īnstituit, quī, ubi virī sunt, discunt Numitōrem esse avum suum. Amūlium interficiunt, Numitōrem rēgem faciunt, urbem suam prope Tiberim condunt, quam Rōmam vocāmus. Iam hanc fābulam habētis.
+
+![Pecūnia Rōmāna](./chickering_images/cap_02_pecunia_romana.png "Pecūnia Rōmāna")
 
 [^II-1]: Frātrī optiōnem dat: i.e., pōnit ante frātrem duās rēs, et dīcit: “Dēlige ūnam.”
 
@@ -112,6 +116,8 @@ Post Rōmulum succēdit Numa Pompilius, vir magnae iūstitiae et religiōnis. Cu
 Āram Vestae prōvidet, ubi mūnus est virginum ignem semper alere. Dīcitur[^V-2] Iuppiter ipse quondam ad illum dēscendisse[^V-3]. Prīmum fulmina in urbem dēmittit, deinde in nemus Aventīnum venit, ubi certa prōmissa imperī dat, quae populus Rōmānus posteā habuit[^V-3]. Postrīdiē enim, ubi omnēs ad aedēs rēgiās conveniunt silentēsque[^V-4] exspectant, caelum scinditur[^V-5], unde dēlābitur[^V-6] scūtum, quod sacrum esse cognōscit Numa. Fūrtum timet, itaque Māmūrium ūndecim scūta eiusdem fōrmae facere iubet. Duodecim autem Saliōs Mārtis sacerdōtēs legit, quī hōrum custōdēs sunt, quae Kalendīs Mārtiīs[^V-7] per urbem canentēs[^V-8] ferunt.
 
 Annum in duodecim mēnsēs ad cursum lūnae dīvidit. Portās Iānī geminās aedificat, quae signa sunt bellī et pācis. Apertae[^V-9], arma indicant, clausae[^V-9] contrārium. Frūmenta quoque plūrima et ūtilia fert Numa. Bellum nūllum gerit. Trēs et quadrāgintā annōs regit, deinde aeger fit[^V-10] et moritur[^V-11].
+
+![Scūtum](./chickering_images/cap_05_scutum.png "Scūtum")
 
 [^V-1]: Fuit: tempus praeteritum.
 [^V-2]: Dīcitur: vōx passīva.
@@ -225,6 +231,8 @@ Post interitum Tarquinī, Tanaquil mortem cēlāvit, populumque ex superiōre pa
 
 Servius Tullius aliquod urbī[^XI-1] decus addere voluit. Iam tum nōbile erat Diānae Ephesiae templum. Id commūniter ā cīvitātibus[^XI-1] Asiae factum fāma tulit. Itaque ob eius voluntātem Latīnī templum Diānae cum populō[^XI-1] Rōmānō Rōmae in Aventīnō monte[^XI-1] aedificāvērunt.
 
+![Templum](./chickering_images/cap_11_templum.png "Templum")
+
 [^XI-1]: Omnia alia vocābula stēllā indicāta coniūncta sunt cum praepositiōnibus: sī praepositiō cum verbō est coniūncta, cāsus substantīvī est datīvus: aliter ablātīvus.
 [^XI-2]: Grātiā: hoc potest appellārī praepositiō.
 
@@ -292,6 +300,8 @@ Is extrēmam pontis partem occupāvit, aciem hostium sōlus sustinuit, cōnfīd�
 
 Tum quoque Mūcius, vir Rōmānae virtūtis, senātum adiit et dīxit: “Permittite mihi ad hostēs trānsīre, rēgis enim caedem polliceor vōbīs.” Potestās data est, in castra Porsenae vēnit, ibi in cōnfertissimā multitūdine prope prīncipēs cōnstitit. Stīpendium tunc forte mīlitibus dabātur[^XVI-1], et tribūnus cum rēge idem ferē ōrnāmentum gerēns sedēbat[^XVI-1]. Mūcius nesciit illum nōn esse rēgem, illum prō rēge occīdit. Comprehēnsus et ad rēgem perductus dextram ignī iniēcit, velut manum ulcīscēns, quod in caede errāvit. Attonitus propter rem mīram rēx iuvenem removērī ab ārīs iussit. Tum Mūcius, quasi prō beneficiō pendēns, ait trecentōs contrā eum suī similēs coniūrāsse. Quā rē ille perterritus obsidēs accēpit, bellum dēposuit. Mūciō agrī trāns Tiberim datī, ab eō Mūcia appellātī sunt. Effigiēs quoque eī honōris grātiā cōnstitūta est.
 
+![Horātius pontem dēfendit](./chickering_images/cap_16_horatus_pontem_defendit.png "Horātius pontem dēfendit")
+
 [^XVI-1]: Dabātur, sedēbat: tempus imperfectum.
 
 # XVII. Coriolānus
@@ -329,6 +339,8 @@ Dum M. Fūrius Camillus urbem Falēriōs obsidet, lūdī magister plūrimōs et 
 Vēientēs etiam illō tempore bellum renovārunt. Quōrum magnās cōpiās fuisse indicat longa obsidiō. Tunc prīmum ā mīlitibus hiemātum est sub pellibus, tum prīmum stīpendium ex aerāriō mīlitibus datum est adāctīque sunt mīlitēs iūreiūrandō, nisi post urbem captam sē nōn esse discessūrōs.
 
 Posteā Camillus est accūsātus; dīxērunt eum albīs equīs triumphāsse et praedam nōn aequē dīvīsisse. Diē dictā ab Lūciō Apulēiō tribūnō plēbis damnātus Ardeam concessit. Urbe ēgrediēns deōs implōrāvisse dīcitur; “Sī integrō[^XIX-2] mihi haec iniūria facta est, prīmō quoque tempore dēsīderium meī cīvitātī ingrātae facite.”
+
+![Pecūnia Rōmāna](./chickering_images/cap_19_pecuinia_romana.png "Pecūnia Rōmāna")
 
 [^XIX-1]: Quāsdam rēs: i.e., virgās puerīs dedit.
 [^XIX-2]: Integrō: i.e., sī nihil malī fēcī.
@@ -371,6 +383,8 @@ T. Mānlius ob ingenī et linguae impedīmenta ā patre rūs dīmissus est. Aud�
 Posteā Gallī ad tertium lapidem trāns Aniēnem fluvium castra posuērunt, exercitus Rōmānus ab urbe profectus in citeriōre rīpā flūminis cōnstitit. Pōns in mediō fuit; tunc Gallus eximiā corporis magnitūdine in vacuum pontem prōcessit et quam maximā vōce potuit: “Tū quem nunc,” inquit, “Rōma fortissimum habet, prōcēde ad pugnam.” Diū inter prīncipēs iuvenum Rōmānōrum silentium fuit. Tum T. Mānlius ex statiōne ad imperātōrem pergit: “Sī tū permittis, volō ego illī ostendere mē ex eā familiā ortum esse, quae Gallōrum agmen ex rūpe Tarpēiā dēiēcit” Cui imperātor “Perge,” inquit, “et nōmen Rōmānum clārissimum praestā.”
 
 Armant deinde iuvenem amīcī. Exspectat eum Gallus laetus. Ubi cōnstitērunt inter duās aciēs, Gallus gladium cum magnō sonitū in arma Mānlī dēicit. Mānlius vērō hostem occīdit. Iacentī ōrnāmentum[^XXII-2] dētrahit, quod collō circumdedit suō. Mānlius inde Torquātī cognōmen accēpit.
+
+![Agmen Rōmānum](./chickering_images/cap_22_agmen_romanum.png "Agmen Rōmānum")
 
 [^XXII-1]: Interficiam, dēsistēs: tempus futūrum.
 [^XXII-2]: Ōrnāmentum: hoc appellātur torquis.
@@ -418,6 +432,8 @@ Eius admīrātus virtūtem Pyrrhus illum sēcrētō invītāvit, nam voluit eum 
 Posteā ūnō annō, ubi omnis spēs pācis inter Pyrrhum et Rōmānōs conciliandae dēposita est, Fabricius cōnsul factus contrā eum missus est. Vīcīna castra ipse et rēx habuērunt, et servus quīdam[^XXVI-1] rēgis nocte ad Fabricium vēnit eīque pollicitus est ob praemium acceptum Pyrrhum venēnō necāre. Hunc Fabricius vīnctum redūcī iussit ad dominum, et Pyrrhō dīcī servum hoc contrā caput eius prōposuisse. Tum rēx admīrātus eum dīxisse fertur: “Ille est Fabricius, quī difficilius ab integritāte quam sōl ā cursū potest āvertī.”
 
 Pyrrhus ubi contrā Rōmānōs parum perfectūrum sē intellēxit, Siciliam imperī suī facere statuit. Inde reversus praeter Locrōs classe vehēbātur, et opēs templī Prōserpinae integrōs ad eam diem spoliāvit; atque ita ubi pecūniam in nāvēs imposuit ipse terrā est profectus. Quid ergō ēvēnit? Classis posterō diē maximā tempestāte frācta est omnēsque nāvēs, quae sacram pecūniam habēbant, in lītora Locrōrum ēiectae sunt. Quā tantā calamitāte doctus tandem deōs esse, superbissimus rēx pecūniam omnem collēctam in templum Prōserpinae referrī iussit. Nec tamen illīumquam bonī quicquam ēvēnit, pulsusque Ītaliā miseram mortem obiit.
+
+![Nāvis Rōmāna](./chickering_images/cap_26_navis_romana.png "Nāvis Rōmāna")
 
 [^XXVI-1]: Servus quīdam: in hāc fābulā, est medicus.
 
@@ -488,6 +504,8 @@ Posteā Līvius Salīnātor cōram Fabiō sē iactat, dīcēns sē arcem Tarent�
 Q. Fabius iam senex fīliō suō cōnsulī lēgātus est; et ubi in eius castra venit, fīlius obviam patrī prōgreditur, duodecim virī[^XXXII-2], ut mōs est, ante eum prōcēdunt. Equō vehitur senex neque ubi appropinquat cōnsul dēscendit. Tam ex hīs duodecim virīs ūndecim paternam dignitātem verentēs silentiō praeter eum eunt. Quod cōnsul animadvertit, proximum virum iubet imperāre Fabiō patrī, ut ex equō dēscendat. Pater tum dēsiliēns: “Nōn ego, fīlī, inquit, “tuum imperium neglegō, sed experīrī volō, num sciās tē cōnsulem esse.”
 
 Ad summam senectūtem vīxit Fabius Maximus, dē rē pūblicā bene merēns. Ille enim rem Rōmānam cūnctandō restituit.
+
+![Līctor](./chickering_images/cap_32_lictor.png "Līctor")
 
 [^XXXII-1]: Nisi āmīsissēs, et c.: subiūnctīvum plūsquamperfectum: condiciō indicat rem vēram nōn fuisse.
 [^XXXII-2]: Duodecim virī: līctōrēs.
@@ -595,6 +613,8 @@ Hae et aliae, quae sequēbantur, calamitātēs Carthāginiēnsibus tantum terrō
 
 Scīpiō cum colloquium minimē negāvisset, diēs locusque cōnstituitur. Itaque congressī sunt duo clārissimī suae aetātis ducēs. Stetērunt paulīsper tacitī et admīrātiōne dēfīxī. Cum vērō dē condiciōnibus pācis neuter alterīus prōpositum accēpisset, ad suōs sē recēpērunt, renūntiāvērunt armīs dēcernendum esse. Proelium deinde committitur, Hannibal victus cum quattuor equitibus fūgit. Cēterum cōnstat, utrumque dē alterō cōnfessum esse, nec melius īnstruī aciem nec ācrius potuisse pugnārī.
 
+![Triumphus](./chickering_images/cap_41_triumphus.png "Triumphus")
+
 ## XLII. Varia dē Scīpiōne
 
 “Fortūna multīs dat nimium, nūllīs satis”
@@ -631,7 +651,9 @@ Cum rūrī in domiciliō suō sē continēret, complūrēs latrōnum ducēs ad e
 
 Haec postquam audīvit Scīpiō, iānuam aperīrī eōsque intrōdūcī iussit. Illī cupidē Scīpiōnis dextram comprehendērunt, deinde ante aditum dōna posuērunt et laetī quod sibi, Scīpiōnem ut vidērent, contigisset, domum revertērunt. Paulō post mortuus est Scīpiō moriēnsque ab uxōre petiit, nē corpus suum Rōmam referrētur.
 
-## XXLV. Tiberius Gracchus
+![Forum Rōmānum](./chickering_images/cap_44_foram_romanum.png "Forum Rōmānum")
+
+## XLV. Tiberius Gracchus
 
 “Nē nimium”
 
@@ -643,7 +665,7 @@ Tiberius Gracchus, tribūnus plēbis creātus, ā senātū discessit; populī gr
 
 Hoc nōbilitās ita accēpit, quasi corōnam posceret, et quod cōnsul rem differret, Scīpiō Nāsīca, cum esset cōnsanguineus Tiberī Gracchī, tamen dextram sustulit et clāmāvit: “Quī rem pūblicam servāre volunt, mē sequiminī!” Deinde nōbilēs, senātus atque equestris ōrdinis pars maior in Gracchum ruunt, quī fugiēns dēcurrēnsque dē Capitōliō tēlō percussus vītam immātūrā morte āmīsit. Mortuī Tiberī corpus in flūmen prōiectum est.
 
-## XILVI. Gāius Gracchus
+## XLVI. Gāius Gracchus
 
 “Mediō tūtissimus ībis”
 
@@ -666,6 +688,8 @@ Posteā Marius cōnsul creātus in Numidiam contrā Iugurtham missus est, et bel
 Posteā bellum contrā Cimbrōs et Teutonēs dēcrētum est. Hae nātiōnēs, ab extrēmīs Germāniae fīnibus discēdere compulsī, novās sēdēs quaerēbant, et ā Rōmānīs, ut aliquid sibi terrae darent, petiērunt. Repulsī, quod nōn potuerant precibus, armīs petere cōnstituunt. Cum trēs ducēs Rōmānī victī essent, Marius Teutonēs secūtus sub ipsīs Alpium rādīcibus proeliō oppressit.
 
 Vallem fluviumque medium hostēs tenēbant; Rōmānīs aquārum nūlla fuit cōpia. Aucta necessitāte virtūs causa victōriae fuit, nam, cum aquam flāgitārent, Marius: “Virī, inquit, “estis; illīc aquam habētis.” Tanta caedēs hostium fuit ut Rōmānī victōrēs dē flūmine nōn plūs aquae biberent quam sanguinis barbarōrum. Caesa trāduntur hostium ducenta mīlia, capta nōnāgintā. Rēx ipse comprehēnsus īnsigne spectāculum triumphī fuit.
+
+![Pīlum](./chickering_images/cap_47_pilum.png "Pīlum")
 
 [^XLVII-1]: Accidisset: tempus est plūsquamperfectum: condiciō autem est futūra.
 [^XLVII-2]: Aedēs: fortasse dīxit, “Quam frīgidum est vestrum balneum.”
@@ -730,6 +754,8 @@ Q. Sertōrius, humilī locō nātus, prīma stīpendia bellō Cimbricō fēcit. 
 
 Postquam Sulla in Ītaliā potestātem habēre coepit, Sertōrius, quī partium Mariānārum fuerat, in Hispāniam sē contulit. Ibi cum virtūtis admīrātiōne tum imperiō mītī, Hispānōrum animōs sibi conciliāvit et clientēs habuit. Missum ā Sullā Metellum, deinde Pompēium superāvit; sed, cum cautus esset imperātor, nōn tōtī Rōmānōrum exercituī sē obiēcit. Ad ultimum autem crūdēlis factus ā sociīs dēsertus, prōditus, interfectus est.
 
+![Pecūnia Rōmāna](./chickering_images/cap_52_pecunia_romana.png "Pecūnia Rōmāna")
+
 ## LIII. Gnaeus Pompeius
 
 “Iūniōrēs ad labōrēs”
@@ -754,6 +780,8 @@ Aliquot annōs continuōs ante lēgem Gabīniam populus Rōmānus magnā ex part
 
 Sed hoc tantum bellum, tam longē lātēque dispersum, Gnaeus Pompēius extrēmā hieme parāvit, mediā aestāte cōnfēcit. Praedōnēs in dēditiōnem acceptōs in urbibus et agrīs procul ā marī collocāvit. Post hanc victōriam audiēbant Rōmānī nūllam intrā ōceanī ōstium praedōnum nāvem esse.
 
+![Mīles Legiōnārius](./chickering_images/cap_54_miles_legionarius.png "Mīles Legiōnārius")
+
 ## LV. Pompēī victōriae et mors
 
 “Tempus edāx rērum”
@@ -776,6 +804,8 @@ Satis cōnstat Sullam, cum precantibus amīcissimīs et ōrnātissimīs virīs q
 
 Stīpendia prīma in Asiā fēcit. Expugnātīs Mitylēnīs corōnā ob cīvem servātum dōnātus est. Deinde dum Rhodum trāicit, ā praedōnibus captus est mānsitque apud eōs plūs quam quīnquiēs quīnōs diēs. Comitēs interim servōsque ad expediendās pecūniās, quibus redimerētur, dīmīsit. Quōrum post profectiōnem id quod postulāverant praedōnēs ille triplex datūrum sē pollicitus est. Quibus datīs cum expositus esset in lītore, cōnfestim Mīlētum, quae urbs nōn longē inde distābat, properāvit, ibique contractā classe vēlōciter vectus in eum locum in quō ipsī praedōnēs erant, partem classis dispersit, nōnnūllās nāvēs cēpit, praedōnēs summō cruciātū suppliciōque necāvit.
 
+![C. Iūlius Caesar](./chickering_images/cap_56_iulius_caesar.png "C. Iūlius Caesar")
+
 ## LVII. Caesaris cursus honōrum
 
 “Summa summārum”
@@ -789,6 +819,8 @@ Aedīlis praeter forum etiam Capitōlium ōrnāvit templīs. Lūdōs ex prīstin
 Cōnsul deinde cum M. Bibulō creātus societātem cum Cn. Pompēiō et M. Crassō iūnxit Caesar, nē quid agerētur in rē pūblicā, quod nōn omnibus tribus placēret. Deinde lēgem tulit, ut ager Campānus plēbī dīviderētur. Cui lēgī cum senātus resisteret, quod eī aliter vidērētur, rem ad populum dētulit. Bibulus in forum vēnit, ut contrā lēgem dīceret, sed tanta in eum commōta est īra, ut armīs forō expellerētur.
 
 Quā rē cum Bibulus per reliquum annī tempus domō abditus in cūriam nōn venīret, ūnus ex eō tempore Caesar omnia in rē pūblicā administrābat, ut nōnnūllī cīvium, sī interdum litterās scrīberent, nōn, ut mōs erat, cōnsulibus Caesare et Bibulō āctum indicārent, sed Iūliō et Caesare, ūnum cōnsulem nōmine et cognōmine prō duōbus appellantēs. Fūnctus officiō cōnsulārī Caesar Galliam prōvinciam accēpit. Quae ibi bis quaternīs annīs cōnfēcit ad caput proximum reservantur.
+
+![Testūdō](./chickering_images/cap_57_testudo.png "Testūdō")
 
 [^LVII-1]: I.e., tantam pecūniam prō hīs dare necesse fuit.
 
@@ -846,6 +878,8 @@ Ubi vīneīs āctīs aggere exstrūctō turrim procul cōnstituī vīdērunt, pr
 
 Nōn sē exīstimāre Rōmānōs sine ope dīvīnā bellum gerere, quī tantae altitūdinis rēs tantā celeritāte movēre possent; sē suaque omnia eōrum potestātī permittere dīxērunt. Ūnum petere ac precārī: sī forte statuisset Aduatucōs esse servandōs, nē sē armīs spoliāret. Sibi omnēs ferē fīnitimōs esse inimīcōs ac suae virtūtī invidēre; ā quibus sē dēfendere trāditīs armīs nōn possent. Sibi praestāre, sī in eum cāsum dēdūcerentur, quamvīs fortūnam ā populō Rōmānō patī, quam ab hīs per cruciātum interficī inter quōs dominārī cōnsuēssent.
 
+![Obsidiō](./chickering_images/cap_62_obsido.png "Obsidiō")
+
 ## LXIII. Dē poenā perfidiae
 
 “Fidēs Pūnica”
@@ -896,7 +930,9 @@ Interfectō intereā apud Parthōs Crassō et mortuā Iūliā, Caesaris fīliā,
 
 Hanc iniūriam acceptam ultūrus in Ītaliam rediit et bellandum ratus cum exercitū Rubicōnem flūmen, quī prōvinciae eius fīnis erat, trānsiit. Hoc ad flūmen paulum cōnstitisse fertur ac cōgitāns quantum susciperet conversus ad proximōs: “Etiam nunc,” inquit, “revertī possumus; quod sī ponticulum trānsierimus, omnia armīs agenda erunt.” Postrēmō autem magnā vōce[^LXVI-1] clāmāns exercitum trāicī iussit, plūrimīsque urbibus occupātīs Brundisium contendit, quō Pompēius cōnsulēsque cōnfūgerant.
 
-Quī cum inde in Ēpīrum trāiēcissent, Caesar eōs secūtus ā Brundisiō Dyrrachium trānsiit: cōpiīsque, quās subsequī iusserat. diūtius cūnctantibus mīrae audāciae facinus ēdidit. Castrīs noctū ēgreditur, clam nāvem cōnscendit, et quamquam mare saeviēbat in altum tamen prōgredī gubernātōrem iubet et illō timente: “Quid timēs?” inquit, “Caesarem vehis.” Neque prius gubernātōrem cēdere adversae tempestātī passus est, quam paene obrutus est flūctibus.
+Quī cum inde in Ēpīrum trāiēcissent, Caesar eōs secūtus ā Brundisiō Dyrrachium trānsiit: cōpiīsque, quās subsequī iusserat. Diūtius cūnctantibus mīrae audāciae facinus ēdidit. Castrīs noctū ēgreditur, clam nāvem cōnscendit, et quamquam mare saeviēbat in altum tamen prōgredī gubernātōrem iubet et illō timente: “Quid timēs?” inquit, “Caesarem vehis.” Neque prius gubernātōrem cēdere adversae tempestātī passus est, quam paene obrutus est flūctibus.
+
+![Ālea](./chickering_images/cap_66_alea.png "Ālea")
 
 [^LXVI-1]: Clāmāvit: “Iacta ālea estō!”
 
@@ -974,6 +1010,8 @@ Catō Pompīēī partēs bellō cīvīlī secūtus est eōque victō exercitūs 
 
 Tum ferē prīmā vigiliā strictō gladiō semel iterumque sē percussit. Sanguinem cohibuērunt famulī; illa passus, dum discēderent, manūs volneribus attulit secūtāque sanguinis vī animam ēgit. Caesar audītā Catōnis morte dīxit, illum glōriae suae invīdisse, quod sibi laudem servātī Catōnis adēmisset, bonaque eius līberīs incolumia servāvit.
 
+![Gladiī](./chickering_images/cap_73_gladii.png "Gladiī")
+
 ## LXXIV. Mārcus Tullius Cicerō
 
 “Virēs adquīrit eundō”
@@ -1001,6 +1039,8 @@ Neque eō magis ab inceptō Catilīna dēstitit, sed īnfestīs signīs Rōmam p
 Senātus populusque Rōmānus Cicerōnem patrem patriae appellāvit. Cicerō ipse in ōrātiōne prō Sullā apertē dīcit, cōnsilium patriae servandae fuisse iniectum sibi ā diīs, cum Catilīna coniūrāsset contrā eam. “Dī immortālēs,” inquit, “vōs certē incendistis tum animum meum cupiditāte servandae patriae. Vōs vocāstis mē ā rēbus omnibus cēterīs et convertistis ad salūtem ūnam patriae. Vōs dēnique praetulistis mentī meae clārissimum lūmen in tenebrīs tantīs. Tribuam enim vōbīs quae sunt vestra. Nec vērō possum tantum dare ingeniō meō, ut vīderim sponte meā in tempestāte illā ācerrimā reī pūblicae, quid esset optimum factū.”
 
 Paucīs post annīs Cicerōnī diem dīxit Clōdius tribūnus plēbis, quod cīvēs Rōmānōs contrā lēgēs necāvisset. Senātus trīstis, ut in pūblicō lūctū, veste mūtātā prō eō precābātur. Cicerō, cum posset armīs salūtem suam dēfendere, māluit urbe cēdere, quam suā causā caedem fierī. Proficīscentem omnēs bonī flentēs prōsecūtī sunt. Deinde Clōdius prōposuit ut M. Tulliō ignī et aquā interdīcerētur: illīus domum incendit.
+
+![Signa](./chickering_images/cap_76_signa.png "Signa")
 
 ## LXXVII. Dē morte Cicerōnis
 
