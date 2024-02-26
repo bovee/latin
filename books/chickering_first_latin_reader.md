@@ -6,7 +6,7 @@ lang: la
 license: CC-BY-SA 4.0 http://creativecommons.org/licenses/by-sa/4.0/
 original_scan: https://archive.org/details/firstlatinreader00chicrich
 notes:
-  Footnotes preserved. Pensa and Appendices omitted. Macrons updated to current Wiktionary (e.g. āc to ac).
+  Footnotes preserved. Pensa omitted. Macrons updated to current Wiktionary (e.g. āc to ac).
 ---
 # First Latin Reader
 
@@ -1069,3 +1069,275 @@ Quam diū rēs pūblica Rōmāna per eōs gerēbātur quibus sē ipsa commīsera
 Multa sunt ab eō dicta quae rīsū sunt digna. Cum Lentulum, parvum hominem, vīdisset longō gladiō cinctum: “Quis,” inquit, “illum ad gladium revīnxit?” Mulier quaedam iūniōrem sē, quam erat, simulāns dīcēbat sē trīgintā sōlum annōs habēre; cui Cicerō: “Vērum est,” inquit, “nam hoc vīgintī annōs audiō.”
 
 Caesar, alterō cōnsule mortuō diē Decembris ultimā, Canīnium cōnsulem hōrā septimā in reliquam diēī partem renūntiāverat; ad quem cum plērīque īrent salūtem dīcendī grātiā dē mōre: “Mātūrēmus,” inquit Cicerō, “priusquam abeat magistrātū.” Dē eōdem Canīniō scrīpsit Cicerō: “Nōn est dubium quīn mīrā vigiliā fuerit Canīnius, quī tōtō suō cōnsulātū somnum nōn vīderit.”
+
+# Appendix Litterārum
+
+## I
+
+Gallia est omnis dīvīsa in partēs trēs, quārum ūnam incolunt Belgae, aliam Aquītānī, tertiam quī ipsōrum linguā Celtae, nostrā Gallī appellantur. Hī omnēs linguā, īnstitūtīs, lēgibus inter sē differunt. Gallōs ab Aquītānīs Garumna flūmen, ā Belgīs Matrona et Sēquana dīvidit. Hōrum omnium fortissimī sunt Belgae, proptereā quod ā cultū atque hūmānitāte prōvinciae longissimē absunt, minimēque ad eōs mercātōrēs saepe commeant atque ea quae ad effēminandōs animōs pertinent important, proximīque sunt Germānīs, quī trāns Rhēnum incolunt, quibuscum continenter bellum gerunt. Quā dē causā Helvētiī quoque reliquōs Gallōs virtūte praecēdunt, quod ferē cotīdiānīs proeliīs cum Germānīs contendunt, cum aut suīs fīnibus eōs prohibent, aut ipsī in eōrum fīnibus bellum gerunt. Eōrum ūna pars, quam Gallōs obtinēre dictum est, initium capit ā flūmine Rhodanō; continētur Garumnā flūmine, Ōceanō, fīnibus Belgārum; attingit etiam ab Sēquanīs et Helvētiīs flūmen Rhēnum; vergit ad septentriōnēs. Belgae ab extrēmīs Galliae fīnibus oriuntur; pertinent ad īnferiōrem partem flūminis Rhēnī; spectant in septentriōnēs et orientem sōlem. Aquītānia ā Garumnā flūmine ad Pārēnaeōs montēs et eam partem Ōceanī quae est ad Hispāniam pertinet; spectat inter occāsum sōlis et septentriōnēs.
+
+*C. Iūlius Caesar.*
+
+## II
+
+Quō usque tandem abūtēre, Catilīna, patientiā nostrā? Quam diū etiam furor iste tuus nōs ēlūdet? Quem ad fīnem sēsē effrēnāta iactābit audācia? Nihilne tē nocturnum praesidium Palātī, nihil urbis vigiliae, nihil timor populī, nihil concursus bonōrum omnium, nihil hic mūnītissimus habendī senātūs locus, nihil hōrum ōra voltūsque mōvērunt? Patēre tua cōnsilia nōn sentīs? Cōnstrictam iam hōrum omnium scientiā tenērī coniūrātiōnem tuam nōn vidēs? Quid proximā, quid superiōre nocte ēgeris, ubi fueris, quōs convocāveris, quod cōnsilī cēperis, quem nostrum ignōrāre arbitrāris?
+
+Ō tempora ! Ō mōrēs! Senātus haec intellegit, cōnsul videt: hic tamen vīvit. Vīvit? Immō vērō etiam in senātum venit, fit pūblicī cōnsilī particeps, notat et dēsignat oculīs ad caedem ūnum quemque nostrum. Nōs autem, fortēs virī, satis facere reī pūblicae vidēmur, sī istīus furōrem ac tēla vītēmus.
+
+*M. Tullius Cicerō.*
+
+## III
+
+Arma virumque canō, Trōiae quī prīmus ab ōrīs  
+Ītaliam, fātō profugus, Lāvīniaque vēnit  
+lītora, multum ille et terrīs iactātus et altō  
+vī superum saevae memorem Iūnōnis ob īram;  
+multa quoque et bellō passus, dum conderet urbem,  
+īnferretque deōs Latiō, genus unde Latīnum,  
+Albānīque patrēs, atque altae moenia Rōmae.  
+
+Mūsa, mihī causās memorā, quō nūmine laesō,  
+quidve dolēns, rēgīna deum tot volvere cāsūs  
+īnsignem pietāte virum, tot adīre labōrēs  
+impulerit. Tantaene animīs caelestibus īrae?  
+
+*P. Vergilius Marō.*
+
+## IV
+
+*Meliboeus. Tītyrus*
+
+Tītyre, tū patulae recubāns sub tegmine fāgī  
+silvestrem tenuī Mūsam meditāris avēnā;  
+nōs patriae fīnēs et dulcia linquimus arva:  
+nōs patriam fugimus; tū, Tītyre, lentus in umbrā  
+fōrmōsam resonāre docēs Amaryllida silvās.  
+*T.* O Meliboee, deus nōbīs haec ōtia fēcit:  
+namque erit ille mihī semper deus; illius āram  
+saepe tener nostrīs ab ovīlibus imbuet agnus.  
+Ille meās errāre bovēs, ut cernis, et ipsum  
+lūdere, quae vellem, calamō permīsit agrestī.  
+
+*P. Vergilius Marō.*
+
+## V
+
+Lūgēte, ō Venerēs Cupīdinēsque;  
+et quantum est hominum venustiōrum.  
+Passer mortuus est meae puellae.  
+Passer, dēliciae meae puellae,  
+quem plūs illa oculīs suīs amābat:  
+nam mellītus erat suamque nōrat  
+ipsam tam bene quam puella mātrem.  
+Nec sēsē ā gremiō illius movēbat,  
+sed circumsiliēns modo hūc, modo illūc,  
+ad sōlam dominam usque pīpilābat.  
+Quī nunc it per iter tenebricōsum  
+illūc, unde negant redīre quemquam.  
+At vōbīs male sit, malae tenebrae  
+Orcī, quae omnia bella dēvorātis:  
+tam bellum mihi passerem abstulistis.  
+Vae factum male! Vae miselle passer,  
+tuā nunc operā meae puellae  
+fendō turgidulī rubent ocellī.  
+
+*C. Valerius Catullus.*
+
+## VI
+
+Issa est passere nēquior Catullī,  
+Issa est pūrior ōsculō columbae,  
+Issa est blandior omnibus puellīs,  
+Issa est cārior Indicīs lapillīs,  
+Issa est dēliciae catella Pūblī.  
+Hanc tū, sī queritur, loquī putābis:  
+sentit trīstitiamque gaudiumque.  
+Collō nīxa cubat capitque somnōs,  
+ut suspīria nūlla sentiantur.  
+Hanc nē lūx rapiat suprēma tōtam,  
+pictā Pūblius exprimit tabellā,  
+in quā tam similem vidēbis Issam,  
+ut sit tam similis sibī nec ipsa.  
+Issam dēnique pōne cum tabellā:  
+aut utramque putābis esse vēram,  
+aut utramque putābis esse pictam.  
+
+*C. Valerius Mārtiālis.*
+
+## VII
+
+Beātus ille, quī procul negōtiīs,  
+ut prīsca gēns mortālium,  
+paterna rūra bōbus exercet suīs,  
+solūtus omnī faenore,  
+neque excitātur classicō mīles trucī,  
+neque horret īrātum mare,  
+fōrumque vītat, et superba cīvium  
+potentiōrum līmina.  
+Ergō aut adultā vītium prōpāgine  
+altās marītat pōpulōs,  
+aut in reductā valle mūgentium  
+prōspectat errantēs gregēs:  
+inūtilēsque falce rāmōs amputāns,  
+fēlīciōrēs īnserit;  
+aut pressa pūrīs mella condit amphorīs,  
+aut tondet īnfirmās ovēs.  
+
+*Q. Horātius Flaccus.*
+
+
+## VIII
+
+Ō fōns Bandusiae, splendidior vitrō,  
+dulcī digne merō, nōn sine flōribus,  
+crās dōnāberis haedō,  
+cui frōns turgida cornibus  
+
+prīmīs et venerem et proelia dēstinat;  
+frūstrā: nam gelidōs īnficiet tibi  
+rubrō sanguine rīvōs  
+lascīvī subolēs gregis.  
+
+Tē flagrantis atrōx hōra Canīculae  
+nescit tangere, tū frīgus amābile  
+fessīs vōmere taurīs  
+praebēs et pecorī vagō.  
+
+Fīēs nōbilium tū quoque fontium,  
+mē dīcente cavīs impositam īlicem  
+saxīs, unde loquācēs  
+lymphae dēsiliunt tuae.  
+
+*Q. Horārius Flaccus.*
+
+
+## IX
+
+Ēheu fugācēs, Postume, Postume,  
+lābuntur annī, nec pietās moram  
+rūgīs et īnstantī senectae  
+afferet indomitaeque mortī;  
+
+nōn, sī trecēnīs, quotquot eunt diēs,  
+amīce, plācēs illacrimābilem  
+Plūtōna taurīs, quī ter amplum  
+Gēryonēn Tityonque trīstī  
+
+compescit undā, scīlicet omnibus,  
+quīcumque terrae mūnere vēscimur  
+ēnāvigandā, sīve rēgēs  
+sīve inopēs erimus colōnī.  
+
+Frūstrā cruentō Mārte carēbimus  
+frāctīsque raucī flūctibus Hadriae,  
+frūstrā per autumnōs nocentem  
+corporibus metuēmus austrum:  
+
+vīsendus āter flūmine languidō  
+Cōcȳtos errāns et Danaī genus  
+īnfāme damnātusque longī  
+Sīsyphus Aeolidēs labōris.  
+
+*Q. Horātius Flaccus.*
+
+## X
+
+Exēgī monumentum aere perennius,  
+rēgālīque sitū pȳramidum altius;  
+quod nōn imber edāx, nōn aquilō impotēns  
+possit dīruere, aut innumerābilis  
+annōrum seriēs et fuga temporum.  
+Nōn omnis moriar multaque pars meī  
+vītābit Libitīnam: usque ego posterā  
+crēscam laude recēns, dum Capitōlium  
+scandet cum tacitā virgine pontifex.  
+Dīcar, quā violēns obstrepit Aufidus  
+et quā pauper aquae Daunus agrestium  
+rēgnāvit populōrum, ex humilī potēns  
+prīnceps Aeolium carmen ad Italōs  
+dēdūxisse modōs. Sūme superbiam  
+quaesītam meritīs, et mihi Delphicā  
+laurō cinge volēns, Melpomenē, comam.  
+
+*Q. Horrātius Flaccus.*
+
+## XI
+
+Iam rāra micant sīdera prōnō  
+languida mundō; nox victa vagōs  
+contrahit ignēs lūce renātā,  
+cōgit nitidum Phōsphoros agmen;  
+signum celsī glaciāle polī  
+lūcem versō tēmōne vocat.  
+Iam caeruleīs ēvectus equīs  
+Tītan summā prōspicit Oetā;  
+iam Cadmēīs incluta Bacchīs  
+aspera diē dūmēta rubent  
+Phoebīque fugit reditūra soror.  
+Labor exoritur dūrus et omnēs  
+agitat cūrās aperitque domōs.  
+
+*L. Annaeus Seneca*
+
+## XII
+
+Solvite tantīs animum mōnstrīs,  
+solvite superī, caecam in melius  
+flectite mentem. Tūque, ō domitor  
+Somne malōrum, requiēs animī,  
+pars hūmānae melior vītae,  
+volucre ō mātris genus Astraeae,  
+frāter dūrae languide mortis,  
+vērīs miscēns falsa, futūrī  
+certus et īdem pessimus auctor,  
+pāx errōrum, portus viae,  
+lūcis requiēs noctisque comes,  
+quī pār rēgī famulōque venīs,  
+pavidum lētī genus hūmānum  
+cōgis longam discere noctem:  
+placidus fessum lēnisque fovē,  
+preme dēvīnctum torpōre gravī;  
+sopor indomitōs alliget artūs  
+nec torva prius pectora linquat,  
+quam mēns repetat prīstina cursum.  
+
+*L. Annaeus Seneca.*
+
+## XIII
+
+Disertissime Rōmulī nepōtum,  
+quot sunt quotque fuēre, Mārce Tullī,  
+quotque post aliīs erunt in annīs,  
+grātiās tibi maximās Catullus  
+agit, pessimus omnium poēta,  
+tantō pessimus omnium poēta  
+quantō tū optimus omnium’s patrōnus.  
+
+*C. Valerius Catullus.*
+
+## XIV
+
+Venient annīs  
+saecula sērīs, quibus Ōceanus  
+vincula rērum laxet, et ingēns  
+pateat tellūs, Tēthysque novōs  
+dētegat orbēs, nec sit terrīs  
+ultima Thūlē.  
+
+*L. Annaeus Seneca.*
+
+## XV
+
+Ō Domine Deus!  
+spērāvī in tē;  
+ō cāre mī Iēsū!  
+nunc līberā mē.  
+In dūrā catēnā,  
+in miserā poenā,  
+dēsīderō tē.  
+Languendō, gemendō,  
+et genūflectendō,  
+adōrō, implōrō,  
+ut līberēs mē!  
+
+*Maria, Rēgina Scōtōrum.*
