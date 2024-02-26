@@ -1,6 +1,14 @@
+---
+title: Cicero's Selected Orations
+author: Charles E. Bennett
+date: 1904
+lang: la
+license: CC-BY-SA 4.0 http://creativecommons.org/licenses/by-sa/4.0/
+original_scan: https://www.google.com/books/edition/Cicero_s_selected_orations/J0Q_AQAAMAAJ
+notes:
+  Introduction, Notes and Vocabulary omitted. Slight updates to macronization.
+---
 # Cicero's Selected Orations 
-
-Charles E. Bennett
 
 ![Cicero](./bennett_cicero_images/01_catiline_i_cicero.png "Cicero")
 
@@ -172,7 +180,7 @@ Quid enim malī aut sceleris fingī aut cōgitārī potest, quod nōn ille conc�
 
 Nōn enim iam sunt mediocrēs hominum libīdinēs, nōn hūmānae ac tolerandae audāciae; nihil cōgitant nisi caedem, nisi incendia, nisi rapīnās. Patrimōnia sua profūdērunt, fortūnās suās obligāvērunt; rēs eōs iam prīdem dēseruit, fidēs nūper dēficere coepit; eadem tamen illa, quae erat in abundantiā, libīdō permanet. Quodsī in vīnō et āleā cōmissātiōnēs sōlum et scorta quaererent, essent illī quidem dēspērandī, sed tamen essent ferendī; hōc vērō quis ferre possit, inertēs hominēs fortissimīs virīs īnsidiārī, stultissimōs prūdentissimīs, ēbriōsōs sōbriīs, dormientīs vigilantibus? Quī mihi accubantēs in convīviīs, complexī mulierēs impudīcās, vīnō languidī, cōnfertī cibō, sertīs redimītī, unguentīs oblitī, dēbilitātī stuprīs, ērūctant sermōnibus suīs caedem bonōrum atque urbis incendia.
 
-**11.** Quibus ego cōnfīdō impendōre fàtum aliquod, et poenam iam diū improbitātī, nēquitiae scelerī, libīdinī dēbitam aut īnstāre iam plānē aut certē appropinquāre. Quōs sī meus cōnsulātus, quoniam sānāre nōn potest, sustulerit, nōn breve nesciō quod tempus, sed multa saecula prōpāgārit reī pūblicae.
+**11.** Quibus ego cōnfīdō impendōre fātum aliquod, et poenam iam diū improbitātī, nēquitiae scelerī, libīdinī dēbitam aut īnstāre iam plānē aut certē appropinquāre. Quōs sī meus cōnsulātus, quoniam sānāre nōn potest, sustulerit, nōn breve nesciō quod tempus, sed multa saecula prōpāgārit reī pūblicae.
 
 Nūlla est enim nātiō, quam pertimēscāmus, nūllus rēx, quī bellum populō Rōmānō facere possit. Omnia sunt externa ūnīus virtūte terrā marīque pācāta; domesticum bellum manet; intus īnsidiae sunt, intus inclūsum perīculum est; intus est hostis. Cum lūxuriā nōbīs, cum āmentiā, cum scelere certandum est. Huic ego mē bellō ducem profiteor, Quirītēs; suscipiō inimīcitiās hominum perditōrum; quae sānārī poterunt, quācumque ratiōne sānābō; quae resecanda erunt, nōn patiar ad perniciem cīvitātis manēre. Proinde aut exeant aut quiēscant, aut sī et in urbe et in eīdem mente permanent, ea, quae merentur, exspectent.
 

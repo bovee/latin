@@ -1,6 +1,16 @@
+---
+title: Pons Tironum
+author:
+ - R.B. Appleton
+ - W.H.S Jones
+date: 1914
+lang: la
+license: CC-BY-SA 4.0 http://creativecommons.org/licenses/by-sa/4.0/
+original_scan: https://archive.org/details/appleton-reginald-jones-william-pons-tironum
+notes:
+  Index Verbōrum omitted. Macrons updated to current Wiktionary (e.g. āc to ac).
+---
 # Pons Tironum
-
-Quem fecerunt R.B. Appleton et W.H.S Jones
 
 ![Domūs](appleton_pons_tironum_images/01_domus.png "Domūs")
 
@@ -26,10 +36,10 @@ Posteā pater hōc dē Ligurīnō scrīpsit carmen:—
 Et stantī legis et legis sedentī,  
 Currentī legis et legis morantī.  
 In thermās fugiō; sonās ad aurem.  
-Piscīnam peto: nōn licet natāre:  
+Piscīnam petō: nōn licet natāre:  
 Ad cēnam properō; tenēs euntem.  
 Ad cēnam veniō; fugās sedentem.  
-Lassus dormio; suscitās iacentem.  
+Lassus dormiō; suscitās iacentem.  
 
 Quam pulchrum est carmen! Ego quoque dum carmina audiō poēta fierī volō. Nōnnumquam versūs compōnere cōnor, sed malī, immō vērō pessimī, sunt versiculī. Aliquando versiculōs quōs scrīpsī lūdī magistrō mōnstrō, sed ille “Vīsne, Lūcī,” inquit, “poēta fierī?” Ego aiō, et ille semper mihi imperat ut Graecōs scrīptōrēs identidem diēs noctēsque perlegam ut optima imiter exempla. Sed rēs est difficillima; multō facilius mihi vidētur esse prō patriā pugnāre. Herī dum domum redeō multōs vīdī mīlitēs, et mīles fierī et ipse cōnstituī Quam pulchram speciem prae sē ferunt mīlitēs! Ut dulce et decōrum est prō patriā pugnāre! Quam fortēs videntur esse mīlitēs! Ut nihil honestius agere possumus quam prō patriā morī! Nihil pulchrius esse potest quam mīlitis habitus. Ut hunc habitum videās spectā tabulam pictam.
 

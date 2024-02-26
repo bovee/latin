@@ -1,6 +1,15 @@
+---
+title: Eutropi Historia Romana
+subtitle: Selections from the History of the Republican Period
+author: Victor S. Clark
+date: 1897
+lang: la
+license: CC-BY-SA 4.0 http://creativecommons.org/licenses/by-sa/4.0/
+original_scan: https://archive.org/details/eutropihistoria00clargoog
+notes:
+  Exercises preserved. Notes and Vocabulary omitted. Macrons updated to current Wiktionary (e.g. āc to ac).
+---
 # Eutropī Historia Rōmāna
-
-Victor S. Clark
 
 ## I. The Roman Kingdom, 753-509 B.C.
 

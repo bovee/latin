@@ -1,6 +1,14 @@
+---
+title: Caeser in Britain
+author: J.F. Dobson, M.A.
+date: 1905
+lang: la
+license: CC-BY-SA 4.0 http://creativecommons.org/licenses/by-sa/4.0/
+original_scan: https://www.google.com/books/edition/Caesar_in_Britain/Lj0gAAAAMAAJ
+notes:
+  Vocabulary omitted. Macrons updated to current Wiktionary (e.g. āc to ac).
+---
 # Caesar in Britain
-
-J.F. Dobson, M.A.
 
 ## 1. The population of Britain; their habits, and the products of the island.
 

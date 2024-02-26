@@ -1,10 +1,20 @@
+---
+title: Virgil's Aeneid
+author:
+ - H.R. Fairclough, Ph.D.
+ - Seldon L. Brown, A.M.
+date: 1919
+lang: la
+license: CC-BY-SA 4.0 http://creativecommons.org/licenses/by-sa/4.0/
+original_scan: https://archive.org/details/aeneidbooks16wit00virguoft
+notes:
+  The original text has books 1 through 6, but only book 1 is macronized so the others were omitted for OCR. Notes and Vocabulary omitted. Only slight changes to macrons.
+---
 # Virgil's Aeneid
-
-H.R. Fairclough, Ph.D. and Seldon L. Brown, A.M.
 
 ## Liber I.
 
-*The poet's theme.
+*The poet's theme.*
 
 Arma virumque canō, Trōiae! Quī prīmus ab ōrīs  
 Ītaliam fātō profugus Lāvīniaque? Vēnit  
@@ -14,14 +24,14 @@ multa quoque et bellō passus, dum conderet urbem
 īnferretque deōs Latiō; genus unde Latīnum  
 Albānīque patrēs atque altae moenia Rōmae.  
 
-*Invocation.
+*Invocation.*
 
 Mūsa, mihī causās memorā, quō nūmine laesō  
 quidve dolēns rēgīna deum tot volvere cāsūs  
 īnsignem pietāte virum, tot adīre labōrēs  
 impulerit. Tantaene animīs caelestibus īrae?  
 
-*Juno’s hatred of the Trojans.
+*Juno’s hatred of the Trojans.*
 
 Urbs antīqua fuit (Tyriī tenuēre colōnī)  
 Karthāgō, Ītaliam contrā Tiberīnaque longē  
@@ -46,7 +56,7 @@ arcēbat longē Latiō; multōsque per annōs
 errābant, āctī fātīs, maria omnia circum.  
 Tantae mōlis erat Rōmānam condere gentem.  
 
-*She plans their destruction.
+*She plans their destruction.*
 
 Vix ē cōnspectū Siculae tellūris in altum  
 vēla dabant laetī et spūmās salis aere ruēbant,  
@@ -65,7 +75,7 @@ et soror et coniūnx, ūnā cum gente tot annōs
 bella gerō. Et quisquam nūmen Iūnōnis adōrat  
 praetereā aut supplex ārīs impōnet honōrem?’  
 
-*Her visit to Aeolus.
+*Her visit to Aeolus.*
 
 Tālia flammātō sēcum dea corde volūtāns  
 nimbōrum in patriam, loca fēta furentibus Austrīs,  
@@ -83,7 +93,7 @@ imposuit rēgemque dedit, quī foedere certō
 et premere et laxās scīret dare iussus habēnās.  
 Ad quem tum Iūnō supplex hīs vōcibus ūsa est:  
 
-*Aeolus promises her his aīd.
+*Aeolus promises her his aīd.*
 
 ‘Aeole, namque tibi dīvum pater atque hominum rēx  
 et mulcēre dedit flūctūs et tollere ventō,  
@@ -103,7 +113,7 @@ Tū mihi quodcumque hoc rēgnī, tū scēptra Īovemque
 conciliās, tū dās epulīs accumbere dīvum,  
 nimbōrumque facis tempestātumque potentem.’  
 
-*The storm
+*The storm*
 
 Haec ubi dicta, cavum conversā cuspide montem  
 impulit in latus; ac ventī, velut agmine factō,  
@@ -127,7 +137,7 @@ saevus ubi Aeacidae tēlō iacet Hector, ubi ingēns
 Sarpēdōn, ubi tot Simoīs correpta sub undīs  
 scūta virum galeāsque et fortia corpora volvit!’  
 
-*The shipwreck.
+*The shipwreck.*
 
 Tālia iactantī strīdēns Aquilōne procella  
 vēlum adversa ferit flūctūsque ad sīdera tollit;  
@@ -152,7 +162,7 @@ et quā vectus Abās et quā grandaevus Alētēs,
 vīcit hiems; laxīs laterum compāgibus omnēs  
 accipiunt inimīcum imbrem rīmīsque fatīscunt.  
 
-*Neptune rebukes the winds.
+*Neptune rebukes the winds.*
 
 Intereā magnō miscērī murmure pontum  
 ēmissamque hiemem sēnsit Neptūnus et īmīs  
@@ -173,7 +183,7 @@ sed mihi sorte datum. Tenet ille immānia saxa,
 vestrās, Eure, domōs; illā sē iactet in aulā  
 Aeolus et clausō ventōrum carcere rēgnet.’  
 
-*He stills the waves.
+*He stills the waves.*
 
 Sīc ait, et dictō citius tumida aequora plācat  
 collēctāsque fugat nūbēs sōlemque redūcit.  
@@ -191,7 +201,7 @@ sīc cūnctus pelagī cecidit fragor, aequora postquam
 prōspiciēns genitor caelōque invectus apertō  
 flectit equōs currūque volāns dat lōra secundō.  
 
-*The landing in Africa.
+*The landing in Africa.*
 
 Dēfessī Aeneadae, quae proxima lītora, cursū  
 contendunt petere et Libyae vertuntur ad ōrās.  
@@ -217,7 +227,7 @@ Tum Cererem corruptam undīs Cereāliaque arma
 expediunt fessī rērum frūgēsque receptās  
 et torrēre parant flammīs et frangere saxō.  
 
-*Aeneas slays deer.
+*Aeneas slays deer.*
 
 Aenēās scopulum intereā cōnscendit et omnem  
 prōspectum lātē pelagō petit, Anthea sī quem  
@@ -249,7 +259,7 @@ tendimus in Latium, sēdēs ubi fāta quiētās
 ostendunt; illīc fās rēgna resurgere Trōiae.  
 Dūrāte et vōsmet rēbus servāte secundīs.’  
 
-*The Trojans partake of food and mourn for the lost.
+*The Trojans partake of food and mourn for the lost.*
 
 Tālia vōce refert, cūrīsque ingentibus aeger  
 spem voltū simulat, premit altum corde dolōrem.  
@@ -267,7 +277,7 @@ Praecipuē pius Aenēās nunc ācris Orontī,
 nunc Amycī cāsum gemit et crūdēlia sēcum  
 fāta Lycī fortemque Gyān fortemque Cloanthum.  
 
-*Venus appeals to Jupiter.
+*Venus appeals to Jupiter.*
 
 Et iam fīnis erat, cum Iuppiter aethere summō  
 dēspiciēns mare vēlivolum terrāsque iacentīs  
@@ -301,7 +311,7 @@ nāvibus (īnfandum!) āmissīs ūnīus ob īram
 prōdimur atque Italīs longē disiungimur ōrīs.  
 Hic pietātis honōs? Sīc nōs in scēptra repōnis?’  
 
-*Jupīter prophesies the future of the Trojan race.
+*Jupīter prophesies the future of the Trojan race.*
 
 Ollī subrīdēns hominum sator atque deōrum  
 voltū, quō caelum tempestātēsque serēnat,  
@@ -347,7 +357,7 @@ claudentur Bellī portae; Furor impius intus
 saeva sedēns super arma et centum vīnctus aēnīs  
 post tergum nōdīs fremet horridus ōre cruentō.’  
 
-*Mercury’s mission to Carthage.
+*Mercury’s mission to Carthage.*
 
 Haec ait et Māiā genitum dēmittit ab altō,  
 ut terrae utque novae pateant Karthāginis arcēs  
@@ -358,7 +368,7 @@ Et iam iussa facit, pōnuntque ferōcia Poenī
 corda volente deō; in prīmīs rēgīna quiētum  
 accipit in Teucrōs animum mentemque benignam.  
 
-*Aeneas meets Venus.
+*Aeneas meets Venus.*
 
 At pius Aenēās, per noctem plūrima volvēns,  
 ut prīmum lūx alma data est, exīre locōsque  
@@ -392,7 +402,7 @@ iactēmur, doceās; ignārī hominumque locōrumque
 errāmus, ventō hūc vāstīs et flūctibus āctī;  
 multa tibi ante ārās nostrā cadet hostia dextrā.’  
 
-*The story of Dido.
+*The story of Dido.*
 
 Tum Venus: ‘Haud equidem tālī mē dignor honōre;  
 virginibus Tyriīs mōs est gestāre pharetram  
@@ -432,7 +442,7 @@ Sed vōs quī tandem, quibus aut vēnistis ab ōrīs,
 quōve tenētis iter?’ Quaerentī tālibus ille  
 suspīrāns īmōque trahēns ā pectore vōcem:  
 
-*Aeneas narrates his misfortunes.
+*Aeneas narrates his misfortunes.*
 
 Ō dea, sī prīmā repetēns ab orīgine pergam,  
 et vacet annālīs nostrōrum audīre labōrum,  
@@ -450,7 +460,7 @@ Ipse ignōtus, egēns, Libyae dēserta peragrō,
 Eurōpā atque Asiā pulsus Nec plūra querentem  
 passa Venus mediō sīc interfāta dolōre est:  
 
-*Venus, interrupting, assures him of his comrades’ safety.
+*Venus, interrupting, assures him of his comrades’ safety.*
 
 ‘Quisquis es, haud, crēdō, invīsus caelestibus aurās  
 vītālīs carpis, Tyriam quī advēneris urbem.  
@@ -468,7 +478,7 @@ haud aliter puppēsque tuae pūbēsque tuōrum
 aut portum tenet aut plēnō subit ōstia vēlō.  
 Perge modo et, quā tē dūcit via, dīrige gressum.’  
 
-*The goddess reveals herself, then disappears.
+*The goddess reveals herself, then disappears.*
 
 Dīxit et āvertēns roseā cervīce refulsit  
 ambrosiaeque comae dīvīnum vertice odōrem  
@@ -487,7 +497,7 @@ Ipsa Paphum sublīmis abit sēdēsque revīsit
 laeta suās, ubi templum illī centumque Sabaeō  
 tūre calent ārae sertīsque recentibus hālant.  
 
-*Aeneas enters Carthage.
+*Aeneas enters Carthage.*
 
 Corripuēre viam intereā, quā sēmita mōnstrat.  
 Iamque ascendēbant collem, quī plūrimus urbī  
@@ -507,13 +517,13 @@ exercet sub sōle labor, cum gentis adultōs
 stīpant et dulcī distendunt nectare cellās,  
 aut onera accipiunt venientum, aut agmine factō  
 ignāvum fūcōs pecus ā praesaepibus arcent;  
-fervet opus redolentque thymō frāgrantia mella.  
+fervet opus redolentque thymō fragrantia mella.  
 ‘Ō fortūnātī, quōrum iam moenia surgunt!’  
 Aenēās ait et fastīgia suspicit urbis.  
 Īnfert sē saeptus nebulā (mīrābile dictū)  
 per mediōs miscetque virīs neque cernitur ūllī.  
 
-*Juno’s temple, with the scenes depicted on its walls.
+*Juno’s temple, with the scenes depicted on its walls.*
 
 Lūcus in urbe fuit mediā, laetissimus umbrae,  
 quō prīmum iactātī undīs et turbine Poenī  
@@ -533,7 +543,7 @@ artificumque manūs inter sē operumque labōrem
 mīrātur, videt īliacās ex ōrdine pugnās  
 bellaque iam fāmā tōtum volgāta per orbem,  
 Atrīdās Priamumque et saevum ambōbus Achillem.  
-Cōnstitit et lacrimāns, ‘Quis iam locus, inquit, c Achātē,  
+Cōnstitit et lacrimāns, ‘Quis iam locus,’ inquit, ‘Achātē,  
 quae regiō in terrīs nostrī nōn plēna labōris?  
 En Priamus! Sunt hīc etiam sua praemia laudī,  
 sunt lacrimae rērum et mentem mortālia tangunt.  
@@ -552,7 +562,7 @@ Parte aliā fugiēns āmissīs Trōilus armīs,
 īnfēlīx puer atque impār congressus Achillī,  
 fertur equīs currūque haeret resupīnus inānī,  
 lōra tenēns tamen; huic cervīxque comaeque trahuntur  
-per terram et versā pulvīs īnscrībitur hastā.  
+per terram et versā pulvis īnscrībitur hastā.  
 Intereā ad templum nōn aequae Palladis ībant  
 crīnibus Īliades passīs peplumque ferēbant,  
 suppliciter trīstēs et tūnsae pectora palmīs;  
@@ -563,13 +573,13 @@ Tum vērō ingentem gemitum dat pectore ab īmō,
 ut spolia, ut currūs, utque ipsum corpus amīcī  
 tendentemque manūs Priamum cōnspexit inermīs.  
 Sē quoque prīncipibus permixtum adgnōvit Achīvīs,  
-Eōāsque aciēs et nigrī Memnonis arma.  
-Dūcit Amāzonidum lūnātīs agmina peltīs 49  
+Ēōāsque aciēs et nigrī Memnonis arma.  
+Dūcit Amāzonidum lūnātīs agmina peltīs  
 Penthesilēa furēns mediīsque in mīlibus ārdet,  
 aurea subnectēns exsertae cingula mammae,  
 bellātrīx, audetque virīs concurrere virgō.  
 
-*Dido enters, and later the comrades of Aeneas appear.
+*Dido enters, and later the comrades of Aeneas appear.*
 
 Haec dum Dardaniō Aenēae mīranda videntur,  
 dum stupet obtūtūque haeret dēfīxus in ūnō,  
@@ -598,7 +608,7 @@ quae fortūna virīs, classem quō lītore linquant,
 quid veniant; cūnctīs nam lēctī nāvibus ībant  
 ōrantēs veniam et templum clāmōre petēbant.  
 
-*Ilioneus pleads for the Trojans.
+*Ilioneus pleads for the Trojans.*
 
 Postquam intrōgressī et cōram data cōpia fandī,  
 maximus Īlioneus placidō sīc pectore coepit:  
@@ -642,7 +652,7 @@ unde hūc advectī, rēgemque petāmus Acestēn.’
 Tālibus Īlioneus; cūnctī simul ōre fremēbant  
 Dardanidae.  
 
-*Dido dismisses their fears.
+*Dido dismisses their fears.*
 
 Tum breviter Dīdō voltum dēmissa profātur:  
 ‘Solvite corde metum, Teucrī, sēclūdite cūrās.  
@@ -663,7 +673,7 @@ adforet Aenēās! Equidem per lītora certōs
 dīmittam et Libyae lūstrāre extrēma iubēbō,  
 sī quibus ēiectus silvīs aut urbibus errat.’  
 
-*Aeneas stands revealed.
+*Aeneas stands revealed.*
 
 Hīs animum arrēctī dictīs et fortis Achātēs  
 et pater Aenēās iamdūdum ērumpere nūbem  
@@ -700,7 +710,7 @@ quae mē cumque vocant terrae.’ Sīc fātus, amīcum
 Īlionēa petit dextrā laevāque Serestum,  
 post aliōs, fortemque Gyān fortemque Cloanthum.  
 
-*Dido gives the Trojans a royal reception.
+*Dido gives the Trojans a royal reception.*
 
 Obstipuit prīmō aspectū Sīdōnia Dīdō,  
 cāsū deinde virī tantō, et sīc ōre locūta est:  
@@ -733,7 +743,7 @@ ingēns argentum mēnsīs, caelātaque in aurō
 fortia facta patrum, seriēs longissima rērum  
 per tot ducta virōs antīquā ab orīgine gentis.  
 
-*Aeneas gives presents to Dido.
+*Aeneas gives presents to Dido.*
 
 Aenēās (neque enim patrius cōnsistere mentem  
 passus amor) rapidum ad nāvīs praemittit Achātēn,  
@@ -750,7 +760,7 @@ maxima nātārum Priamī, collōque monīle
 bācātum et duplicem gemmīs aurōque corōnam.  
 Haec celerāns iter ad nāvīs tendēbat Achātēs.  
 
-*Venus, fearing Juno, weaves a plot.
+*Venus, fearing Juno, weaves a plot.*
 
 At Cytherēa novās artīs, nova pectore versat  
 cōnsilia, ut faciem mūtātus et ōra Cupīdō  
@@ -791,7 +801,7 @@ inrigat et fōtum gremiō dea tollit in altōs
 Īdaliae lūcōs, ubi mollis amāracus illum  
 flōribus et dulcī adspīrāns complectitur umbrā.  
 
-*Dido gives a grand banquet.
+*Dido gives a grand banquet.*
 
 Tamque ībat dictō pārēns et dōna Cupīdō  
 rēgia portābat Tyriīs, duce laetus Achātē.  
@@ -813,7 +823,7 @@ pallamque et pictum croceō vēlāmen acanthō.
 Praecipuē īnfēlīx, pestī dēvōta futūrae,  
 explērī mentem nequit ārdēscitque tuendō  
 Phoenīssa et pariter puerō dōnīsque movētur.  
-Dnlle ubi complexū Aenēae collōque pependit  
+Ille ubi complexū Aenēae collōque pependit  
 et magnum falsī implēvit genitōris amōrem,  
 rēgīnam petit. Haec oculīs, haec pectore tōtō  
 haeret et interdum gremiō fovet, īnscia Dīdō,  

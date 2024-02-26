@@ -1,6 +1,15 @@
+---
+title: Fabulae
+subtitle: Virginibus Puerisque aut Narrandae aut Recitandae
+author: Reginald B. Appleton
+date: 1914
+lang: la
+license: CC-BY-SA 4.0 http://creativecommons.org/licenses/by-sa/4.0/
+original_scan: https://archive.org/details/fabulaevirginibu00appl
+notes:
+  Index Verbōrum omitted. Macrons updated to current Wiktionary (e.g. āc to ac).
+---
 # Fābulae
-
-Reginald B. Appleton
 
 ## Dē Sāgīs
 
@@ -435,7 +444,7 @@ Harmodius, cum tyrannum Hipparchum interficere vellet, prīnō porcum occīdit, 
 
 ## Palamēdēs
 
-Ulixēs, quod Palamēdis dolō erat dēceptus, in diēs māchinābātur quōmodo eum interficeret. Tandem, initō cōnsiliō, ad Agamemnonem mīlitem mīsit quī dīceret castra eī movenda esse Agamemnōn igitur castra movērī iussit. Ulixēs autem magnum pondus aurī, ubi tabernāculum Palamēdis fuerat, clam noctū obruit; epistulam quoque cōnscrīptam Phrygī captīvō ad Priamum perferendam dedit, mīlitemque suum priōrem mīsit, quī eum nōn longē ā castrīs interficeret. Posterō diē, cum exercitus in castra redīret, mīles quīdam epistulam, quam Ulixēs scrīpserat, super cadāver Phrygis positam, invēnit, quam statim ad Agamemnonem attulit. In epistulā serīpta sunt haec verba, *Palamēdī ū Priamō missa*, tantumque aurī eī pollicitus erat Priamus, quantum Ulixēs in tabernāculō obruerat, sī castra Agamemnonis, ut eī prōmīserat, prōdidissst. Itaque Palamēdēs ad rēgem est adductus, sed factum negāvit. Mīlitēs autem ad tabernāculum ēius iērunt aurumque effōdērunt. Quod Agamemnōn cum vīdisset, vērē factum esse crēdidit. Quō cognitō, Palamēdēs, dolō Ulixis dēceptus, ab ūniversō exercitū innocēns est damnātus.
+Ulixēs, quod Palamēdis dolō erat dēceptus, in diēs māchinābātur quōmodo eum interficeret. Tandem, initō cōnsiliō, ad Agamemnonem mīlitem mīsit quī dīceret castra eī movenda esse Agamemnōn igitur castra movērī iussit. Ulixēs autem magnum pondus aurī, ubi tabernāculum Palamēdis fuerat, clam noctū obruit; epistulam quoque cōnscrīptam Phrygī captīvō ad Priamum perferendam dedit, mīlitemque suum priōrem mīsit, quī eum nōn longē ā castrīs interficeret. Posterō diē, cum exercitus in castra redīret, mīles quīdam epistulam, quam Ulixēs scrīpserat, super cadāver Phrygis positam, invēnit, quam statim ad Agamemnonem attulit. In epistulā serīpta sunt haec verba, *Palamēdī ū Priamō missa*, tantumque aurī eī pollicitus erat Priamus, quantum Ulixēs in tabernāculō obruerat, sī castra Agamemnonis, ut eī prōmīserat, prōdidisset. Itaque Palamēdēs ad rēgem est adductus, sed factum negāvit. Mīlitēs autem ad tabernāculum ēius iērunt aurumque effōdērunt. Quod Agamemnōn cum vīdisset, vērē factum esse crēdidit. Quō cognitō, Palamēdēs, dolō Ulixis dēceptus, ab ūniversō exercitū innocēns est damnātus.
 
 ## Cūra
 

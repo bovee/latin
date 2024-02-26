@@ -1,6 +1,14 @@
+---
+title: First Latin Reader
+author: Edward C. Chickering, Ph.D
+date: 1917
+lang: la
+license: CC-BY-SA 4.0 http://creativecommons.org/licenses/by-sa/4.0/
+original_scan: https://archive.org/details/firstlatinreader00chicrich
+notes:
+  Footnotes preserved. Pensa and Appendices omitted. Macrons updated to current Wiktionary (e.g. āc to ac).
+---
 # First Latin Reader
-
-Edward C. Chickering, Ph.D.
 
 ## Prōlūsiō
 
@@ -181,7 +189,7 @@ Dēdecus id vidētur patribus plēbīque[^VII-4]; itaque rapiunt in iūs Horāti
 
 Nōn diū pāx Albāna mānsit, nam Mettius, dux Albānōrum, cīvēs suōs sē dēficere vīdit, graviter enim ferēbant[^VIII-1] ūnum paucōrum certāmen fīnem bellī fēcisse. Itaque Vēientēs Fīdēnātēsque ad bellum contrā Rōmānōs impulit. Ipsum Tullus in auxilium arcessīvit, sed ille aciem in collem subdūxit et fortūnam bellī exspectāvit. Tullus hoc intellegit et clāmat: “Ego Mettium hoc facere iussī, hostēs ā tergō[^VIII-2] circumvenīre volumus!” Propter hoc audītum magnopere perterritī hostēs victī sunt.
 
-Posterō diē[^VIII-3] Mettius ad Tullum vēnit, quī tamen iussit eum ad quattuor equōs vincīrī et in dīversa dīripī. Deinde Tullus Albam propter ducis maleficium dēlēvit et Albānōs Rōmam trānsīre iussit. Rōma interim crēvit propter Albae exitium; duplex factus est cīvium numerus; mōns Caelius ad urbem additus est et, quod frequentius incolī voluit, eum sēdem rēgnī Tullus fēcit ibique deinde incoluit. Ob auctās vīrēs audāx factus bellum contrā Sabīnōs gessit; nūlla quidem quiēs armōrum data est. Crēdidit enim rēx bellicōsus magis valēre mīlitiae[^VIII-4]] quam domī[^VIII-4] iuvenum corpora.
+Posterō diē[^VIII-3] Mettius ad Tullum vēnit, quī tamen iussit eum ad quattuor equōs vincīrī et in dīversa dīripī. Deinde Tullus Albam propter ducis maleficium dēlēvit et Albānōs Rōmam trānsīre iussit. Rōma interim crēvit propter Albae exitium; duplex factus est cīvium numerus; mōns Caelius ad urbem additus est et, quod frequentius incolī voluit, eum sēdem rēgnī Tullus fēcit ibique deinde incoluit. Ob auctās vīrēs audāx factus bellum contrā Sabīnōs gessit; nūlla quidem quiēs armōrum data est. Crēdidit enim rēx bellicōsus magis valēre mīlitiae[^VIII-4] quam domī[^VIII-4] iuvenum corpora.
 
 Sed ipsum quoque longa aegritūdō fatīgāvit. Tum vērō frāctī sunt cum[^VIII-5] corpus tum[^VIII-5] spīritūs illī ferōcēs, neque ūlla rēs deinde nisi sacra eum dēlectāvit. Memorant Tullum et domum eius propter fulminis ictum exustum esse. Tullus magnam glōriam bellicam habuit; rēgnāvit annōs trīgintā duōs.
 

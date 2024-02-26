@@ -19,7 +19,7 @@ I then manually edited the `.txt` files (see Vim section below) to make sure the
 Once I had a folder of `.gt.txt` and `.png` files from the above, I ran `make training` to generate the final `.traineddata` file.
 I then ran this model against a book again to generate more `.gt.txt` and `.png` files and then re-ran it again on those, etc.
 
-The current model (v2) was trained with a ~400 new samples (on top of `START_MODEL=lat`) and has a minimal training error rate (BCER) of 0.054%.
+The current model (v3) was trained with a ~1000 new samples (on top of `START_MODEL=lat`) and has a minimal training error rate (BCER) of 0.345%.
 
 ## OCRing a Book
 
@@ -34,15 +34,17 @@ ocrmypdf "Appleton - Fabulae.pdf" - --output-type=none -l Latin_macron --pages 1
 
 ## Generating a dictionary file
 
-The `process_kaiki.py` script here will generate a `latin_words.txt` file that can be used for various purposes.
+The `process_kaiki.py` script here will generate a `latin_words_full.txt` file that can be used for various purposes.
 
-The `latin_words.txt.bz2` is a compressed version of its output generated from a dump downloaded on February 7th, 2024.
+The `latin_words_full.txt.bz2` is a compressed version of its output generated from a dump downloaded on February 7th, 2024.
+
+It will also generate `.dic` and `.aff` files that can be used as a Latin dictionary in common word processing applications. These differ slightly from the `txt` version in that they will not flag words with enclictics like `-que`, etc.
  
 ## Vim
 
 Run the following to import the word list and generate a Vim dictionary from it:
 ```
-mkspell ~/.vim/spell/la ./latin_words.txt
+mkspell ~/.vim/spell/la ./latin_words
 ```
 To highlight misspellings, I added the following to my .vimrc before my colorscheme:
 ```vim
