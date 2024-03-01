@@ -5,6 +5,7 @@ author:
  - Seldon L. Brown, A.M.
 date: 1919
 lang: la
+edited: true
 license: CC-BY-SA 4.0 http://creativecommons.org/licenses/by-sa/4.0/
 original_scan: https://archive.org/details/aeneidbooks16wit00virguoft
 notes:

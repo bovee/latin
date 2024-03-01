@@ -3,6 +3,7 @@ title: A Third Latin Reader and Writer
 author: C.M. Dix, M.A.
 date: 1892
 lang: la
+edited: true
 license: CC-BY-SA 4.0 http://creativecommons.org/licenses/by-sa/4.0/
 original_scan: https://archive.org/details/thirdlatinreader00dixc
 notes:

@@ -4,6 +4,7 @@ subtitle: Fābellae ex T. Līvī Historia
 author: F.R. Dale, B.A.
 date: 1915
 lang: la
+edited: true
 license: CC-BY-SA 4.0 http://creativecommons.org/licenses/by-sa/4.0/
 original_scan: https://www.google.com/books/edition/Reges_consulesque_romani/x_FEAQAAIAAJ
 notes:

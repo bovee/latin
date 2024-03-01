@@ -3,6 +3,7 @@ title: Caeser in Britain
 author: J.F. Dobson, M.A.
 date: 1905
 lang: la
+edited: true
 license: CC-BY-SA 4.0 http://creativecommons.org/licenses/by-sa/4.0/
 original_scan: https://www.google.com/books/edition/Caesar_in_Britain/Lj0gAAAAMAAJ
 notes:

@@ -3,6 +3,7 @@ title: Cicero's Selected Orations
 author: Charles E. Bennett
 date: 1904
 lang: la
+edited: true
 license: CC-BY-SA 4.0 http://creativecommons.org/licenses/by-sa/4.0/
 original_scan: https://www.google.com/books/edition/Cicero_s_selected_orations/J0Q_AQAAMAAJ
 notes:

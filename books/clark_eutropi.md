@@ -4,6 +4,7 @@ subtitle: Selections from the History of the Republican Period
 author: Victor S. Clark
 date: 1897
 lang: la
+edited: true
 license: CC-BY-SA 4.0 http://creativecommons.org/licenses/by-sa/4.0/
 original_scan: https://archive.org/details/eutropihistoria00clargoog
 notes:

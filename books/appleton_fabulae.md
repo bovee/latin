@@ -4,6 +4,7 @@ subtitle: Virginibus Puerisque aut Narrandae aut Recitandae
 author: Reginald B. Appleton
 date: 1914
 lang: la
+edited: true
 license: CC-BY-SA 4.0 http://creativecommons.org/licenses/by-sa/4.0/
 original_scan: https://archive.org/details/fabulaevirginibu00appl
 notes:
