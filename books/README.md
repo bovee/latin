@@ -28,10 +28,18 @@ pandoc -o fabulae.epub appleton_fabulae.md
  - [Dale - Rēgēs Cōnsulēsque Rōmānī](dale_reges.md)
  - [Dix - A Third Latin Reader and Writer](dix_third_reader.md)
  - [Dobson - Caesar in Britain](dobson_caesar_britain.md)
- - [Drake - Selected Fables of Phaedrus](drake_phaedrus.md)
+ - [Drake - Selected Fables of Phaedrus](drake_phaedrus.md)[^1]
+ - [Duff - Silva Latina](duff_silva_latina.md)
  - [Fairclough & Brown - Virgil's Aeneid](fairclough_brown_aeneid.md)
+ - [Fay](fay_carolus.md)
+ - [Knapp - The Aeneid of Virgil and Metamorphoses of Ovid](knapp_aeneid.md)[^1]
+ - [Maxey & Fay - A New Latin Primer](maxey_primer.md)
+ - [Moore - Porta Latina](moore_porta.md)
+ - [Newman - Easy Latin Plays](newman_plays.md)
  - [Ritchie - Fabulae Faciles](ritchie_fabulae_faciles.md)
  - [Sonnenschein - Ora Maritima](sonnenschein_ora_maritima.md)
+
+[^1]: Macrons weren't modified/updated for books consisting only of prose.
 
 ## List of Unedited Books or In-Progress Books
 
@@ -39,9 +47,7 @@ pandoc -o fabulae.epub appleton_fabulae.md
  - [Appleton & Jones - Puer Romanus](appleton_jones_puer_romanus.md)
  - [D'Ooge - Easy Latin](dooge_easy_latin.md)
  - [D'Ooge - Selections from Urbis Romae Viri Inlustres](dooge_urbis_romae.md)
- - [Duff - Silva Latina](duff_silva_latina.md)
  - [Fairclough & Richardson - Phormio of Terence](fairclough_richardson_phormio.md)
- - [Fay](fay_carolus.md)
  - [Flagg - The Lives of Cornelius Nepos](flagg_nepos.md)
  - [Forbes - Eight Orations of Cicero](forbes_cicero.md)
  - [Gallup - A Latin Reader](gallup_reader.md)
@@ -58,14 +64,10 @@ pandoc -o fabulae.epub appleton_fabulae.md
  - [Jones & Smith - Excerpta Brevia](jones_excerpta.md)
  - [Kelsey - Select Orations and Letters of Cicero](kelsey_cicero.md)
  - [Kirtland - Selections from the Correspondence of Cicero](kirtland_cicero.md)
- - [Knapp - The Aeneid of Virgil and Metamorphoses of Ovid](knapp_aeneid.md)
  - [Lord - Cicero de Amicitia](lord_amicitia.md)
  - [Lord - Livy Book I](lord_livy.md)
  - [Maxey - Cornelia](maxey_cornelia.md)
- - [Maxey & Fay - A New Latin Primer](maxey_primer.md)
  - [Miller & Beeson - Second Latin Book](miller_reader.md)
- - [Moore - Porta Latina](moore_porta.md)
- - [Newman - Easy Latin Plays](newman_plays.md)
  - [Nutting - A First Latin Reader](nutting_reader.md)
  - [Nutting - Ad Alpes](nutting_ad_alpes.md)
  - [Paine & Mainwaring - Primus Annus](paine_primus.md)

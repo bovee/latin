@@ -3,1208 +3,253 @@ title: Easy Latin Plays
 author: M.L. Newman
 date: 1913
 lang: la
-edited: false
+edited: true
 license: CC-BY-SA 4.0 http://creativecommons.org/licenses/by-sa/4.0/
 original_scan: http://www.archive.org/details/easylatinplays00newmrich
 notes:
+  Sentences capitalized and slight updates made for macronization. Vocabularies omitted.
 ---
-MA ER GRACCHORUM
+## Māter Gracchorum
 
-DRAMATIS PERSONAE
+### Drāmatis Persōnae
 
-CORNELIA.
+ - Cornēlia.
+ - Gaius Gracchus.
+ - Blossius.
+ - Marcus Octāvius.
+ - Tib. Gracchi Fīlius.
+ - Famulae.
+ - Cīvēs.
+ - Tribūnī.
+ - Senātōrēs.
 
-Garus GRrACCHUsS.
-Brossrvs.
+### Scaena I. Apud Cornēliam.
 
-Marcus OcravriUS.
-Tise. GRACCHI FILIUS.
-FAMULAE.
+*Cornēlia; G. Gracchus; famulae. Tib. Gracchus.*
 
-Crvss.
+*Gai.* Māter mea, cūr cessat Tiberius? Quid agit? Sōlitārius iam semper ego in Campō mē exerceō, vel in silvīs ferās captō sōlitārius.
 
-TRIBUNI.
+*Cor.* Frāter tuus, mī fīlī, prō patriā nostrā cōgitat et labōrat. Num vīs patris vestrī fīlium, Āfricānī nepōtem, esse dēgenerem? Num ille vēnātiōnibus studēbit, dum miseriīs premuntur cīvēs Rōmānī?
 
-SENATORES.
-ē MATER GRACCIIORUM
+**(clāmōrēs audiuntur)**
 
-ScAENA I. APUD CORNELIAII.
-Cornētiu; G. Gracchus; famulae. Tib. Grucchus.
+*populus (extrā).* Euge, euge! Salvē Gracche! Ecce Tiberius, tribūnus plēbis!
 
-Gai. māter mea, cūr cessat Tibērius? quid agit?
-solitārius iam semper ego in Campō me exerceō, vel
-in silvīs ferās captō solitārius.
+*Gai.* Cūr māter...?
 
-Cor. frāter tuus, mī fīlī, prō patriā nostrā cōgitat
-et labōrat. nūm vīs patris vestrī fīlium, Africānī
-nepōtem, esse dēgenerem? num ille vēnātiōnibus
-studēbit, dum miseriīs premuntur cīvēs Rōmānī?
+*Cor.* Exaudī! Quid audiō? Quid clāmant?
 
-clūmores audiuntur]
-populus (extra). euge, euge! salvē Gracche!
-ecce Tibērius, tribūnus plēbis!
+**(intrat Tiberius)**
 
-Gai. cūr māter...?
+*Ti.* Salvē, māter! Salvēte!
 
-Cor. exaudī! quid audiō? quid clāmant?
+*Cor.* Mī fīlī, quid audiēbam ? Quid clāmābat populus?
 
-Lintrat Tīberius]
+*Ti.* Māter mea, populus Rōmānus mē tribūnum plēbis creāvit.
 
-Ti. salvē, māter! salvēte!
+*Cor.* Tū ergō, mī fīlī, servābis Rōmam. Senātum comprimēs, cīvēs fovēbis.
 
-Cor. mī fīlī, quid audiēbam ? quid clāmābat
-populus?
+*Ti.* Nūper in Ītaliam reveniēbam. Iter faciēns per Viam Appiam multum dolēbam. Ubīque servōs vidēbam, miserōs hominēs et turpēs, gregēs custōdientēs, ubi agricolae Rōmānī ōlim habitābant et suōs quisque agrōs colēbat. Nunc, ēheu, omnēs agrōs dīvitēs habent; cīvēs Rōmānī in urbe in paupertāte ac vitiīs versantur, optimātium clientēs.
 
-Ti. māter mea, populus Rōmānus mē tribūnum
-plēbis creāvit.
+*Cor.* Hoc ergō tibi erit opus, mī fīlī.
 
-Cor. tu ergo, mī fīlī, servābis Rōmam. senātum
+*Ti.* Lēgem feram iūstissimam. Agrōs pauperibus reddam; iterum suum quisque fundum colet.
 
-comprimēs, cīvēs fovēbis.
-SCAENAI 5
+*Cor. (Gaium alloquēns)* Hūc, puer! Audīsne? Ego et tū testēs sumus. Tiberius populō Rōmānō agrōs Italōs restituet, et prīstinōs Rōmānōrum mōrēs.
 
-apud, at, near.
-famula, handmuaid.
-māter, mother.
-meus, my.
+### Scaena II. In Forō.
 
-cūr, uhy?
+*Ti. Gracchus; M. Octāvius; cēterī tribūnī; cīvēs.*
 
-cessāre, to linger.
-quid ? what?
+*Cīvēs (inter sē colloquentēs).* Tacēte! Veniunt tribūnī plēbis. Audīte Gracchum!
 
-agere, to do.
-solitārius, all alonc.
-iam, now, already.
-semper, always.
-ego, I.
+*Ti.* Cīvēs Rōmānī, suffrāgia ferētis. Ego agrōs Italōs cupiō inter cīvēs omnēs, ut anteā, distribuī — prīvārī eōs quī plūs habent agrī quam quīngenta iūgera. M. Octāvius vetat; tribūnus plēbis plēbem prōdit. **(Octāvium alloquēns)** Marce Octāvī, rūrsus tē admoneō. Dēsine etiam nunc populī voluntātem impedīre. **(Octāvius tacet.)**
 
-mē, acc. of ego.
-exercēre, to exercisce.
-vel. or.
+Cīvēs Rōmānī, suffrāgia ferte! Cēnseō Octāviō magistrātum abrogandum. Quid sentītis? Placetne ?
 
-silva, a wood.
+*civēs.* Placet.
 
-fera, a beast.
-captāre, to chasc.
-frāter, brother.
-tuus, thy, your.
-fīlius, son.
+*Ti.* Marce Octāvī, magistrātus tibi est abrogātus. Abī! Expellite eum!
 
-patria, country.
-noster, our.
-cōgitāre, to take thought.
-labōrāre, to work.
-num asks a question.
-vīs, you aish.
+*Oct.* Mox tū poenās dabis, quī lēgēs Rōmānās, tribūnum sacrōsānctum, ita violās.
 
-pater, futher.
-vester, your.
+### Scaena III. In Forō. Vesperī.
 
-nepōs. grandson.
+*Cīvēs. Ti. Gracchus; fīlius praetextātus.*
 
-esse, to be.
+*Civ. I.* Quid tū sentīs? Num Gracchus...
 
-dēgener, umvorthy of the
-family.
+*Civ. II.* Hoc equidem sentiō. Gracchus ... sed ecce! Inde venit ipse.
 
-ille, he.
+**(intrat Ti. Gracchus cum fīliō)**
 
-vēnatiō, a hunt.
+*Ti.* Cīvēs! Amīcī! Mihi sī crās erit ultimus diēs, excipite hunc, fīlium meum cārissimum. Hodiē vōbīs hunc trādō; crās animam meam fortasse prō vōbīs dēpōnam.
 
-studēre, to give attention.
+*Cīvēs.* Vīvēs, Gracche — vīvēs et superābis. Iterum eris tribūnus.
 
-dum, wihile.
+Euge, euge! Salvē, Gracche!
 
-miseria, misery.
+**(exeunt.)**
 
-premere, to oppress.
+### Scaena IV. In Capitōliō.
 
-cīvis, a citieen.
+*Cīvēs; Rūsticus. Senātōrēs; tribūnī: Ti. Gracchus.*
 
-clāmor, a shout.
+*Rūst.* Salvēte, amīcī! Nūper rūre in urbem advēnī. Dīcite mihi! Quid hīc agitur?
 
-euge ! huvrah!/
+*Civ. I.* Comitia habentur; tribūnī plēbis creantur.
 
-salvē! hail ! good-day!
+*Rūst.* Quī petunt? Cui favet populus?
 
-ecce! btbehold! lo!
+*Civ. I.* Tiberius Gracchus petit iterum esse tribūnus.
 
-tribūnus, a tribune.
+*Rūst.* Quid? Nōnne lēgēs id vetant?
 
-plēbs, the common people
+*Civ. I.* Vetant sāne lēgēs, sed populus favet Gracchō.
 
-audīre, fo hear.
+*Civ. II.* Nūper ille agrōs Italōs cīvibus pauperibus reddidit.
 
-exaudīre, to listen.
+*Rūst.* Bene ēgit. Iūre illī populus favet.
 
-clāmāre, fo shout.
+*Civ. III.* Immō lēgēs violat petēns iterum tribūnus esse. Mihi displicet.
 
-populus, the people.
+*Civ. II.* Crēscit clāmor!
 
-creāre, to create.
+*Rūst.* Quid agitur?
 
-tū, thou, you.
+**(intrant senātōrēs tribūnī Gracchus contendentēs. Gracchus cadit.)**
 
-ergō, therefore, then.
+### Scaena V. Apud Cornēliam.
 
-servāre, fo save.
+*Cornēlia; famulae. Blossius; Cīvēs.*
 
-senātus, the Senate.
+*Cor.* Cūr cessat Tiberius? Summō hodiē amōre eum exspectō.
 
-comprimere, to crush.
+*Fam.* Exaudī, domina! Venit.
 
-fovēre, to cherish.
+*Cor.* Num ille venit? Cūr nōn cum clāmōribus populī venit?
 
-2
+**(intrant Blossius et cīvēs)**
 
-B2
-14 MATER GRACCIIORUM
+*Bl.* Salvē, Cornēlia!
 
-Ti. nuper in Ttaliam reveniēbam. iter faciēns
-per Viam Appiam multum dolēbam. ubhīque servōs
-vidēbam, miserōs hominēs et turpēs, gregēs cu-
-stōdientēs, ubi agricolae Rōmānī ōlim habitābant
-et suōs quisque agrōs colēbat. nunc, eheu, omnēs
-agrōs dīvitēs habent; cīvēs Rōmānī in urbe in
-paupertāte ac vitiīs versantur, optimātium clientēs.
+*Cor.* Salvē, amīce! Quid mihi nūntiās?
 
-Cor. hoc ergō tibi erit opus, mī fīlī.
+*Bl.* Trīstia, ēheu! Nūntiō — trīstissima.
 
-Ti. lēgem feram iustissimam. agrōs pauperibus
-reddam; iterum suum quisque fundum colet.
+*Cor.* Quid? Haud trīstissima. Amīce, potes nūntiāre, nīsī turpem scīlicet fīlius meus sē praebuit.
 
-Cor. [Gaium aīloquēns] hūc, puer! audīsne ? ego
-et tū testēs sumus. Tibērius populō Rōmānō agrōs
+*Bl.* Cornēlia, Tiberius mortuus est.
 
-Italōs restituet, et pristinōs Rōmānōrum mōrēs.
-SCAENAI
+*Cor.* A ... prō patriā vērō mortuus est. Ō amīcī, abīte! Fīlium meum hūc addūcite! ... Multās hōrās eum exspectō, iam tandem eum accipiam.
 
-nuper, lately.
-revenīre, to come back.
-iter, a journey, way.
-faciēns, making.
+**(intrant cīvēs cum Tiberiī corpore)**
 
-per, along, through.
+*Cor.* Salvē, mī fīlī! Nunquam anteā tantā laetitiā quantā hodiē tē accēpī. Maxime hodiē tē amō atque laudō. Ō, mē! Ter quaterque nunc beāta sum — pater meus Hannibalem superāvit: vir meus in Hispāniā glōriam sibi comparāvit; fīliōrum, quōs illī peperī, ūnus hīc iacet—prō patriā mortuus est; vīvit alter—prō patriā vīvet et labōrābit! **(cīvibus)** vōbīs, amīcī, grātiās reddō, quod haec tam laeta mihi nūntiāvistis, hoc tam cārum corpus ad mē addūxistis. **(fāmulīs)** venīte, puellae! Excēdēmus. Deīs Immortālibus grātiās reddēmus. Festīnāte! Mulierem beātissimam ad templa deōrum addūcite — Scīpiōnis fīliam, Gracchi uxōrem. Mātrem Gracchōrum!
 
-multum, much, greatly.
 
-dolēre, to grieve.
-ubīque, everywhense.
-servus, a slave.
-vidēre, fo sce.
-homō, a man.
-miser, wretched.
-turpis, vile.
+## Geminī
 
-grex, a flock.
-custodiēns, keeping.
-ubi, echere.
+### Drāmatis Persōnae
 
-ōlim, formerly.
-agricola, a furmer.
-habitāre, to duell.
-suus, his own.
-quisque, each man.
-colere, to till.
-ager, ficld, land.
-nunc, nouw.
+ - Numitōr.
+ - Rōmulus, geminī.
+ - Remus, geminī.
+ - Faustulus, pāstor.
+ - Senex.
+ - Ministrī.
+ - Pāstōrēs.
 
-eheu! alas!
-omnis, every, all.
-dīves, a rich man.
+### Scaena I. Extrā Numitōris domum.
 
-habēre, fo have, hold.
-urbs, the city.
-paupertās, poverty.
-ac, and.
+**(intrant dextrā Rōmulus et Faustulus; intrat sinistrā senex.)**
 
-vitium, vice.
+*Rom.* Salvē, senex!
 
-versārī, to be involved.
-optimās, a nolle.
-cliēns, a dependent.
-hoc, this (thing).
-opus, wovl.
+*Sen.* Salvētē!
 
-tibi, dat. of tū.
+*Rom.* Estne haec Numitōris domus?
 
-lēx, law.
+*Sen.* Numitōris est domus.
 
-ferō, I carry.
+**(exit dextrā)**
 
-iustus, just.
+*Rom. (Faustulum alloquēns)* Haec, pater, est Numitōris domus.
 
-pauper, a poor man.
-reddere, to give buck.
-iterum, again.
-fundus, a farm.
+*Faust.* Tū, domum, Rōmule, intrā. Ego ibi tē exspectābō. Heu miserum! Multum doleō quod fīlius meus, Remus, captīvus est.
 
-hūc, hither.
+**(exit Rōmulus sinistra, Faustulus dextrā.)**
 
-puer, boy.
+## Scaena II. Intrā Numitōris Domum.
 
-testis, witness.
-Italus, Italian.
-restituere, to restorc.
-pristinus, former.
+**(Numitor sedet. Ministrī circumstant.)**
 
-mēs, sing. eustom; plur.
+*Num.* Ecce! quem dūcunt pāstōrēs?
 
-character.
-alloquēns, addressiny.
-6 MATER GRACCHORUM
+*Min.* Captīvum dūcunt catēnīs vīnctum?
 
-ScaeNA II. Ix Forxō.
-Ti. Gracchus; M. Octūvius; cēterī tribūnī; cīcēs.
+**(intrant pāstōrēs Remum dūcentēs)**
 
-cīvēs Qinter sē colloquentes]. tacēte! veniunt
-tribūnī plēbis. audīte Gracchum!
+*Num.* Hic homō, quis est?
 
-Ti. cīvēs Rōmānī, suffrāgia ferētis. ego agrōs
-Italōs cupiō inter cīvēs omnēs, ut anteā, distribuī—
-prīvārī eōs quī plus habent agrī quam quīngenta
-iūgera. M. Octāvius vetat; tribūnus plēbis plēbem
-prōdit. [Octavium alloquēns] Marce Octāvī, rursus
-tē admoneō. dēsine etiam nunc populī voluntātem
-impedīre. [Octavius tacet.]
+*Pastor.* Hic ūnus est, domine, pāstōrum Amūliī, quem captum ad tē addūcimus.
 
-cīvēs Rōmānī, suffrāgia ferte! cēnseō Octāviō
-magistrātum abrogandum. quid sentītis? placetne ?
+*Num.* Cūr hunc ad mē addūcitis vīnctum?
 
-civēs. placet.
+*Past.* Pāstōrēs Amūliī nōbīs sunt inimīcī.
 
-Ti. Marce Octāvī, magistrātus tibi est abrogātus.
-abī! expellite eum!
+*Num.* Quam est fōrmōsus! **(Remum alloquēns)** Venī, homō! Volō tē aspicere, ō mē miserum! Quantum est Reae Sylviae similis, fīliae meae cārissimae, quam Amūlius necāvit!
 
-Oct. mox tū poenās dahis, quī lēgēs Rōmānās,
+**(intrat Rōmulus)**
 
-tribūnum sacrōsanctum, ita violās.
-SCAENA II
+*Min.* Quis inde venit?
 
-cēterī, the others.
+*Rom.* Salvē, ō domine!
 
-inter, among.
+*Num.* Quis es tū. Quī captīvī nostrī tam similis es?
 
-sē, himself, herself; itself,
-themselves.
+*Rom.* Rōmulus appellor. Hic est frāter meus, Remus.
 
-tacēre, to be silent.
+*Num.* Quid petis, Rōmule?
 
-venīre, to come.
+*Rom.* Remum petō, quī ā servīs tuīs hūc ductus est captīvus.
 
-suffrāgium, a cote.
+*Num.* Unde vēnistī?
 
-cupere, to desire.
+*Rom.* Ab Aventīnō vēnimus, ubi Amūliī gregēs custōdīmus.
 
-ut, as.
+*Num.* Quis vōbīs est pater?
 
-anteā, before.
+*Rom.* Faustulus est pater noster, Amūliī pāstor.
 
-distribuere, fo distribute.
+*Num. (ministrum alloquēns)* Abī! Faustulum hūc addūc! **(exit minister)**
 
-prīvāre, to despoil.
+*Rom.* Iam ille apud portam exspectat.
 
-eōs, them, those.
+**(intrant minister et Faustulus)**
 
-quī, awho.
+*Min.* Hic, domine, est Faustulus.
 
-plus... quam, morc than.
+*Faust.* Salvē, ō domine!
 
-quīngentī, five hundred.
+*Num.* Aspice hōs! Suntne fīliī tuī?
 
-iūgerum, an acre.
+*Faust.* per multōs annōs, domine, hōs ēducāmus et ego et uxor mea.
 
-vetāre, to forbid.
+*Num.* Quid tam? Nōnne sunt vestrī fīliī?
 
-prōdere, to betrav.
+*Faust.* Nōn sunt nostrī fīliī, sed cum līberīs nostrīs hōs ēducāvimus.
 
-censēre, to think, proposc.
+*Num.* Quid? Unde sunt?
 
-magistrātus, office.
-abrogāre, to take away.
-sentīre, fo feel, think.
-placēre, to be pleasing.
-rursus, again.
+*Faust.* Hōs diū abhinc in rīpā fluviī inventōs ad casam meam addūxī — tum parvulī erant.
 
-tē, acc. of tū.
-admonēre, to warn.
-dēsinere, to ceasce.
-etiam, even.
-voluntās, the uwill.
-impedīre, to hinder.
-abīre, fo go auway.
-expellere, to drive out.
-eum, him, that man.
-mox, soon.
+*Num.* Quid? In rīpā fluviī! Parvulī!
 
-poena, penalty.
+*Faust.* Ibi relictī erant.
 
-dare, to give.
-sacrōsanctus, sacred.
-ita, thus.
+*Num.* Tibi magna dabō praemia et uxōrī tuae. Venīte hūc, Rōmule et Reme! Audīte omnēs! Frāter meus, Amūlius, homō improbus, ōlim rēgnum meum occupāvit, fīlium meum necāvit et fīliam Ream Sylviam, et līberōs eius parvulōs in fluvium praecipitāvit. Ecce, Rōmulus et Remus, fīliae meae līberī, ā Faustulō servātī!
 
-violāre, to outrayc.
-ē MATER GRACCIIORUM
+*Ministri et Pastores.* Salvētē, ō dominī!
 
-SCAExNA III. IN FORō. VESPErī.
-
-cīvēs. Ti. Gracchus; fīlius praetextūtus.
-
-civ. I. quid tū sentīs? num Gracchus...
-civ. II. hoc equidem sentiō. Gracchus ... sed
-ecce! inde venit ipse.
-(intrat Ti. Gracchus cum filiō]
-Ti. cīvēs! amīcī! mihi sī crās erit ultimus diēs,
-excipite hune, fīlium meum cārissimum. hodiē
-vōbīs hunc trādō; crās animam meam fortasse prō
-
-vōbīs dēpōnam.
-
-cītēs. vīvēs, Gracche—vīvēs et superābis. iterum
-eris tribūnus.
-euge, euge! salvē, Gracche!
-
-Lexcunt.]
-SCAENA III
-
-vesper, evening.
-
-praetextātus, wearing a
-boy’s bordered toga.
-
-equidem, I for my purt.
-
-sed, but.
-
-inde, yonder.
-
-ipse, he himself.
-
-cum, with.
-
-amīcus, friend.
-
-mihi, dat. sing. of ego.
-
-sī, if.
-
-crās, to-morrouw.
-
-ultimus, lust.
-
-diēs. day.
-
-excipere, to receive.
-hunc, him, this (man).
-cārus, dear.
-
-hodiē, to-day.
-
-vōbīs, dat. plur. of tū.
-trādere, to hand over.
-anima, life.
-
-fortasse, perhaps.
-dēpōnere, to lay down.
-vīvere, to lie.
-superāre, to conquer.
-I0 MATER GRACCHORUM
-
-ScaAENA IV. IN CarIrōcrtō.
-cīvēs; rusticus. sendtōrōs; tribūnī: Ti. Gracchus.
-
-rust. salvēte, amīcīl nuper rure in urbem advēni.
-dīcite mihi! quid hīc agitur?
-
-civ. I. comitia habentur; tribūnī plēbis creantur.
-
-rust. quī petunt? cui favet populus?
-
-civ. I. Tibērius Gracchus petit iterum esse
-tribūnus.
-
-rust. quid? nōnne lēgēs id vetant?
-
-civ. I. vetant sāne lēgēs, sed populus favet
-Gracchō.
-
-civ. II. nuper ille agrōs Italōs cīvibus pauperibus
-reddidit.
-
-rust. bene ēgit. iure illī populus favet.
-
-civ. III. immō lēgēs violat petēns iterum tribūnus
-esse. mihi displicet.
-
-civ. II. crescit clāmor!
-
-rust. quid agitur?
-
-lintrant senatōrēs tribāni Gracchus contendenies.
-Gracchus cadit.]
-SCAENA IV II
-
-rusticus, a countryman. reddidī. pres. perf. of red-
-
-rus, the country. dere.
-
-advenīre, to arrive. bene, uwell.
-
-dīcere, to tell, say. ēgī, pres. perf. of agere.
-
-hīc, here. iure, rightly.
-
-comitia, elections. illī, dat. sing. of ille.
-
-petere, to seek, to be a immō, nay but.
-candidate. petēns, seeking.
-
-cui, dat. sing. of quī. displicēre, to be displeas-
-
-favēre, to be favouravle. ing.
-
-id, it, that. crescere, fo increase.
-
-sāne, indced. contendēns, struggling.
-
-cadere, to full.
-m3 MATER GRACCHORUM
-
-SCAENA V. APUD CORNĒLIANM.
-
-Cornēlia; fūmulae. Blossius; cīrēs.
-
-Cor. cūr cessat Tibērius? summō hodiē amōre
-eum exspectō.
-
-fum. exaudī, domina! venit.
-
-Cor. num ille venit? cūr nōn cum clāmōribus
-populī venit?
-
-Lintrant Blossius et cives]
-
-Bl. salvē, Cornēlia!
-
-Cor. salvē, amīce! quid mihi nuntiās?
-
-Bl. tristia, eheu! nuntiō—tristissima.
-
-Cor. quid ? haud tristissima. amīce, potes nun-
-tiāre, nisī turpem scīlicet fīlius meus sē praebuit.
-
-Bl. Cornēlia, Tibērius mortuus est.
-
-Cor. a... prō patriā vērō mortuus est. o amīcī,
-abīte! fīlium meum hūc adducite! ... multās
-hōrās eum exspectō, iam tandem eum accipiam.
-
-Lintrant cives cum Iiberii corpore]
-SCAENA V 13
-
-summus, highest, greatest. nisī, unless.
-amōr, love, longing. scīlicet, forsooth.
-exspectāre. fo auait. praebēre, to offer, shou.
-domina, mistress mortuus, dead.
-nuntiāre, fo announce, vērō, however.
-
-bring neus. multī, many.
-tristia, sad things, sad ! tandem, at length.
-tidings. accipere, to receive, uwel-
-haud, not. comc.
-potes, you can. corpus, a body.
-abīre, to go.
-4 MATER GRACCHORUM
-
-Cor. salvē, mī fīlī! nunquam anteā tantā laetitiā
-quantā hodiē tē accēpī. maxime hodiē tē amō
-atque laudō. o, mē! ter quaterque nunc beāta
-sum—pater meus Hannibalem superāvit: vir meus
-in Hispāniā glōriam sibi comparāvit; fīliorum,
-quōs illī peperī, unus hīc iacet—prō patriā mor-
-tuus est; vīvit alter—prō patriā vīvet et labōrābit!
-[cītibus] vōbīs, amīcī, grātiās reddō, quod haec tam
-laeta mihi nuntiāvistis, hoc tam cārum corpus
-ad mē adduxistis. [fūmulis] venīte, puellae!
-excēdēmus. Deīs Immortālibus grātiās reddēmus.
-festīnāte ! mulierem beātissimam ad templa deōrum
-adducite—Scipiōnis fīliam, Gracchi uxōrem. mātrem
-
-Gracchōrum!
-nunquam, never.
-
-tantus ... quantus,
-
-great... as.
-laetitia, joy.
-accēpī, pres.
-
-accipere.
-
-perf.
-
-maxime, especially.
-amāre, to lovc.
-atque, and.
-laudāre, to praise.
-ter, thrice.
-
-quater, four times.
--que, and.
-
-beātus. llessed.
-vir. man, husband.
-Hispānia, Spuin.
-glōria, glory.
-
-sibi, dat. of sē.
-
-SCAENA V
-
-SŌ
-
-comparāre, to win, get.
-quōs, acc. plur. of quī.
-
-peperī, pres. perf.
-parere fo bear.
-
-iacēre, to lie.
-
-alter, the other.
-
-grātiae, thanks.
-
-quod, becausc.
-
-haec, thesc things.
-
-tam, so.
-
-laetus, jouful, qlad.
-
-of
-
-adducere, to lead, bring.
-
-puella, girl.
-excēdere, fo go out.
-
-immortālis, immortal.
-
-deus, god.
-festīnāre, fo hasten.
-mulier, acoman.
-templum, temple.
-fīlia, daughter.
-uxor, wife.
-GENERAL VOCABULARY
-
-First Declension.
-agricola, furmen.
-anima, life.
-domina, mistress.
-famula, handmuid.
-fera, wild beast.
-fīlia, daughter.
-glōria, glory.
-grātiae, thanks.
-hōra, hour.
-laetitia, joy.
-miseria, misery.
-patria, countiy.
-poena, penalty.
-puella, giri.
-silva, wood.
-via, road.
-
-Second Declension.
-avus, ancestoi-
-deus, god.
-fīlius, son.
-fundus, furm.
-populus, people.
-servus, slave.
-tribūnus, tribune.
-ager, field, land.
-
-I.
-
-c3
-
-NOUNS
-
-ruer, boy.
-
-vir, man, husband.
-comitium, assemtly.
-iugerum, acre.
-templum, temple.
-vitium, vice.
-
-Third Declension.
-amor, (m.) love, longmng.
-clāmor, (m.) shout.
-
-uxor, wife.
-
-mulier, awoman.
-pauper, poor person.
-pater, sather.
-
-1 māter, mother-
-
-līmter brether-
-
-(grēx, (m.) flock.
-
-lVēx, (f.) law.
-
-(nisus (f.) common people.
-urbs, (f.) city.
-
-cliēns, dependent.
-
-optimās, a nolle.
-
-i paupertās, (f.) poverty.
-
-voluntās, (f.) will.
-nepōs, grandson.
-virtās, (f.) ralour-
-
-18 MATER
-iēntio (f.) the hunt.
-homo, man, fellow.
-(cīvis, citisen.
-ltestis, witness.
-un (m.) custom.
-rūs, (n.) country.
-
-II.
-
-tīlssmsl
-
-—- -, ruancient.
-
-um,
-
-quīngent-i,
-
-—-ae,
-
-mx113
-
-beātus, blessed.
-
-cārus, dear-.
-
-iustus, just.
-
-laetus, joyrul.
-
-meus, my.
-
-mortuus, dead.
-
-pristinus, formen-
-
-sacrōsanctus, sacred.
-
-solitārius, all alone.
-dēgener, degenerate.
-
-fus forgetful.
-faciēns, making.
-
-custōdiēns, minding.
-l petēns, seeking.
-
-GRACCHORUM
-
-five hundred.
-
-opus, (n.) work.
-pusīn (n.) body.
-dīvēs, rich person.
-iter, (n.), journey, way.
-
-ADJECTIVEĒS
-
-summus, grectest.
-suus, his, her, its, their.
-tantus, so great.
-
-tuus, thy, your.
-quantus, how great.
-ultimus, last.
-
-miser,
-
-——a2. wretched.
-um,
-
-ncoster,
-
-nostr-a, our.
-um,
-
-vester,
-
-vestr-ā, your-
-um,
-
-immortālis, immontel.
-lemnn erery, all.
-turpis, base, rile.
-tomitin sad.
-GENERAL VOCABULARY
-
-III.
-
-First Conjugation.
-amāre, tfo love.
-captāre, to chase.
-cessāre, to linger-
-clāmāre, to shout.
-cōgitāre, to think.
-comparāre, to get, win.
-creāre, to create, make.
-dare, to give.
-exspectāre, to await.
-festīnāre, to hasten.
-habitāre, to inhabit.
-labōrāre, to work.
-laudāre, to praise.
-nuntiāre, to bring neuws.
-prīvāre, to despoll.
-servāre, to save.
-superāre, to overcome.
-vetāre, to forbid.
-violāre, to outragpe.
-versārī, to be engaged.
-
-Second Conjugation.
-
-admonēre, to warn.
-
-cēnsēre, to think, propose.
-
-displicēre, to displease.
-dolēre, to grieve.
-exercēre, to exercise.
-
-VERBS
-
-favēre, to furour.
-fovēre, to cherish.
-habēre, to have, hold.
-iacēre, to lie.
-
-placēre, to please.
-praebēre, to show, offer.
-studēre, to give attention.
-tacēre, to be silent.
-vidēre, to see.
-
-Third Conjugation.
-
-adducere, to lead.
-agere, to do.
-colere, to till.
-comprimere, to
-curō.
-crescere, to increase.
-dēpōnere, to lay down.
-dēsinere, to cease.
-dīcere, to say, tell.
-distribuere, to divide.
-excēdere, to go out.
-expellere, to drive out.
-petere, to seek.
-premere, to crush.
-prōdere, to betray.
-reddere, to give back.
-restituere, fo restor..
-
-c2
-
-restrain,
-20 MATER
-
-trādere, to hand over-
-vīvere, to live.
-
-Fouirth Conjugation.
-
-audīre, to heanr.
-exaudīre, to listen.
-impedīre, fo hinder.
-sentīre, to feel.
-venīre, to come.
-
-GRACCHORUM
-
-advenīre, fo arrive
-revenīre, to return.
-
-Irreqular Peifect Stems.
-accipere, accep-
-agere, ē-
-parere, pepeir-
-reddere, reddid-
-venīre, vēn-
-
-GEMINI
-
-DRAMATIS PERSONAE
-
-NUMITOR.
-
-RomMULUS 252.
-gemini.
-
-REMUS
-
-FaAvUSTULUS, pastor.
-
-SENEX.
-
-MINISTRI.
-
-PASTORES.
-22 GEMINI
-
-SCAENA T. EXTRA NUNITŌRIS DOMUN.
-
-(intrant deatrāū Romulus et Faustulus; intrat sinistrū
-senex.)
-
-Rom. salvē, senex!
-
-sen. salvētē!
-
-Rom. estne haec Numitōris domus?
-
-sen. Numitōris est domus.
-
-(exit detrā]
-
-Rom. [Faustulum alloquēns] haec, pater, est Nu-
-mitōris domus.
-
-Faust. tu, domum, Rōmule, intrā. ego ibi tē
-exspectābō. heu miserum! multum doleō quod
-fīlius meus, Remus, captīvus est.
-
-lexit Romulus sinistra, Faustulus dextrū.]
-SCAENA I 23
-
-geminus, a twin.
-pastor, a shepherd.
-senex, an old man.
-minister, a servant.
-extrā, outside.
-domus, a house.
-intrāre, to enter.
-dextrā, on the right.
-sinistrā, on the left.
-salvē! haill good day!
-est, is.
-
--ne askhs a qucstion.
-hie, haec, hoc, this.
-alloquēns, addressing.
-exīre, to go out.
-
-pater, father.
-
-tu, thou, you.
-
-ego, I.
-
-ibi, yonder, there.
-tē, acc. of tū.
-exspectāre, to await, watit.
-heu! alas!
-
-miser, unhappy.
-multum, much.
-dolēre, to gricue.
-quod, because.
-
-fīlius, son.
-
-meus, my.
-
-captīvus, a prisoncr.
-24 GEMINT
-
-SCAENA II. INTRā NUMITŌRIS DOMUN.
-
-(Numitor sedet. ministrī circumstant.)
-
-Num. ecce! quem dūcunt pastōrēs?
-
-min. captīvum dūcunt catenīs vinctum?
-
-Lintrant pastōrēs Remum dūcentes]
-
-Num. hic homo, quis est?
-
-pastor. hic ūnus est, domine, pastōrum Amūiliī,
-quem captum ad tē addūcimus.
-
-Num. eūr hunc ad mē addūcitis vinctum?
-
-past. pastōrēs Amūliī nōbīs sunt inimīcī.
-
-Num. quam est formōsus! C[Remum alloquēns]
-venī, homo! volō tē aspicere, ō mē miserum!
-quantum est Rēae Sylviae similis, fīliae meae cāris-
-simae, quam Amūlius necāvit!
-
-intrat Rōmulus]
-min. quis inde venit?
-
-Rom. salvē, ō domine!
-
-Num. quis es tū. quī captīvī nostrī tam similis es?
-
-Rom. Rōmulus appellor. hic est frāter meus,
-Remus.
-
-Num. quid petis, Rōmule?
-
-Rom. Remum petō, quī ā servīs tuīs hūc ductus
-est captīvus.
-
-Num. unde vēnistī?
-
-Rom. ab Aventīnō vēnimus, ubi Amūliī gregēs
-custōdīmus.
-SCAENA II 25
-
-intrā. inside.
-
-sedēre, fo be seated.
-
-circumstāre, to
-around.
-
-ecce! lo! behold!
-
-quis ? who?
-
-quem ? acc. of quis?
-
-dūcere, to lead.
-
-catēna, a chain.
-
-vinctus, bound.
-
-ūnus, one.
-
-dominus, master.
-
-quī, quae, quod, uilo,
-which.
-
-quem, acc. masc. of qui.
-
-captus, havingbeencaught.
-
-ad, to, towards.
-
-addūcere, to bring, lead.
-
-cūr? uwhy?2
-
-hunec, acc. of hic.
-
-nōbīs, dat. pl. of ego.
-
-sunt, (they) are.
-
-inimīcus, unfriendly, hos-
-tile.
-
-quam! how!
-
-formōsus, beautiful.
-
-stand
-
-venīre, to come.
-homo, man, fellow.
-volō, I wish.
-
-aspicere, to look at.
-quantum! how much!
-similis, like.
-
-fīlia, daughter.
-cārissimus, very dear.
-quam, acc. fem. of qui.
-necāre, to kill.
-
-inde, from there, yonder.
-es, thou art, you are.
-noster, our.
-
-tam, so, so much.
-appellor, I am called.
-frāter, brother.
-
-petere, to seek.
-
-ā, by, from.
-
-servus, slave.
-
-tuus, thy. your.
-
-hūc, hither.
-
-unde ? whence?
-
-ubi, where.
-
-gregēs, flocks.
-custōdīre, to kecp guard.
-26 GEMINI
-
-Num. quis vōbīs est pater?
-
-Rom. Faustulus est pater noster, Amūliī pastor-
-
-Num. [ministrum alloquens] abī! Faustulum hūc
-addūc! lexit minister]
-
-Rom. iam ille apud portam exspectat.
-
-lintrant minister et Fuustulus]
-min. hic, domine, est Faustulus.
-
-Faust. salvē, ō domine!
-
-Num. aspice hōs! suntne fīliī tur?
-
-Faust. per multōs annōs, domine, hōs ēducāmus
-et ego et uxor mea.
-
-Num. quid tam? nōnne sunt vestrī fīli?
-
-Faust. nōn sunt nostrī fīliī, sed cum Iīberīs nostrīs
-hōs ēducāvimus.
-
-Num. quid ? unde sunt?
-
-Faust. hōs diū abhinc in rīpā fluviī inventōs ad
-casam meam addūxi—tum parvulī erant.
-
-Num. quid? in rīpā fluviī! parvulī!
-
-Faust. ibi relictī erant.
-
-Num. tibi māgna dabō praemia et uxōrī tuae.
-venīte hūc, Rōmule et Reme! audīte omnēs! frāter
-meus, Amūlius, homo improbus, ōlim rēgnum meum
-occupāvit, fīlium meum necāvit et fīliam Rēam
-Sylviam, et Iīberōs eius parvulōs in fluvium
-praecipitāvit. ecce, Rōmulus et Remus, fīliae meae
-līberī, ā Faustulō servātī!
-
-ministri et pastores. salvētē, ō dominī!
-
-Rom. et Rem. nōs Amūlium superābimus et
-Numitor rursus erit rēx.
-SCAENA II 27
-
-vōbīs, dat. pl. of tū.
-abīre, to go auay.
-iam, already.
-
-ille, he, that (man).
-apud. at.
-
-porta, qate.
-
-hīc, here.
-
-hōs, ace. pl. of hic.
-per, during.
-
-multī, many.
-annus, year.
-
-et... et, both... and.
-ēducāre, fo bring up.
-uxor, wife.
-
-tum, then.
-
-quid ? what2
-
-nōn., not.
-
-vester, your.
-
-cum, uwith.
-
-līberī, children.
-sed, but.
-
-diū abhinc, long agpo.
-rīpa, bank.
-
-fluvius, river.
-
-inventus, (having becn)
-found.
-
-casa, cottuge.
-
-parvulus, a tiny child.
-
-erant, (they) were.
-
-relictus, abandoned, left.
-
-māgnus, great.
-
-dare, to give.
-
-praemium, reward.
-
-audīre, to hear.
-
-omnēs, all (pcople).
-
-improbus, wicked.
-
-ōlim, once upon a time.
-
-rēgnum, kingdom.
-
-occupāre, to scixe.
-
-eius, lis, her, its.
-
-praecipitāre, to throw.
-
-servātus, (having been)
-saved.
-
-nōs, pl. of ego.
-
-superāre, to overcome.
-
-rursus, again.
-
-erit, (he) will be.
-
-rēx, king.
-[OCR skipped on page(s) 38-48]
+*Rom. et Rem.* Nōs Amūlium superābimus et Numitōr rūrsus erit rēx.
