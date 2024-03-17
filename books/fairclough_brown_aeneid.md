@@ -104,7 +104,7 @@ incute vim ventīs submersāsque obrue puppīs,
 aut age dīversōs et disice Corpora pontō.  
 Sunt mihi bis septem praestantī corpore Nymphae:  
 quārum quae fōrmā pulcherrima Dēiopēa,  
-cōnūbiō 3 iungam stabilī propriamque dicābō,  
+cōnūbiō iungam stabilī propriamque dicābō,  
 omnīs ut tēcum meritīs prō tālibus annōs  
 exigat et pulchrā faciat tē prōle parentem.’  
 
@@ -151,14 +151,14 @@ Trīs Notus abreptās in saxa latentia torquet
 dorsum immāne marī summō), trīs Eurus ab altō  
 in brevia et syrtīs urget (miserābile vīsū)  
 inlīditque vadīs atque aggere cingit harēnae.  
-Ūnam, quae Lyciōs fīdlumque vehēbat Orontēn,  
+Ūnam, quae Lyciōs fīdumque vehēbat Orontēn,  
 ipsius ante oculōs ingēns ā vertice pontus  
 in puppim ferit; excutitur prōnusque magister  
 volvitur in caput; ast illam ter flūctus ibīdem  
 torquet agēns circum et rapidus vorat aequore vertex.  
 Appārent rārī nantēs in gurgite vāstō,  
 arma virum tabulaeque et Trōia gaza per undās.  
-Tam validam Īlioneī nāvem, iam fortis Achātae,  
+Iam validam Īlioneī nāvem, iam fortis Achātae,  
 et quā vectus Abās et quā grandaevus Alētēs,  
 vīcit hiems; laxīs laterum compāgibus omnēs  
 accipiunt inimīcum imbrem rīmīsque fatīscunt.  
@@ -300,7 +300,7 @@ sōlābar, fātīs contrāria fāta rependēns;
 nunc eadem fortūna virōs tot cāsibus āctōs  
 īnsequitur. Quem dās fīnem, rēx magne, labōrum?  
 Antēnor potuit, mediīs ēlāpsus Achīvīs,  
-Ilyricōs penetrāre sinūs atque intima tūtus  
+Illyricōs penetrāre sinūs atque intima tūtus  
 rēgna Liburnōrum et fontem superāre Timāvī,  
 unde per ōra novem vāstō cum murmure montis  
 it mare prōruptum et pelagō premit arva sonantī.  
@@ -346,7 +346,7 @@ Rōmānōs, rērum dominōs, gentemque togātam.
 Sīc placitum. Veniet lūstrīs lābentibus aetās,  
 cum domus Assaracī Phthīam clārāsque Mycēnās  
 servitiō premet ac victīs dominābitur Argīs.  
-Naāscētur pulchrā Trōiānus orīgine Caesar,  
+Nāscētur pulchrā Trōiānus orīgine Caesar,  
 imperium ōceanō, fāmam quī terminet astrīs,  
 Iūlius, ā magnō dēmissum nōmen Iūlō.  
 Hunc tū ōlim caelō, spoliīs Orientis onustum,  
@@ -445,7 +445,7 @@ suspīrāns īmōque trahēns ā pectore vōcem:
 
 *Aeneas narrates his misfortunes.*
 
-Ō dea, sī prīmā repetēns ab orīgine pergam,  
+‘Ō dea, sī prīmā repetēns ab orīgine pergam,  
 et vacet annālīs nostrōrum audīre labōrum,  
 ante diem clausō compōnet Vesper Olympō.  
 Nōs Trōiā antīquā, sī vestrās forte per aurīs  
@@ -546,7 +546,7 @@ bellaque iam fāmā tōtum volgāta per orbem,
 Atrīdās Priamumque et saevum ambōbus Achillem.  
 Cōnstitit et lacrimāns, ‘Quis iam locus,’ inquit, ‘Achātē,  
 quae regiō in terrīs nostrī nōn plēna labōris?  
-En Priamus! Sunt hīc etiam sua praemia laudī,  
+Ēn Priamus! Sunt hīc etiam sua praemia laudī,  
 sunt lacrimae rērum et mentem mortālia tangunt.  
 Solve metūs; feret haec aliquam tibi fāma salūtem.’  
 Sīc ait, atque animum pictūrā pāscit inānī  
@@ -804,7 +804,7 @@ flōribus et dulcī adspīrāns complectitur umbrā.
 
 *Dido gives a grand banquet.*
 
-Tamque ībat dictō pārēns et dōna Cupīdō  
+Iamque ībat dictō pārēns et dōna Cupīdō  
 rēgia portābat Tyriīs, duce laetus Achātē.  
 Cum venit, aulaeīs iam sē rēgīna superbīs  
 aureā composuit spondā mediamque locāvit,  

@@ -159,7 +159,7 @@ quōs ego—! sed mōtōs praestat compōnere flūctūs.
 Post mihi nōn similī poenā commissa luētis.  
 Mātūrāte fugam, rēgīque haec dīcite vestrō:  
 nōn illī imperium pelagī, saevumque tridentem,  
-sed mihi sorte datum. Tenet ille inmānia saxa,  
+sed mihi sorte datum. Tenet ille immānia saxa,  
 vestrās, Eure, domōs; illā sē iactet in aulā  
 Aeolus et clausō ventōrum carcere rēgnet.”  
 Sīc ait, et dictō citius tumida aequora plācat,  
@@ -514,7 +514,7 @@ Intereā ad templum nōn aequae Palladis ībant
 crīnibus Īliades passīs, peplumque ferēbant,  
 suppliciter trīstēs, et tūnsae pectora palmīs;  
 dīva solō fīxōs oculōs āversa tenēbat.  
-Ter circum īliacōs raptāverat Hectora mūrōs,  
+Ter circum Īliacōs raptāverat Hectora mūrōs,  
 exanimumque aurō corpus vēndēbat Achillēs.  
 Tum vērō ingentem gemitum dat pectore ab īmō,  
 ut spolia, ut currūs utque ipsum corpus amīcī  
@@ -590,7 +590,7 @@ et silvīs aptāre trabēs, et stringere rēmōs,
 sī datur Ītaliam sociīs et rēge receptō  
 tendere ut Ītaliam laetī Latiumque petāmus,  
 sīn absūmpta salūs, et tē, pater optime Teucrum,  
-pontus habet Libyae, nec spēs iam restat Iīlī,  
+pontus habet Libyae, nec spēs iam restat Iūlī,  
 at freta Sīcaniae saltem sēdīsque parātās,  
 unde hūc advectī, rēgemque petāmus Acestēn.”  
 Tālibus Īlioneus; cūnctī simul ōre fremēbant  
@@ -686,7 +686,7 @@ Aenēās (neque enim patrius cōnsistere mentem
 passus amor) rapidum ad nāvīs praemittit Achātēn,  
 Ascaniō ferat haec, ipsumque ad moenia dūcat:  
 omnis in Ascaniō cārī stat cūra parentis.  
-Mūnera praetereā īliacīs ērepta ruīnīs  
+Mūnera praetereā Īliacīs ērepta ruīnīs  
 ferre iubet, pallam signīs aurōque rigentem,  
 et circumtextum croceō vēlāmen acanthō,  
 ōrnātūs Argīvae Helenae, quōs illa Mycēnīs,  
@@ -750,7 +750,7 @@ centum aliae totidemque parēs aetāte ministrī,
 quī dapibus mēnsās onerent et pōcula pōnant.  
 Nec nōn et Tyriī per līmina laeta frequentēs  
 convēnēre, torīs iussī discumbere pictīs.  
-Mīrantur dōna Aenēae, mīrantur &īlum,  
+Mīrantur dōna Aenēae, mīrantur Iūlum,  
 flagrantīsque deī vultūs, simulātaque verba,  
 pallamque, et pictum croceō vēlāmen acanthō.  
 Praecipuē īnfēlīx, pestī dēvōta futūrae,  

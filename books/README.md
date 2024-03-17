@@ -31,7 +31,7 @@ pandoc -o fabulae.epub appleton_fabulae.md
  - [Drake - Selected Fables of Phaedrus](drake_phaedrus.md)[^1]
  - [Duff - Silva Latina](duff_silva_latina.md)
  - [Fairclough & Brown - Virgil's Aeneid](fairclough_brown_aeneid.md)
- - [Fay](fay_carolus.md)
+ - [Fay - Carolus et Maria](fay_carolus.md)
  - [Knapp - The Aeneid of Virgil and Metamorphoses of Ovid](knapp_aeneid.md)[^1]
  - [Maxey & Fay - A New Latin Primer](maxey_primer.md)
  - [Moore - Porta Latina](moore_porta.md)
