@@ -36,6 +36,7 @@ pandoc -o fabulae.epub appleton_fabulae.md
  - [Maxey & Fay - A New Latin Primer](maxey_primer.md)
  - [Moore - Porta Latina](moore_porta.md)
  - [Newman - Easy Latin Plays](newman_plays.md)
+ - [Nutting - A First Latin Reader](nutting_reader.md)
  - [Ritchie - Fabulae Faciles](ritchie_fabulae_faciles.md)
  - [Sonnenschein - Ora Maritima](sonnenschein_ora_maritima.md)
 
@@ -68,7 +69,6 @@ pandoc -o fabulae.epub appleton_fabulae.md
  - [Lord - Livy Book I](lord_livy.md)
  - [Maxey - Cornelia](maxey_cornelia.md)
  - [Miller & Beeson - Second Latin Book](miller_reader.md)
- - [Nutting - A First Latin Reader](nutting_reader.md)
  - [Nutting - Ad Alpes](nutting_ad_alpes.md)
  - [Paine & Mainwaring - Primus Annus](paine_primus.md)
  - [Paine & Mainwaring - Secundus Annus](paine_secundus.md)
