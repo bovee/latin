@@ -89,3 +89,7 @@ pandoc -o fabulae.epub appleton_fabulae.md
  - [Tunstall - Six Orations of Cicero](tunstall_cicero.md)
  - [von Minckwitz - Cicero Ten Orations](von_minckwitz_cicero.md)
  - [White - Cicero's Oration for Quintus Ligarius](white_cicero.md)
+
+## Other resources
+
+[WikiSource](https://la.wikisource.org/wiki/Categoria:Textus_ad_discendam_linguam_latinam) has a collection of Latin e-books in several formats.
