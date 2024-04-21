@@ -3,7 +3,7 @@ title: Breviarium Ab Urbe Condita
 author: Eutropius
 date: 2023
 lang: la
-edited: true
+edited: false
 license: CC-BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/deed.en
 original_scan: https://dcc.dickinson.edu/eutropius/intro/full-text
 notes: The text is obtained from Dickinson College Commentary, which already edited and proofread by them. I only add the headings' markdown (#, ##, ###)
