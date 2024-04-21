@@ -25,15 +25,15 @@ Rēs Rōmānās ex voluntāte mānsuētūdinis tuae ab urbe conditā ad nostram 
 
 ### Chapter 1: Rome Founded, 753 BCE. Romulus, 753 – 716 BCE 
 
-(1) Rōmānum imperium, quō neque ab exordiō ullum fere minus  neque incrementīs toto orbe amplius humanā potest memoriā recordari, ā Rōmulō exōrdium habet, quī Rhēae Silviae, Vestālis virginis, fīlius et, quantum putātus est, Mārtis, cum Remō frātre ūnō partū ēditus est. 
+(1) Rōmānum imperium, quō neque ab exōrdiō ūllum ferē minus neque incrēmentīs tōtō orbe amplius hūmānā potest memoriā recordārī, ā Rōmulō exōrdium habet, quī Rhēae Silviae, Vestālis virginis, fīlius et, quantum putātus est, Mārtis, cum Remō frātre ūnō partū ēditus est.
 
-(2) Is cum inter pāstōrēs latrōcinārētur, decem et octō annōs nātus urbem exiguam in Palātīnō monte cōnstituit, XI Kal. Māiās, Olympiadis sextae annō tertiō, post Trōiae excidium, ut qui plurimum minimumque tradunt, annō trecentēsimō nōnāgēsimō quārtō. 
+(2) Is cum inter pāstōrēs latrōcinārētur, decem et octo annōs nātus urbem exiguam in Palātīnō monte cōnstituit, XI Kal. Maiās, Olympiadis sextae annō tertiō, post Troiae excidium, ut quī plūrimum minimumque trādunt, annō trecentēsimō nōnāgēsimō quārtō.
 
 ### Chapter 2 
 
 (1) Conditā cīvitāte, quam ex nōmine suō Rōmam vocāvit, haec ferē ēgit: multitūdinem fīnitimōrum in cīvitātem recēpit, centum ex seniōribus lēgit, quōrum cōnsiliō omnia ageret, quōs senātōrēs nōmināvit propter senectūtem. 
 
-(2) Tum, cum uxōrēs ipse et populus suus nōn habērent, invītāvit ad spectāculum lūdōrum vīcīnās urbis Rōmae nātiōnēs atque aārum virginēs rapuit. Commōtīs bellīs propter raptārum iniūriam Caenīnēnsēs vīcit, Antemnātēs, Crustumīnōs, Sabīnōs, Fīdēnātēs, Vēientēs. Haec omnia oppida urbem cingunt. Et cum ortā subitō tempestāte nōn compāruisset annō rēgnī trīcēsimō septimō ad deōs trānsīsse crēditus est et cōsecrātus. Deinde Rōmae per quīnōs diēs senātōrēs imperāvērunt et hīs rēgnantibus annus ūnus complētus est. 
+(2) Tum, cum uxōrēs ipse et populus suus nōn habērent, invītāvit ad spectāculum lūdōrum vīcīnās urbis Rōmae nātiōnēs atque eārum virginēs rapuit. Commōtīs bellīs propter raptārum iniūriam Caenīnēnsēs vīcit, Antemnātēs, Crustumīnōs, Sabīnōs, Fīdēnātēs, Vēientēs. Haec omnia oppida urbem cingunt. Et cum ortā subitō tempestāte nōn compāruisset annō rēgnī trīcēsimō septimō ad deōs trānsīsse crēditus est et cōsecrātus. Deinde Rōmae per quīnōs diēs senātōrēs imperāvērunt et hīs rēgnantibus annus ūnus complētus est. 
 
 ### Chapter 3: Numa Pompilius, 715 – 672 BCE 
 
