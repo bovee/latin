@@ -30,6 +30,7 @@ pandoc -o fabulae.epub appleton_fabulae.md
  - [Dobson - Caesar in Britain](dobson_caesar_britain.md)
  - [Drake - Selected Fables of Phaedrus](drake_phaedrus.md)[^1]
  - [Duff - Silva Latina](duff_silva_latina.md)
+ - [Eutropius - Breviarium](eutropius_breviarium.md)[^2]
  - [Fairclough & Brown - Virgil's Aeneid](fairclough_brown_aeneid.md)
  - [Fay - Carolus et Maria](fay_carolus.md)
  - [Knapp - The Aeneid of Virgil and Metamorphoses of Ovid](knapp_aeneid.md)[^1]
@@ -41,6 +42,7 @@ pandoc -o fabulae.epub appleton_fabulae.md
  - [Sonnenschein - Ora Maritima](sonnenschein_ora_maritima.md)
 
 [^1]: Macrons weren't modified/updated for books consisting only of prose.
+[^2]: Books are obtained from secondary sources such as Wikisource or Dickinson College Commentaries
 
 ## List of Unedited Books or In-Progress Books
 
