@@ -48,6 +48,7 @@ pandoc -o fabulae.epub appleton_fabulae.md
  - [Appleton & Jones - Puer Romanus](appleton_jones_puer_romanus.md)
  - [D'Ooge - Easy Latin](dooge_easy_latin.md)
  - [D'Ooge - Selections from Urbis Romae Viri Inlustres](dooge_urbis_romae.md)
+ - [Eutropius - Breviarium](eutropius_breviarium.md)[^2]
  - [Fairclough & Richardson - Phormio of Terence](fairclough_richardson_phormio.md)
  - [Flagg - The Lives of Cornelius Nepos](flagg_nepos.md)
  - [Forbes - Eight Orations of Cicero](forbes_cicero.md)
@@ -89,6 +90,8 @@ pandoc -o fabulae.epub appleton_fabulae.md
  - [Tunstall - Six Orations of Cicero](tunstall_cicero.md)
  - [von Minckwitz - Cicero Ten Orations](von_minckwitz_cicero.md)
  - [White - Cicero's Oration for Quintus Ligarius](white_cicero.md)
+
+[^2]: Books are obtained from secondary sources such as Wikisource or Dickinson College Commentaries
 
 ## Other resources
 
