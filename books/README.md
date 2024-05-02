@@ -38,6 +38,7 @@ pandoc -o fabulae.epub appleton_fabulae.md
  - [Newman - Easy Latin Plays](newman_plays.md)
  - [Nutting - A First Latin Reader](nutting_reader.md)
  - [Ritchie - Fabulae Faciles](ritchie_fabulae_faciles.md)
+ - [Rolfe & Roberts - Caesar's Gallic War](rolfe_caesar.md)
  - [Sonnenschein - Ora Maritima](sonnenschein_ora_maritima.md)
 
 [^1]: Macrons weren't modified/updated for books consisting only of prose.
@@ -79,7 +80,6 @@ pandoc -o fabulae.epub appleton_fabulae.md
  - [Rolfe - The Lives of Cornelius Nepos](rolfe_nepos.md)
  - [Rolfe - Livy Book 1](rolfe_livy.md)
  - [Rolfe - Selections from Viri Romae](rolfe_viri_romae.md)
- - [Rolfe & Roberts - Caesar's Gallic War](rolfe_caesar.md)
  - [Sanford & Scott - A Junior Latin Reader](sanford_reader.md)
  - [Schlicher - Latin Plays](schlicher_plays.md)
  - [Scudder - Easy Latin](scudder_easy.md)
