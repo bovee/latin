@@ -32,6 +32,7 @@ pandoc -o fabulae.epub appleton_fabulae.md
  - [Duff - Silva Latina](duff_silva_latina.md)
  - [Fairclough & Brown - Virgil's Aeneid](fairclough_brown_aeneid.md)
  - [Fay - Carolus et Maria](fay_carolus.md)
+ - [Hazzard - Eutropius](hazzard_eutropius.md)
  - [Knapp - The Aeneid of Virgil and Metamorphoses of Ovid](knapp_aeneid.md)[^1]
  - [Maxey & Fay - A New Latin Primer](maxey_primer.md)
  - [Moore - Porta Latina](moore_porta.md)
@@ -61,7 +62,6 @@ pandoc -o fabulae.epub appleton_fabulae.md
  - [Gunnison & Harley - Marcus Tullius Cicero Seven Orations](gunnison_cicero.md)
  - [Harkness & Kirtland - Six Orations of Cicero](harkness_cicero.md)
  - [Harper & Gallup - Ten Orations of Cicero](harper_cicero.md)
- - [Hazzard - Eutropius](hazzard_eutropius.md)
  - [Herbermann - The Bellum Catilinae of C. Sallustius Crispus](herbermann_sallust.md)
  - [Humphreys - Selections from the History of Alexander the Great by Quintus Curtius Rufus](humphreys_alexander.md)
  - [Jones & Smith - Excerpta Brevia](jones_excerpta.md)
