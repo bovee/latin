@@ -1165,8 +1165,6 @@ Hanc Graecīs cōnscrīptam litterīs mittit, nē interceptā epistulā nostra a
 
 *Party strife among the Gauls.*
 
-FIXME: page 272 (of 307)
-
 *11.* Quoniam ad hunc locum perventum est, nōn aliēnum esse vidētur dē Galliae Germāniaeque mōribus, et quō differant hae nātiōnēs inter sēsē, prōpōnere.
 
 In Galliā nōn sōlum in omnibus cīvitātibus atque in omnibus pāgīs partibusque, sed paene etiam in singulīs domibus factiōnēs sunt, eārumque factiōnum prīncipēs sunt quī summam auctōritātem eōrum iūdiciō habēre exīstimantur, quōrum ad arbitrium iūdiciumque summa omnium rērum cōnsiliōrumque redeat.

@@ -34,6 +34,7 @@ pandoc -o fabulae.epub appleton_fabulae.md
  - [Fay - Carolus et Maria](fay_carolus.md)
  - [Hazzard - Eutropius](hazzard_eutropius.md)
  - [Knapp - The Aeneid of Virgil and Metamorphoses of Ovid](knapp_aeneid.md)[^1]
+ - [Maxey - Cornelia](maxey_cornelia.md)
  - [Maxey & Fay - A New Latin Primer](maxey_primer.md)
  - [Moore - Porta Latina](moore_porta.md)
  - [Newman - Easy Latin Plays](newman_plays.md)
@@ -69,7 +70,6 @@ pandoc -o fabulae.epub appleton_fabulae.md
  - [Kirtland - Selections from the Correspondence of Cicero](kirtland_cicero.md)
  - [Lord - Cicero de Amicitia](lord_amicitia.md)
  - [Lord - Livy Book I](lord_livy.md)
- - [Maxey - Cornelia](maxey_cornelia.md)
  - [Miller & Beeson - Second Latin Book](miller_reader.md)
  - [Nutting - Ad Alpes](nutting_ad_alpes.md)
  - [Paine & Mainwaring - Primus Annus](paine_primus.md)

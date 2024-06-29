@@ -796,8 +796,6 @@ Quō ubi perventum est, Indus sē sequī iussit, ac per silvās celeriter profec
 
 *An Earthquake in Colonial Times*
 
-FIXME: page 122
-
 Cum iam colōnī plūrimī Britanniam Novam incolēbant, ōlim noctū, dum hominēs ferē omnēs somnō gravī quiēscunt, repente mōtus terrae maximus factus est. Sonō horrendō ad aurīs adlātō, colōnī graviter permōtī ē lectīs cōnfestim exsiluērunt, tēcta ratī undique labefactārī; quīn etiam erant quī timērent nē vēnisset diēs mundī ultima aut certē adesset. Interim in marī nautae mōtum sēnsērunt, crēdēbantque nāvīs suās in saxa abscondita dēlātās esse; in agrīs autem bovēs, cum mūgītūs maximōs ēderent, omnīs in partēs perterritī cucurrērunt.
 
 Quīdam cōnfirmant sē tum vīdisse ignem per terram currere; ac certē quōdam locō erat terrae hiātus, ex quō pulvis levis fūmō similis aliquamdiū efferēbātur. Diēbus proximīs complūrēs cōnsecūtī sunt mōtūs, sed minōrēs; multīque hominēs, quī adhūc religiōnem sprēverant, propter timōrem ad cultum deōrum sē convertērunt. Trāditum quoque est, aquam cuiusdam fontis, quī terrae mōtū humī dēpressus erat, posteā hieme interdum glaciem factam esse, quamquam anteā omnī tempore annī ūberius fluere cōnsuēverat.
