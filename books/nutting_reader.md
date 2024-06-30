@@ -7,9 +7,11 @@ edited: true
 license: CC-BY-SA 4.0 http://creativecommons.org/licenses/by-sa/4.0/
 original_scan: https://www.google.com/books/edition/A_First_Latin_Reader/WrcAAAAAYAAJ
 notes:
-  (e.g. cōgnōvit -> cognōvit, fluctibus -> flūctibus, vāllum -> vallum)
+  Macronization updated to modern schemes, e.g. cōgnōvit -> cognōvit, fluctibus -> flūctibus, vāllum -> vallum
 ---
 # Early American history
+
+![](nutting_reader_images/00.png)
 
 ## Lesson I
 
@@ -83,6 +85,8 @@ Dum haec fīunt, Indī, quī prope colōniam habitābant, colōnōrum cōpiās s
 
 Quī, cum dēmum in Britanniam redīre vellet, Indōs complūrīs in nāvēs accēpit ac sēcum domum redūxit. Quō ubi est perventum omnēsque iam ē nāvibus ēgressī sunt, ūnus ē praepositīs Indōs paucōs sē sequī nāvemque iterum cōnscendere iussit; tum clam ad Hispāniam cum captīvīs miserīs profectus est. Ibi autem cum Indōs vēndere cōnārētur, sacerdōtēs quīdam, quī dē eius cōnsiliō certiōrēs factī erant, ad nāvem statim properāvērunt; ā quibus captīvī servātī sunt.
 
+![](nutting_reader_images/09.png)
+
 ## Lesson 9
 
 *Captain Jokn Smith (Concluded)*
@@ -130,6 +134,8 @@ Prīmō terrae incolās rārō vīdērunt; ōlim tamen, cum māne proficīscī p
 Postrēmō ad portum tūtum perventum est, ubi tribus ante annīs multī habitāverant Indī; quī iam ad ūnum morbō perierant. Quā dē rē certiōrēs factī, colōnī reliquī quoque ad eum locum vēnērunt, ibique ē nāvī in lītus ēgressī, dīs ēgērunt grātiās castraque posuērunt. Est in lītore etiam nunc saxum, quod Americānī semper coluērunt colentque
 semper, quod hīc dēmum ē nāvī ēgressī sunt Britannī illī, quī posteā maiōrēs peregrīnantēs appellātī sunt.
 
+![](nutting_reader_images/14.png)
+
 ## Lesson 14
 
 *A Soldiers Courtship*
@@ -151,6 +157,8 @@ Hōc ferē tempore colōnī aliī, ā Britanniā profectī, haud procul condidē
 *Old Friends become Enemies*
 
 Eī rēgī, ā quō colōnī dē suō perīculō cōnsiliīsque Indōrum certiōrēs factī sunt, duo erant fīliī, quī quoque colōnīs diū amīcī erant. Patre autem mortuō, iuvenēs suspicārī coepērunt bene ēmisse colōnōs, quibus silvās Indī vēndiderant; tum novam religiōnem cīvēs suōs amplectī haud libenter vīdērunt: itaque mox dē bellō cōgitābant. Quod ubi cognitum est, ē colōniā mīlitēs missī sunt, quī frātrem maiōrem, nōmine Alexandrum, prō obside in oppidum sēcum redūcerent. Ille autem ibi morbō affectus est gravī; cumque posteā domum redīsset, apud suōs brevī mortuus est. Quō factō, Alexandrum venēnō periisse arbitrātī, Indī sīcās secūrēsque suās acuere statim coepērunt.
+
+![](nutting_reader_images/16.png)
 
 Tum dēmum oppidānī alterum frātrem, quī Philippus appellābātur, ad colōniam dēdūxērunt, eumque coēgērunt arma omnia trādere, quae ipse comitēsque ferēbant; nec vērō dīmīsērunt hominem, dōnec pollicitus est sē reliqua quoque arma trāditūrum, quae domī Indī habēbant.
 
@@ -231,6 +239,8 @@ Iuvenis autem, sine morā ad castra colōnōrum clam profectus, cum prīmum in e
 *Nathaniel Bacon (Continued)*
 
 Brevī autem ad caput prōvinciae lēgātus celeriter redīre est coāctus; nūntiātum enim est oppidānōs, quōs domī relīquerat quīque iuvenī ducī amīcissimī erant, rēs novās ibi agitāre. Quibuscum lēgātus tum pācem fēcit; postquam vērō Bēcō dēmum ē bellō longinquō domum rediit, colōnī, lēgātum adhūc esse īrātum arbitrātī, noctēs diēsque ducis cārī aedēs custōdiēbant; eumque, cum paulō post decuriō factus esset, multī comitēs armātī ad oppidum secūtī sunt. Ibi tamen lēgātus, quī quoque cōpiās coēgerat, Bēcōnem statim rapuit, mox autem ab oppidānīs īrātīs dīmittere coāctus est. Sed iuvenis, paucīs post diēbus certior factus lēgātum parāre sē iterum in custōdiam dare, clam noctū fūgit ex oppidō, nec posterō diē ab inimīcīs suīs invenīrī potuit.
+
+![](nutting_reader_images/25.png)
 
 Colōnī scīlicet undique libenter convēnērunt, ut ducem cārum adiuvārent; isque iam mēnsēs multōs, modo cum Indīs modo cum lēgātō, fēlīciter bellum gessit. Ōlim, cum obsidēret urbem, quod erat caput prōvinciae, ballistāsque circum mūrōs collocāre vellet, uxōrēs inimīcōrum ē praediīs proximīs dēductās ante mīlitēs suōs posuisse dīcitur, ut sīne perīculō suōrum opus perficerētur.
 
@@ -320,6 +330,8 @@ Apud oppidum parvum, nōmine Lexingtōnem, prīmum pugnātum est, magnā cum cae
 
 Sed antequam Vasingtō in Britanniam Novam pervenīre potuit, iterum ācriter pugnātum est in quōdam colle, ubi posteā Americānī columnam maximam eōrum nōmine statuērunt, quī ibi prō lībertāte vītam suam largītī sunt. Eō in proeliō Britannī vīcērunt; sed nē hostēs quidem satis laudāre poterant virtūtem colōnōrum, quī impetum veterānōrum tam audācter excēperant.
 
+![](nutting_reader_images/35.png)
+
 Vasingtō, postquam illūc pervēnit, hostīs mēnsēs multōs intrā mūnītiōnēs Bostōnis continuit. Tum, cum eius cōpiae maiōrēs factae essent, subitō noctū prope urbem clam collem quendam occupāvit, atque ibi vallum summā celeritāte exstrūxit; quīn etiam ubi diēs illūxit duxque hostium mūnītiōnēs novās animadvertit, vehementer commōtus ille: “Hī colōnī ūnā nocte,” inquit, “tanta opera perfēcērunt, quanta meus exercitus mēnse tōtō perficere nōn potest.” Hōc vallō exstrūctō, cum cotīdiē tēla plūrima ballistīs Americanōrum in urbem mitterentur, hostēs brevī nāvēs cōnscendere atque ē portū fugere coāctī sunt.
 
 Colōnī adhūc bellum gesserant ut iūra cīvium Britannicōrum sibi concēderentur; iam vērō, cum neque rēx neque senātus eōs audīre vellet, dē Britanniā dēscīscere novamque condere rem pūblicam cōnstituērunt.
@@ -393,9 +405,11 @@ Quō ubi perventum est, mātris verbīs vehementer commōtus Coriolānus pollici
 
 Sed ut ad Americānōs redeāmus, ab eīs diū ac variā fortūnā bellum cum Britannīs gestum est. At paulātim oppida prōvinciārum, quae ad merīdiem spectant, rūrsus in potestātem Americānōrum vēnērunt, ac Cornivallis, quī iam ibi bellum gerēbat, in Virginiam postrēmō sē recipere coāctus est; quā in prōvinciā summā cum licentiā rapere et agere coepit omnia.
 
-Vasingtō autem iam aderat cum exercitū sociīsque Gallicīs; et Cornivallis in urbe mūnītissimā, quae Eborācopolis appellātur, undique obsessus, oppugnātiōnem duōs mēnsēs aegrē sustinuit. Tum hostēs, cum frūstrā ērumpere cōnātī essent parsque mūnītiōnum ab Americānīs esset expugnāta, sē suaque omnia Vasingtōnī dēdidērunt. Cornivallis autem ipse, nē suīs oculīs īgnōminiam exercitūs vidēret, eō diē sē esse aegrum simulābat, atque in tabernāculō, dōnec dēditiō est facta, maestus morātus est.
+Vasingtō autem iam aderat cum exercitū sociīsque Gallicīs; et Cornivallis in urbe mūnītissimā, quae Eborācopolis appellātur, undique obsessus, oppugnātiōnem duōs mēnsēs aegrē sustinuit. Tum hostēs, cum frūstrā ērumpere cōnātī essent parsque mūnītiōnum ab Americānīs esset expugnāta, sē suaque omnia Vasingtōnī dēdidērunt. Cornivallis autem ipse, nē suīs oculīs ignōminiam exercitūs vidēret, eō diē sē esse aegrum simulābat, atque in tabernāculō, dōnec dēditiō est facta, maestus morātus est.
 
-Hāc victōriā nūntiātā, Americānī ecfrēnātē gaudēbant; ac senātus in templum convocātus dīs grātiās maximās ēgit. Omnēs enim sentiēbant Britannīs pācem iam dēmum esse petendam.
+![](nutting_reader_images/43.png)
+
+Hāc victōriā nūntiātā, Americānī ecfrēnāte gaudēbant; ac senātus in templum convocātus dīs grātiās maximās ēgit. Omnēs enim sentiēbant Britannīs pācem iam dēmum esse petendam.
 
 ## Lesson 44
 
@@ -470,6 +484,9 @@ Quā rē impetrātā, mulier cum lectō lēniter ēlāta est; mīlitēs autem, n
 *How the Town was Saved*
 
 Multīs post annīs, quam ea, quae modo dīxī, facta sunt, duae puellae Americānae, quae aliō in oppidō prope mare habitābant, facinus memorābile ausae sunt. Ōlim enim, cum pater eārum longē abesset, in cōnspectum subitō vēnit nāvis longa Britannica; ex quā, cum in portum pervēnisset, mīlitēs multī scaphīs vectī ad lītus celeriter contendērunt atque Americānōrum coepērunt incendere nāvigia, quae tum forte in portū ad ancoram cōnsistēbant.
+
+![](nutting_reader_images/51_a.png)
+![](nutting_reader_images/51_b.png)
 
 Fugam iam parābant oppidānī cēterī; at puellae illae, tībiā tympanōque arreptīs, secundum lītus clam properāvērunt, ac colle parvō interpositō clārē canere coepērunt. Quō sonō audītō, Britannī vehementer commōtī armātōs plūrimōs appropinquāre arbitrābantur (nam Americānī multaeque gentēs aliae tībiā tympanōque canere solent, cum in proelium prōgrediuntur). Quārē, veritī nē interciperentur, hostēs, nāvigiīs oppidānōrum relictīs, celerrimē sē ad suam nāvem longam recēpērunt; nam nōn diūtius dē iniūriīs īnferendīs cōgitābant, sed sine morā nāvem solvērunt atque in mare apertum prōgressī sunt. Ita ā puellīs duābus oppidum servātum est.
 
@@ -567,8 +584,12 @@ Etsī vulnera Arnoldī nōn erant exitiālia, tempus tamen mortī opportūnissim
 
 Britannī, cum iam iterum cum Americānīs gererent bellum pugnīsque nāvālibus saepe victī essent, postrēmō cōnstituērunt usque ad Lovīsiānam classem mittere, sī ibi fēlīcius rem gerere possent. Quārē appulsīs nāvibus ad eum locum, ubi in mare fertur flūmen maximum, quem Indī patrem aquārum vocābant, mīlitēs multī in lītus ēgressī praedia fīnitima explōrāre coepērunt.
 
+![](nutting_reader_images/64_a.png)
+
 Sīc factum est ut quīdam adulēscēns Americānus, quī in vīllā ōtiōsus hōrā diēī ferē quārtā morābātur, mīlitēs complūrīs in hortō latentēs subitō animadverteret. Quā rē novā graviter commōtus, comitēs ut sine morā latebrās
 quaererent hortātus est, et ipse prīmō fugā salūtem petīvit; sed ab hostibus statim circumventus, sē dēdere tum nōn dubitāvit. At paulō post fenestrā patefactā ērūpit, cumque tēla hostium undique in eum conicerentur, incolumis pervēnit in palūdem, ubi Britannī armīs impedītī summō labōre sequēbantur.
+
+![](nutting_reader_images/64_b.png)
 
 Itaque iuvenis, cum dēmum ab hostibus intervāllō satis magnō abesset, arborem nactus idōneam in quā latēret, celeriter cōnscendit. Brevī autem sonum exiguum sub arbore audīvit; cumque dēspexisset, ibi vīdit canem, quam maximē amābat. Quārē perīculum veritus, comitem fidēlem, quae per palūdem dominum secūta erat, invītus necāvit, multīsque cum lacrimīs sub foliīs tēxit. Deinde aliquamdiū tacitus in arbore morātus est; postquam autem Britannī quaerendō dēfessī ad vīllam sē recēpērunt, magnō circuitū custōdiās hostium vītāvit, eōrumque dē adventū certiōrem fēcit imperātōrem Americānum, quī oppidum haud longinquum praesidiō tum tenēbat.
 
@@ -633,6 +654,8 @@ Mox in cōnspectū erat nāvis fugiēns; quae nūllō modō ēvādere potuit, cu
 *A Roman Vandal*
 
 Quibus rēbus admoneor ut dē pessimīs facinoribus Verris, hominis plānē scelerātī, pauca nunc dīcam. Nam ille, cum praetor in Siciliā esset, omnibus locīs oppida templaque spoliāvit; quīn etiam tantae erat avāritiae, ut nē pauperrimī quidem Siculī bona vidēre posset, quīn statim ea possidēre vellet. Interdum autem ā suīs comitibus est ēlūsus.
+
+![](nutting_reader_images/71.png)
 
 Sīcut memoriae trāditum est eum ōlim certiōrem factum cuidam Siculō esse duo pōcula argentea; quō audītō, etsī aedēs eiusdem hominis nūper spoliātae erant, nūntium statim mīsit, quī pōcula ad sē sine morā dēferrī iubēret. Siculus igitur, veritus nē sibi malum accideret maius, cōnfestim cum pōculīs ad praetōrem profectus est. Quō ubi pervēnit, praetor forte iam quiēscēbat; sed ante forēs ambulābant quīdam ex ipsīus amīcīs, hominēs improbī, quōrum tamen cōnsiliō ille multum ūtī cōnsuēverat: quī Siculō statim, “Ubi sunt pōcula?” inquiunt. Tum homō miser prīmō querī coepit bona omnia sibi ēripī, deinde eōs vehementer hortātus est ut sibi auxiliō essent. Quō audītō, illī “Quantum nōbīs dabis,” inquiunt, “sī pōcula tibi nōn ēripientur?” Tum Siculus spē ērēctus, praemium satis magnum pollicitus est, pōculaque brevī domum laetus reportāvit comitēs enim praetōris, cum ille ē somnō experrēctus esset, audācī mendāciō ūsī nōn dubitāvērunt cōnfirmāre pōcula sibi nōn digna vidērī, quae in eius mēnsā pōnerentur.
 
@@ -712,6 +735,8 @@ Multīs post annīs, cum Britannī iterum cum Americānīs bellum gererent, Ind�
 
 Quondam in marī Atlanticō secundum lītus Americānum ultrō citrōque nāvigābant pīrātae, quī omnibus locīs nāvēs vel Americānās vel Britannicās spoliābant; ē quibus ūnus, summae audāciae homō, liburnicīs praeerat complūribus. Is ōlim oppugnāre cōnstituit oppidum longinquum, quod numquam anteā spoliātum erat, cuiusque incolae locuplētēs esse dīcēbantur.
 
+![](nutting_reader_images/80.png)
+
 Sine dētrīmentō liburnicae in portum vēnērunt; tum autem captīvus quīdam, quī minus dīligenter custōdiēbātur, in mare clam exsiluit, ac nandō incolumis pervēnit ad lītus: quī sine morā oppidānōs dē cōnsiliīs pīrātārum certiōrēs fēcit. Quō nūntiō acceptō, oppidānī summā dīligentiā bona sua cēlāre coepērunt. Deinde, postquam pīrātae ē nāvibus ēgressī mīlitēs paucōs, quī oppidō erant praesidiō relictī, in fugam coniēcērunt, cīvēs ipsī, aedibus clausīs, tēla in hostēs prīmō coniēcērunt plūrima; sed postrēmō, timōre dētrīmentī etiam maiōris coāctī, sē maestī dēdidērunt. Quōs omnīs pīrātae, victōriā potītī, in templa quaedam coēgērunt. Ubi illī famē sunt paene necātī; victōrēs enim interim tam bene sē habēbant, ut omnīnō captīvōrum miserōrum oblīvīscerentur.
 
 ## Lesson 81 
@@ -777,6 +802,8 @@ Post domum, quae in prōmunturiō posita erat, silva erat parva. Itaque līberī
 *Horatius at the Bridge*
 
 Quae rēs memorābilis mē admonet dē facinore similī sed maiōre, quod Rōmae antīquitus ab Horātiō quōdam factum esse trāditur. Cum enim bellum ā rēge Porsinnā esset Rōmānīs indictum, Iāniculum impetū repentīnō captum est Rōmānīque perterritī trāns Tiberim in urbem quam celerrimē fugere coepērunt. Tum Horātius, quī sentiēbat hostēs, nisi pōns esset perruptus, urbe quoque statim potītūrōs, cīvīs suōs hortātus est ut pontem ignī ferrōque perrumperent, cum ipse impetum hostium sōlus sustinēret.
+
+![](nutting_reader_images/88.png)
 
 Itaque cum duōbus amīcīs fidēlibus, quōs pudor eum dēserere nōn patiēbātur, ad prīmum aditum pontis fortiter prōgressus, audācissimē ibi cōnstitit. Quā audāciā obstupefactī, hostēs prīmō paulum morātī sunt, deinde impetum acriōrem fēcērunt; Horātius vērō, minās contumēliāsque vōciferāns, summā virtūte dīmicābat, nec locō cessit priusquam post tergum pōns perruptus est. Tum in Tiberim armātus dēsiluit, et ad rīpam alteram incolumis pervēnit, quō paulō ante, exiguā parte pontis adhūc relictā, amīcōs duo sē recipere coēgerat.
 
@@ -844,13 +871,15 @@ Quō respōnsō dēceptī, pīrātae liburnicam vagantem propius accēdere pati�
 
 Paulō post oppidum ipsum classe est oppugnātum, atque invītus rēx pīrātārum captīvōs Americānōs incolumēs abīre patī coāctus est.
 
-## Lesson 66
+## Lesson 96
 
 *A Mysterious Disappearance*
 
 Colōniīs multīs iam in Americam dēductīs, Gallī etiam in Indōrum fīnēs sacerdōtēs mittere cōnsuēverant, nōn sōlum ut barbarī ad suam religiōnem converterentur, sed etiam ut illī amīcī essent, sī quandō cum Britannīs dīmicandum esset. Quī hominēs sānctī interdum maximīs in perīculīs versābantur; sīcut ōlim in regiōnibus longinquīs, quae posteā cīvitātis Noveborācēnsis pars factae sunt, sacerdōtēs complūrēs, quī cum negōtiātōribus paucīs castellum parvum ibi tenēbant, subitō certiōrēs factī sunt Indōs peregrīnōs omnīs occīdere cōnstituisse.
 
 Palam fugere nōn audēbant sacerdōtēs, neque eīs ūllae erant nāvēs, quibus ad Canadam veherentur. Itaque clam intrā castellum scaphās facere statim coepērunt; deinde, postquam omnia ad fugam iam sunt parāta, barbarōs ad convīvium vocāvērunt. Illī convēnērunt laetī; cumque ēdissent omnia, quae sacerdōtēs apposuerant, domum regressī in tabernāculīs mox sōpītī iacēbant. Tum Gallī silentiō scaphās ad rīpam portāvērunt, et flūmine secundō ad Canadam versus profectī sunt.
+
+![](nutting_reader_images/96.png)
 
 Māne Indī vīdērunt castellum clausum; quā rē animadversā, prīmō sacerdōtēs vōta facere crēdēbant. Postrēmō tamen, fenestrīs ingressī, intus esse nēminem timōre maximō sēnsērunt; nesciēbant enim Gallīs ūllās esse scaphās, eōsque arte magicā effūgisse iūdicābant.
 
@@ -894,6 +923,8 @@ Dum autem ibi liburnicam exspectat, in dēversōriō ā perfugā quōdam cōnspe
 
 # Stories from Caesar Retold: The Winter of 54-53 B.C.
 
+![](nutting_reader_images/101.png)
+
 ## Lesson 101
 
 **In 58 B.C. Julius Caesar became governor of northern Italy and the vast country extending from the Alps to the North Sea, and spent the next nine years in disciplining various tribes of that great territory.**
@@ -904,7 +935,7 @@ Caesar, cum in Galliā bellum gerēbat, tōtam aestātem hostēs premere solitus
 
 Quō factō, dux quīdam Gallōrum, nōmine Ambiorīx, cum exercitus tot in partēs dīvīsus esset, Rōmānōs iam dēmum facile superārī posse ratus, ūna castra longinqua subitō est adortus; impetus autem fortiter exceptus est ā nostrīs, quī equitēs hostium cōnfestim in fugam dedērunt. Quā spē dēiectī, Gallī clāmāvērunt sē colloquium velle; quō audītō, lēgātī quī illīs castrīs praeerant, extrā mūnītiōnēs nōn dubitāvērunt eōs mittere, quī cum Ambiorīge colloquerentur.
 
-## LESSON 102
+## Lesson 102
 
 *A Parley with the Enemy*
 
@@ -955,6 +986,8 @@ Cum sīc ā prīmā lūce ad hōram octāvam pugnātum esset, T. Balventius, vir
 *Annihilation of the Roman Force*
 
 Rēx respondit nihil Rōmānīs timendum esse, sēque Sabīnī ipsīus salūtem praestāre, sī ille ad colloquium venīre vellet.  Quō audītō, Cotta tamen negāvit ad armātum hostem sē itūrum, atque in eō persevērāvit. Sabīnus autem tribūnōs mīlitum centuriōnēsque quī adstābant sē sequī iussit; cumque propius Ambiorīgem accessisset, iussus arma abicere, pāruit, ac suīs ut idem facerent imperāvit. Dum autem ibi dē condiciōnibus inter sē agunt, Sabīnus paulātim circumventus ā Gallīs occīsus est.
+
+![](nutting_reader_images/107.png)
 
 Tum vērō hostēs sustulērunt ululātum, impetūque in nostrōs factō ōrdinēs perturbāvērunt. Ibi L. Cotta pugnāns periit cum maximā parte mīlitum. Reliquī sē in hīberna recēpērunt, unde erant nūper ēgressī. Ē quibus L. Petrosidius aquilifer, homō magnārum vīrium, cum cōnfertissimā multitūdine hostium premerētur, aquilam intrā vallum prōiēcit, ipse prō castrīs fortissimē pugnāns interfectus est.
 
@@ -1012,6 +1045,8 @@ Caesar, cōnsiliō eius probātō, etsī opīniōne trium legiōnum dēiectus ad
 
 Itaque cuidam ex equitibus Gallīs Caesar magnīs praemiīs persuāsit, ut ad Cicerōnem epistulam dēferret. Hanc Graecīs litterīs scrīptam mīsit, nē Gallō interceptō nostra cōnsilia ab hostibus cognōscerentur. Hominī imperāvit ut, sī hīberna intrāre nōn posset, trāgulam cum epistulā ad āmentum dēligātā intrā mūnītiōnēs abiceret. In epistulā scrīpsit sē cum legiōnibus profectum celeriter adfore; Cicerōnem hortātus est ut prīstinam virtūtem retinēret.
 
+![](nutting_reader_images/113.png)
+
 Gallus, cum ad hīberna vēnisset, perīculum veritus, ut erat imperātum, trāgulam cum litterīs mittit. Haec cāsū ad turrim adhaesit, neque ā nostrīs statim animadversa, tertiō diē ā mīlite quōdam cōnspicitur; quī eam sine morā ad Cicerōnem dēfert. Ille, epistulā perlēctā, mīlitēs laetus docet Caesarem iam subsidiō venīre. Tum fūmī incendiōrum procul cernēbantur; quae rēs omnem dubitātiōnem adventūs legiōnum expulit.
 
 ## Lesson 114
@@ -1039,6 +1074,8 @@ Dum haec fīunt, ad Labiēnum incrēdibilī celeritāte dē victōriā Caesaris 
 Postrīdiē Caesar cōntiōne habitā mīlitēs cōnfirmāvit, eōsque docuit dētrīmentum, quod temeritāte lēgātī esset acceptum, aequiōre animō esse ferendum, quod beneficiō deōrum immortālium et virtūte eōrum legiōnēs cēterae cōnservātae essent neque hostibus diūtinum gaudium relinquerētur. Fabium cum legiōne remīsit in hīberna; ipse cum tribus legiōnibus circum Samarobrīvam hiemāre cōnstituit: nam cum animī omnium Gallōrum ad bellum incitātī vidērentur, tōtam hiemem sibi apud exercitum manendum arbitrābātur.
 
 # Stories from Caesar Retold: An African Campaign
+
+![](nutting_reader_images/117.png)
 
 ## Lesson 117
 
@@ -1098,6 +1135,8 @@ Quā in fugā Fabius Paelignus, mīles quīdam ex Cūriōnis exercitū, agmen fu
 
 Interim fugientium multitūdine portae castrōrum complētae sunt, atque iter erat ita impedītum, ut plūrēs in eō locō sine vulnere quam in proeliō aut fugā interīrent; nōnnūllī vērō erant adeō perterritī, ut prōtinus eōdem cursū per castra in oppidum ipsum contenderent. At Cūriōnis mīlitēs, ad proelium ēgressī, sēcum nūllam cōpiam portāverant eārum rērum, quae ad oppugnātiōnem castrōrum erant ūsuī. Itaque Cūriō exercitum tum in castra redūcit.
 
+![](nutting_reader_images/122.png)
+
 Cuius discessū vulnerātī ē castrīs hostium in oppidum redūcuntur; quō quidem tempore multī praetereā per simulātiōnem vulnerum propter metum eōdem sēsē recipiunt. Quā rē animadversā exercitūsque timōre cognitō, Vārus, būcinātōre tabernāculīsque paucīs in castrīs ad speciem relictīs, tertiā vigiliā reliquum quoque exercitum silentiō in oppidum redūcit.
 
 ## Lesson 123
@@ -1152,6 +1191,8 @@ Vix agmen novissimum extrā mūnītiōnēs prōcesserat, cum Gallī cohortātī 
 
 Tum praemissīs paulum impedīmentīs atque in tumulō quōdam collocātīs, “Habētis,” inquit, “mīlitēs, quam petīstis facultātem; hostem impedītō atque inīquō locō tenētis: praestāte eandem nōbīs ducibus virtūtem, quam saepenumerō imperātōrī praestitistis, atque illum adesse et haec cōram cernere exīstimāte.” Simul signa ad hostem convertī aciemque dērigī iubet; paucīs turmīs praesidiō ad impedīmenta dīmissīs reliquōs equitēs ad latera dispōnit.
 
+![](nutting_reader_images/128.png)
+
 Celeriter nostrī clāmōre sublātō pīla in hostēs inmittunt. Illī ubi praeter spem, quōs modo fugere crēdēbant, īnfēstīs signīs ad sē īre vīdērunt, impetum ferre nōn potuērunt, ac prīmō concursū in fugam coniectī proximās silvās petīvērunt. Quōs Labiēnus equitātū cōnsectātus, magnō numerō interfectō, complūribus captīs, paucīs post diēbus cīvitātem recēpit. Nam Germānī, quī auxiliō veniēbant, perceptā Trēverōrum fugā, sēsē domum recēpērunt.
 
 # Select Passages from Latin Prose Authors: An Episode from the Civil War (Caesar, Dē Bellō Cīvīlī, III, 95-98)
@@ -1182,6 +1223,8 @@ Quō perfectō opere, illī dē dēditiōne missīs lēgātīs agere coepērunt.
 
 Plūribus hostiīs caesīs, cum litāre nōn posset, introiit cūriam sprētā religiōne Spurinnamque irrīdēns et ut falsum arguēns, quod sine ūllā suā noxā īdūs Mārtiae adessent: quamquam is vēnisse quidem eās dīceret, sed nōn praeterīsse. Assidentem cōnspīrātī speciē officiī circumstetērunt; īlicōque Cimber Tillius, quī prīmās partēs suscēperat, quasi aliquid rogātūrus propius accessit, renuentīque et gestū in aliud tempus differentī ab utrōque umerō togam apprehendit; deinde clāmantem, “Ista quidem vīs est,” alter ē Cascīs āversum vulnerat, paulum īnfrā iugulum.
 
+![](nutting_reader_images/131.png)
+
 Caesar Cascae bracchium arreptum graphiō trāiēcit, cōnātusque prōsilīre aliō vulnere tardātus est; utque animadvertit undique sē strictīs pūgiōnibus petī, togā caput obvolvit, simul sinistrā manū sinum ad īma crūra dēdūxit, quō honestius caderet, etiam īnferiōre corporis parte vēlātā. Atque ita tribus et vīgintī plāgīs cōnfossus est, ūnō modo ad prīmum ictum gemitū sine vōce ēditō; etsī trādidērunt quīdam Mārcō Brūtō inruentī dīxisse, “Καὶ σὺ τέκνον;” Exanimis, diffugientibus cūnctīs, aliquamdiū iacuit, dōnec lectīcae impositum, dēpendente bracchiō, trēs servolī domum rettulērunt. Nec in tot vulneribus, ut Antistius medicus exīstimābat, lētāle ūllum repertum est, nisi quod secundō locō in pectore accēperat.
 
 # Select Passages from Latin Prose Authors: The Fate of Hannibal (Nepos, Hannibal, 12, 13)
@@ -1206,6 +1249,8 @@ Hannibal enim ūnō locō sē tenēbat, in castellō, quod eī ā rēge datum er
 
 Igitur P. Umbrēnō cuidam negōtium dat, utī lēgātōs Allobrogum requīrat eōsque, sī possit, impellat ad societātem bellī, exīstimāns pūblicē prīvātimque aere aliēnō oppressōs, praetereā quod nātūrā gēns Gallica bellicōsa esset, facile eōs ad tāle cōnsilium addūcī posse.
 
+![](nutting_reader_images/134.png)
+
 Umbrēnus, quod in Galliā negōtiātus erat, plērīsque prīncipibus cīvitātium nōtus erat atque eōs nōverat. Itaque sine morā, ubi prīmum lēgātōs in forō cōnspexit, percontātus pauca dē statū cīvitātis et quasi dolēns eius cāsum, requīrere coepit, quem exitum tantīs malīs spērārent. Postquam illōs videt querī dē avāritiā magistrātuum, accūsāre senātum quod in eō auxilī nihil esset, miseriīs suīs remedium mortem exspectāre, “at ego,” inquit, “vōbīs, sī modo virī esse vultis, ratiōnem ostendam, quā tanta ista mala effugiātis.”
 
 ## Lesson 135
@@ -1229,6 +1274,8 @@ Intereā Catilīna cum expedītīs in prīmā aciē versārī, labōrantibus suc
 ## Lesson 137
 
 **About ten years after the suppression of the conspiracy of Catiline, Cicero, much against his inclination, was appointed governor of Cilicia and neighboring districts. Below are given extracts from a letter which he wrote from the east to a friend at Rome, telling some of his experiences as a provincial officer.**
+
+![](nutting_reader_images/137.png)
 
 Cum in prōvinciam pr. K. Sext. vēnissem, et propter annī tempus ad exercitum mihi cōnfestim esse eundum vidērem, bīduum Lāodicēae fuī, deinde Apamēae quadrīduum, trīduum Synnadīs, totidem diēs Philomēliī. Quibus in oppidīs cum magnī conventūs fuissent, multās cīvitātēs acerbissimīs tribūtīs et gravissimīs ūsūrīs et falsō aere aliēnō līberāvī. Cumque ante adventum meum sēditiōne quādam exercitus esset dissipātus, quīnque cohortēs sine lēgātō, sine tribūnō mīlitum, dēnique etiam sine centuriōne ūllō apud Philomēlium cōnsēdissent, reliquus exercitus esset in Lycāoniā M. Annēiō lēgātō imperāvī, ut eās quīnque cohortēs ad reliquum exercitum dūceret, coāctōque in ūnum locum exercitū, castra in Lycāoniā apud Īconium faceret. Quod cum ab illō dīligenter esset factum, ego in castra a. d. vii K. Sept. vēnī, cum intereā superiōribus diēbus ex senātūs cōnsultō et ēvocātōrum firmam manum et equitātum sānē idōneum et populōrum līberōrum
 rēgumque sociōrum auxilia voluntāria comparāvissem.

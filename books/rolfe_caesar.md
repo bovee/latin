@@ -12,6 +12,7 @@ original_scan: https://www.google.com/books/edition/Caesar_s_Gallic_War/AcoXAQAA
 notes:
 Macrons adjusted (cōnfīrmant -> cōnfirmant, trānsitur -> trānsītur, fīrmam -> firmam) and notes and vocabulary omitted. Footnotes removed from Books 5-7.
 ---
+![](rolfe_caesar_images/00.png)
 
 # Book I
 
@@ -22,6 +23,8 @@ Macrons adjusted (cōnfīrmant -> cōnfirmant, trānsitur -> trānsītur, fīrma
 *1.* Gallia est omnis dīvīsa in partēs trēs, quārum ūnam incolunt Belgae, aliam Aquītānī, tertiam, quī ipsōrum linguā Celtae, nostrā Gallī appellantur. Hī omnēs linguā, īnstitūtīs, lēgibus inter sē differunt. Gallōs ab Aquītānīs Garumna flūmen, ā Belgīs Matrona et Sēquana dīvidit.
 
 Hōrum omnium fortissimī sunt Belgae, proptereā quod ā cultū atque hūmānitāte prōvinciae longissimē absunt, minimēque ad eōs mercātōrēs saepe commeant atque ea quae ad effēminandōs animōs pertinent important, proximīque sunt Germānīs, quī trāns Rhēnum incolunt, quibuscum continenter bellum gerunt. Quā dē causā Helvētiī quoque reliquōs Gallōs virtūte praecēdunt, quod ferē cotīdiānīs proeliīs cum Germānīs contendunt, cum aut suīs fīnibus eōs prohibent aut ipsī in eōrum fīnibus bellum gerunt.
+
+![](rolfe_caesar_images/01.png)
 
 Eōrum ūna pars, quam Gallōs obtinēre dictum est, initium capit ā flūmine Rhodanō; continētur Garumnā flūmine, Ōceanō, fīnibus Belgārum; attingit etiam ā Sēquanīs et Helvētiīs flūmen Rhēnum; vergit ad septentriōnēs. Belgae ab extrēmīs Galliae fīnibus oriuntur, pertinent ad īnferiōrem partem flūminis Rhēnī; spectant in septentriōnem et orientem sōlem. Aquītānia ā Garumnā flūmine ad Pȳrēnaeōs montēs et eam partem Ōceanī, quae est ad Hispāniam, pertinet; spectat inter occāsum sōlis et septentriōnēs.
 
@@ -182,6 +185,8 @@ Helvētiī cum omnibus suīs carrīs secūtī impedīmenta in ūnum locum contul
 *The Romans repulse the enemy, but the Boii and Tulingi attack Caesars flfank. The Helvetians return, and the Romans are assailed on both sides.*
 
 *25.* Caesar prīmum suō, deinde omnium ex cōnspectū remōtīs equīs, ut aequātō omnium perīculō spem fugae tolleret, cohortātus suōs proelium commīsit. Mīlitēs ē locō superiōre pīlīs missīs facile hostium phalangem perfrēgērunt. Eā disiectā, gladiīs dēstrictīs in eōs impetum fēcērunt. Gallīs magnō ad pugnam erat impedīmentō, quod plūribus eōrum scūtīs ūnō ictū pīlōrum trānsfīxīs et colligātīs, cum ferrum sē īnflexisset, neque ēvellere neque sinistrā impedītā satis commodē pugnāre poterant, multī ut diū iactātō bracchiō praeoptārent scūtum manū ēmittere et nūdō corpore pugnāre.
+
+![](rolfe_caesar_images/1-25.png)
 
 Tandem vulneribus dēfessī et pedem referre et, quod mōns suberat circiter mīlle passuum, eō sē recipere coepērunt. Captō monte et succēdentibus nostrīs, Boiī et Tulingī, quī hominum mīlibus circiter quīndecim agmen hostium claudēbant et novissimīs praesidiō erant, ex itinere nostrōs ā latere apertō aggressī circumvenīre, et id cōnspicātī Helvētiī, quī in montem sēsē recēperant, rūrsus īnstāre et proelium redintegrāre coepērunt. Rōmānī conversa signa bipertītō intulērunt: prīma et secunda aciēs, ut victīs ac summōtīs resisteret; tertia, ut venientēs sustinēret
 
@@ -356,6 +361,8 @@ Posteāquam in vulgus mīlitum ēlātum est, quā arrogantiā in colloquiō Ario
 
 *47.* Bīduō post Ariovistus ad Caesarem lēgātōs mīsit: Velle sē dē hīs rēbus quae inter eōs agī coeptae neque perfectae essent agere cum eō; utī aut iterum colloquiō diem cōnstitueret aut, sī id minus vellet, ex suīs lēgātīs aliquem ad sē mitteret. Colloquendī Caesarī causa vīsa nōn est, et eō magis quod prīdiē eius diēī Germānī retinērī nōn potuerant quīn in nostrōs tēla conicerent. Lēgātum ex suīs sēsē magnō cum perīculō ad eum missūrum et hominibus ferīs obiectūrum exīstimābat.
 
+![](rolfe_caesar_images/1-47.png)
+
 Commodissimum vīsum est C. Valerium Procillum, C. Valerī Cabūrī fīlium, summā virtūte et hūmānitāte adulēscentem, cuius pater ā C. Valeriō Flaccō cīvitāte dōnātus erat, et propter fidem et propter linguae Gallicae scientiam, quā multā iam Ariovistus longinquā cōnsuētūdine ūtēbātur, et quod in eō peccandī Germānīs causa nōn esset, ad eum mittere, et ūnā M. Metium, quī hospitiō Ariovistī ūtēbātur. Hīs mandāvit ut quae dīceret Ariovistus cognōscerent et ad sē referrent. Quōs cum apud sē in castrīs Ariovistus cōnspexisset, exercitū suō praesente conclāmāvit: Quid ad sē venīrent? an speculandī causā? Cōnantēs dīcere prohibuit et in catēnās coniēcit.
 
 *Ariovistus declines a general engagement and tries to cut off Caesar’s supplies. His cavalry and their tactics.*
@@ -392,6 +399,8 @@ Cum hostium aciēs ā sinistrō cornū pulsa atque in fugam coniecta esset, ā d
 
 *53.* Ita proelium restitūtum est, atque omnēs hostēs terga vertērunt neque prius fugere dēstitērunt quam ad flūmen Rhēnum, mīlia passuum ex eō locō circiter quīnque, pervēnērunt. Ibi perpaucī aut vīribus cōnfīsī trānāre contendērunt aut lintribus inventīs sibi salūtem repperērunt. In hīs fuit Ariovistus, quī nāviculam dēligātam ad rīpam nactus eā profūgit; reliquōs omnēs cōnsecūtī equitēs nostrī interfēcērunt.
 
+![](rolfe_caesar_images/1-53.png)
+
 Duae fuērunt Ariovistī uxōrēs, ūna Suēba nātiōne, quam domō sēcum ēdūxerat, altera Nōrica, rēgis Vocciōnis soror, quam in Galliā dūxerat ā frātre missam; utraque in eā fugā periit; duae fīliae hārum altera occīsa, altera capta est.
 
 C. Valerius Procillus cum ā custōdibus in fugā trīnīs catēnīs vīnctus traherētur, in ipsum Caesarem hostēs equitātū persequentem incidit. Quae quidem rēs Caesarī nōn minōrem quam ipsa victōria voluptātem attulit, quod hominem honestissimum prōvinciae Galliae, suum familiārem et hospitem, ēreptum ē manibus hostium sibi restitūtum vidēbat, neque eius calamitāte dē tantā voluptāte et grātulātiōne quicquam fortūna dēminuerat. Hīc sē praesente dē sē ter sortibus cōnsultum dīcēbat, utrum ignī statim necārētur an in aliud tempus reservārētur; sortium beneficiō sē esse incolumem. Item M. Metius repertus et ad eum reductus est.
@@ -424,6 +433,8 @@ Coniūrandī hās esse causās: prīmum quod verērentur nē omnī pācātā Gal
 
 *4.* Cum ab hīs quaereret quae cīvitātēs quantaeque in armīs essent et quid in bellō possent, sīc reperiēbat: plērōsque Belgās esse ortōs ā Germānīs Rhēnumque antīquitus trāductōs propter locī fertilitātem ibi cōnsēdisse, Gallōsque quī ea loca incolerent expulisse, sōlōsque esse quī patrum nostrōrum memoriā omnī Galliā vexātā Teutonōs Cimbrōsque intrā fīnēs suōs ingredī prohibuerint; quā ex rē fierī utī eārum rērum memoriā magnam sibi auctōritātem magnōsque spīritūs in rē mīlitārī sūmerent.
 
+![](rolfe_caesar_images/2-04.png)
+
 Dē numerō eōrum omnia sē habēre explōrāta Rēmī dīcēbant, proptereā quod propinquitātibus affīnitātibusque coniūnctī, quantam quisque multitūdinem in commūnī Belgārum conciliō ad id bellum pollicitus sit, cognōverint. Plūrimum inter eōs Bellovacōs et virtūte et auctōritāte et hominum numerō valēre; hōs posse cōnficere armāta mīlia centum; pollicitōs ex eō numerō ēlēcta mīlia sexāgintā tōtīusque bellī imperium sibi postulāre. Suessiōnēs suōs esse fīnitimōs; fīnēs lātissimōs feracissimōsque agrōs possidēre. Apud eōs fuisse rēgem nostrā etiam memoriā Dīviciācum, tōtīus Galliae potentissimum, quī cum magnae partis hārum regiōnum, tum etiam Britanniae imperium obtinuerit; nunc esse rēgem Galbam; ad hunc propter iūstitiam prūdentiamque summam tōtīus bellī omnium voluntāte dēferrī; oppida habēre numerō XII, pollicērī mīlia armāta quīnquāgintā; totidem Nerviōs, quī maximē ferī inter ipsōs habeantur longissimēque absint; quīndecim mīlia Atrebātēs, Ambiānōs decem mīlia, Morinōs XXV mīlia, Menapiōs VII mīlia, Caletōs X mīlia, Veliocassēs et Viromanduōs totidem, Aduatucōs decem et novem mīlia; Condrūsōs, Eburōnēs, Caeroesōs, Paemanōs, quī ūnō nōmine Germānī appellantur, arbitrārī ad XL mīlia.
 
 *Caesar sends Diviciacus to lay waste the land of the Bellovaci. He himself encamps across the river Arona.*
@@ -439,6 +450,8 @@ In eō flūmine pōns erat. Ibi praesidium pōnit et in alterā parte flūminis 
 *6.* Ab hīs castrīs oppidum Rēmōrum nōmine Bibrax aberat mīlia passuum octō. Id ex itinere magnō impetū Belgae oppugnāre coepērunt. Aegrē eō diē sustentātum est. Gallōrum eadem atque Belgārum oppugnātiō est haec: ubi, circumiectā multitūdine hominum tōtīs moenibus, undique in mūrum lapidēs iacī coeptī sunt mūrusque dēfēnsōribus nūdātus est, testūdine factā portās succendunt mūrumque subruunt. Quod tum facile fīēbat. Nam cum tanta multitūdō lapidēs ac tēla conicerent, in mūrō cōnsistendī potestās erat nūllī.
 
 Cum fīnem oppugnandī nox fēcisset, Iccius Rēmus, summā nōbilitāte et grātiā inter suōs, quī tum oppidō praefuerat, ūnus ex eīs, quī lēgātī dē pāce ad Caesarem vēnerant, nūntium ad eum mittit: nisi subsidium sibi summittātur, sēsē diūtius sustinēre nōn posse.
+
+![](rolfe_caesar_images/2-06.png)
 
 *Caesar sends help. The Belgians raise the siege and encamp near Caesar.*
 
@@ -518,6 +531,8 @@ Hīs difficultātibus duae rēs erant subsidiō, scientia atque ūsus mīlitum, 
 
 *The Romans hastily prepare for battle.*
 
+![](rolfe_caesar_images/2-21.png)
+
 *21.* Caesar necessāriīs rēbus imperātīs ad cohortandōs mīlitēs quam in partem fors obtulit dēcucurrit, et ad legiōnem decimam dēvēnit. Mīlitēs nōn longiōre ōrātiōne cohortātus quam utī suae prīstinae virtūtis memoriam retinērent neu perturbārentur animō hostiumque impetum fortiter sustinērent, quod nōn longius hostēs aberant quam quō tēlum adigī posset, proelī committendī signum dedit. Atque in alteram partem item cohortandī causā profectus pugnantibus occurrit.  Temporis tanta fuit exiguitās hostiumque tam parātus ad dīmicandum animus, ut nōn modo ad īnsignia accommodanda, sed etiam ad galeās induendās scūtīsque tegimenta dētrahenda tempus dēfuerit. Quam quisque ab opere in partem cāsū dēvēnit quaeque prīma signa cōnspexit, ad haec cōnstitit, nē in quaerendīs suīs pugnandī tempus dīmitteret.
 
 *Difficulties of the situation.*
@@ -560,7 +575,9 @@ At hostēs etiam in extrēmā spē salūtis tantam virtūtem praestitērunt, ut,
 
 *29.* Aduatucī, dē quibus suprā scrīpsimus, cum omnibus cōpiīs auxiliō Nerviīs venīrent, hāc pugnā nūntiātā ex itinere domum revertērunt; cūnctīs oppidīs castellīsque dēsertīs sua omnia in ūnum oppidum ēgregiē nātūrā mūnītum contulērunt. Quod cum ex omnibus in circuitū partibus altissimās rūpēs dēiectūsque habēret, ūnā ex parte lēniter acclīvis aditus in lātitūdinem nōn amplius ducentōrum pedum relinquēbātur; quem locum duplicī altissimō mūrō mūnierant; tum magnī ponderis saxa et praeacūtās trabēs in mūrō collocābant.
 
-Ipsī erant ex Cimbrīs Teutonīsque prōgnātī, quī cum iter in prōvinciam nostram atque Italiam facerent, eīs impedīmentīs quae sēcum agere ac portāre nōn poterant citrā flūmen Rhēnum dēpositīs, cūstōdiam ex suīs ac praesidium sex mīlia hominum ūnā reliquērunt. Hī post eōrum obitum multōs annōs ā fīnitimīs exagitātī, cum aliās bellum īnferrent, aliās illātum dēfenderent, cōnsēnsū eōrum omnium pāce factā hunc sibi domiciliō locum dēlēgērunt.
+![](rolfe_caesar_images/2-29.png)
+
+Ipsī erant ex Cimbrīs Teutonīsque prōgnātī, quī cum iter in prōvinciam nostram atque Italiam facerent, eīs impedīmentīs quae sēcum agere ac portāre nōn poterant citrā flūmen Rhēnum dēpositīs, custōdiam ex suīs ac praesidium sex mīlia hominum ūnā relīquērunt. Hī post eōrum obitum multōs annōs ā fīnitimīs exagitātī, cum aliās bellum īnferrent, aliās illātum dēfenderent, cōnsēnsū eōrum omnium pāce factā hunc sibi domiciliō locum dēlēgērunt.
 
 *They intrench themselves and laugh at the Roman siege works.*
 
@@ -594,7 +611,11 @@ Celeriter, ut ante Caesar imperāverat, ignibus significātiōne factā ex proxi
 
 *35.* Hīs rēbus gestīs omnī Galliā pācātā, tanta huius bellī ad barbarōs opīniō perlāta est utī ab eīs nātiōnibus quae trāns Rhēnum incolerent mitterentur lēgātī ad Caesarem, quī sē obsidēs datūrās, imperāta factūrās pollicērentur. Quās lēgātiōnēs Caesar, quod in Italiam Īllyricumque properābat, initā proximā aestāte ad sē revertī iussit. Ipse in Carnutēs, Andēs, Turonōs, quaeque cīvitātēs propinquae hīs locīs erant ubi bellum gesserat legiōnibus in hīberna dēductīs, in Italiam profectus est. Ob eāsque rēs ex litterīs Caesaris diērum quīndecim supplicātiō dēcrēta est, quod ante id tempus accidit nūllī.
 
+![](rolfe_caesar_images/2-35.png)
+
 # Book III
+
+![](rolfe_caesar_images/3-00.png)
 
 ## I. Perilous Experience of Galba among the Alpine Tribes, Last Part of 57 B.C.
 
@@ -625,6 +646,8 @@ Galba secundīs aliquot proeliīs factīs castellīsque complūribus eōrum expu
 *6.* Quod iussī sunt faciunt, ac subitō omnibus portīs ēruptiōne factā neque cognōscendī quid fieret neque suī colligendī hostibus facultātem relinquunt. Ita commūtātā fortūnā eōs quī in spem potiundōrum castrōrum vēnerant undique circumventōs interficiunt; et ex hominum mīlibus amplius XXX, quem numerum barbarōrum ad castra vēnisse cōnstābat, plūs tertiā parte interfectā reliquōs perterritōs in fugam coniciunt ac nē in locīs quidem superiōribus cōnsistere patiuntur. Sīc omnibus hostium cōpiīs fūsīs armīsque exūtīs sē intrā mūnītiōnēs suās recipiunt.
 
 Quō proeliō factō, quod saepius fortūnam temptāre Galba nōlēbat, atque aliō sē in hīberna cōnsiliō vēnisse meminerat, aliīs occurrisse rēbus vīderat, maximē frūmentī commeātūsque inopiā permōtus, posterō diē omnibus eius vīcī aedificiīs incēnsīs in prōvinciam revertī contendit, ac nūllō hoste prohibente aut iter dēmorante incolumem legiōnem in Nantuātēs, inde in Allobrogēs perdūxit ibique hiemāvit.
+
+![](rolfe_caesar_images/3-06.png)
 
 ## II. Campaign of Crassus against the Veneti, 56 B.C.
 
@@ -661,6 +684,8 @@ Hīs initīs cōnsiliīs oppida mūniunt, frūmenta ex agrīs in oppida comporta
 *The towns difficult for the Romans to reach, easy for the Veneti to retreat from if necessary.*
 
 *12.* Erant eius modī ferē sitūs oppidōrum, ut posita in extrēmīs lingulīs prōmunturiīsque neque pedibus aditum habērent, cum ex altō sē aestus incitāvisset, quod accidit semper hōrārum XII spatiō, neque nāvibus, quod rūrsus minuente aestū nāvēs in vadīs afflīctārentur. Ita utrāque rē oppidōrum oppugnātiō impediēbātur; ac sī quandō, magnitūdine operis forte superātī, extrūsō marī aggere ac mōlibus atque hīs oppidī moenibus adaequātīs, suīs fortūnīs dēspērāre coeperant, magnō numerō nāvium appulsō, cuius reī summam facultātem habēbant, sua dēportābant omnia sēque in proxima oppida recipiēbant; ibi sē rūrsus īsdem opportūnitātibus locī dēfendēbant.
+
+![](rolfe_caesar_images/3-12.png)
 
 Haec eō facilius magnam partem aestātis faciēbant, quod nostrae nāvēs tempestātibus dētinēbantur, summaque erat vāstō atque apertō marī, magnīs aestibus, rārīs ac prope nūllīs portibus difficultās nāvigandī.
 
@@ -701,6 +726,8 @@ Multae rēs ad hōc cōnsilium Gallōs hortābantur: superiōrum diērum Sabīn�
 *19.* Locus erat castrōrum ēditus et paulātim ab īmō acclīvis circiter passūs mīlle. Hūc magnō cursū contendērunt, ut quam minimum spatī ad sē colligendōs armandōsque Rōmānīs darētur, exanimātīque pervēnērunt. Sabīnus suōs hortātus cupientibus signum dat. Impedītīs hostibus propter ea quae ferēbant onera, subitō duābus portīs ēruptiōnem fierī iubet. Factum est opportūnitāte locī, hostium īnscientiā ac dēfatīgātiōne, virtūte mīlitum et superiōrum pugnārum exercitātiōne, ut nē prīmum quidem nostrōrum impetum ferrent ac statim terga verterent. Quōs integrīs vīribus mīlitēs nostrī cōnsecūtī magnum numerum eōrum occīdērunt; reliquōs equitēs cōnsectātī, paucōs quī ex fugā ēvāserant relīquērunt.
 
 Sīc ūnō tempore et dē nāvālī pugnā Sabīnus et dē Sabīnī victōriā Caesar est certior factus, cīvitātēsque omnēs sē statim Titūriō dēdidērunt. Nam ut ad bella suscipienda Gallōrum alacer ac prōmptus est animus, sīc mollis ac minimē resistēns ad calamitātēs perferendās mēns eōrum est.
+
+![](rolfe_caesar_images/3-29.png)
 
 ## IV. Campaign of Crassus in Aquitania
 
@@ -1203,6 +1230,8 @@ Disciplīna in Britanniā reperta atque inde in Galliam trānslāta esse exīsti
 
 *14.* Druidēs ā bellō abesse cōnsuērunt neque tribūta ūnā cum reliquīs pendunt, mīlitiae vacātiōnem omniumque rērum habent immūnitātem. Tantīs excitātī praemiīs et suā sponte multī in disciplīnam conveniunt et parentibus propinquīsque mittuntur.
 
+![](rolfe_caesar_images/6-14.png)
+
 Magnum ibi numerum versuum ēdiscere dīcuntur. Itaque annōs nōnnūllī vīcēnōs in disciplīnā permanent. Neque fās esse exīstimant ea litterīs mandāre, cum in reliquīs ferē rēbus, pūblicīs prīvātīsque ratiōnibus, Graecīs litterīs ūtantur. Id mihi duābus dē causīs īnstituisse videntur, quod neque in vulgum disciplīnam efferrī velint neque eōs quī discunt litterīs cōnfīsōs minus memoriae studēre, quod ferē plērīsque accidit ut praesidiō litterārum dīligentiam in perdiscendō ac memoriam remittant.
 
 In prīmīs hōc volunt persuādēre, nōn interīre animās, sed ab aliīs post mortem trānsīre ad aliōs, atque hōc maximē ad virtūtem excitārī putant metū mortis neglēctō. Multa praetereā dē sīderibus atque eōrum mōtū, dē mundī ac terrārum magnitūdine, dē rērum nātūrā, dē deōrum immortālium vī ac potestāte disputant et iuventūtī trādunt.
@@ -1301,6 +1330,8 @@ Eius mūnītiōnis, quae ā Rōmānīs īnstituēbātur, circuitus ūndecim mīl
 
 *70.* Opere īnstitūtō fit equestre proelium in eā plānitiē quam intermissam collibus tria mīlia passuum in longitūdinem patēre suprā dēmōnstrāvimus. Summā vī ab utrīsque contenditur. Labōrantibus nostrīs Caesar Germānōs summittit legiōnēsque prō castrīs cōnstituit, nē qua subitō irruptiō ab hostium peditātū fīat. Praesidiō legiōnum additō nostrīs animus augētur; hostēs in fugam coniectī sē ipsī multitūdine impediunt atque angustiōribus portīs relictīs coartantur.
 
+![](rolfe_caesar_images/7-70.png)
+
 Germānī ācrius ūsque ad mūrōs persequuntur. Fit magna caedēs; nōnnūllī, relictīs equīs, fossam trānsīre et māceriam trānscendere cōnantur. Paulum legiōnēs Caesar, quās prō vallō cōnstituerat, prōmovērī iubet. Nōn minus, quī intrā mūnītiōnēs erant, perturbantur Gallī; venīrī ad sē cōnfestim exīstimantēs ad arma conclāmant; nōnnūllī perterritī in oppidum irrumpunt. Vercingetorīx iubet portās claudī, nē castra nūdentur. Multīs interfectīs, complūribus equīs captīs, Germānī sēsē recipiunt.
 
 *Vercingetorix sends his cavalry for help. He prepares for a siege.*
@@ -1317,7 +1348,9 @@ Hōc intermissō spatiō duās fossās XV pedēs lātās eādem altitūdine perd
 
 *Caesar strengthens his fortifications on the side towards Alesia.*
 
-*78.* Erat eōdem tempore et māteriārī et frūmentārī et tantās mūnītiōnēs fierī necesse dēminūtīs nostrīs cōpiīs, quae longius ā castrīs prōgrediēbantur; ac nōnnumquam opera nostra Gallī temptāre atque ēruptiōnem ex oppidō plūribus portīs summā vī facere cōnābantur.
+*73.* Erat eōdem tempore et māteriārī et frūmentārī et tantās mūnītiōnēs fierī necesse dēminūtīs nostrīs cōpiīs, quae longius ā castrīs prōgrediēbantur; ac nōnnumquam opera nostra Gallī temptāre atque ēruptiōnem ex oppidō plūribus portīs summā vī facere cōnābantur.
+
+![](rolfe_caesar_images/7-73.png)
 
 Quārē ad haec rūrsus opera addendum Caesar putāvit, quō minōre numerō mīlitum mūnītiōnēs dēfendī possent. Itaque truncīs arborum aut admodum firmīs rāmīs abscīsīs atque hōrum dēlibrātīs ac praeacūtīs cacūminibus perpetuae fossae quīnōs pedēs altae dūcēbantur. Hūc illī stīpitēs dēmissī et ab īnfimō revīnctī, nē revellī possent, ā rāmīs ēminēbant.
 

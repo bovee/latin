@@ -11,6 +11,9 @@ original_scan: https://archive.org/details/aeneidbooks16wit00virguoft
 notes:
   The original text has books 1 through 6, but only book 1 is macronized so the others were omitted for OCR. Notes and Vocabulary omitted. Only slight changes to macrons.
 ---
+
+![](fairclough_brown_aeneid_images/01.png)
+
 # Virgil's Aeneid
 
 ## Liber I.
@@ -45,6 +48,9 @@ Prōgeniem sed enim Trōiānō ā sanguine dūcī
 audierat, Tyriās ōlim quae verteret arcēs;  
 hinc populum lātē rēgem bellōque superbum  
 ventūrum excidiō Libyae: sīc volvere Parcās.  
+
+![](fairclough_brown_aeneid_images/04.png)
+
 Id metuēns veterisque memor Sāturnia bellī,  
 prīma quod ad Trōiam prō cārīs gesserat Argīs —  
 (necdum etiam causae īrārum saevīque dolōrēs  
@@ -312,6 +318,8 @@ nāvibus (īnfandum!) āmissīs ūnīus ob īram
 prōdimur atque Italīs longē disiungimur ōrīs.  
 Hic pietātis honōs? Sīc nōs in scēptra repōnis?’  
 
+![](fairclough_brown_aeneid_images/05.png)
+
 *Jupīter prophesies the future of the Trojan race.*
 
 Ollī subrīdēns hominum sator atque deōrum  
@@ -335,6 +343,9 @@ trānsferet et Longam multā vī mūniet Albam.
 Hīc iam ter centum tōtōs rēgnābitur annōs  
 gente sub Hectoreā, dōnec rēgīna sacerdōs  
 Mārte gravis geminam partū dabit īlia prōlem.  
+
+![](fairclough_brown_aeneid_images/06.png)
+
 Inde lupae fulvō nūtrīcis tegmine laetus  
 Rōmulus excipiet gentem et Māvortia condet  
 moenia Rōmānōsque suō dē nōmine dīcet.  
@@ -357,6 +368,8 @@ iūra dabunt; dīrae ferrō et compāgibus artīs
 claudentur Bellī portae; Furor impius intus  
 saeva sedēns super arma et centum vīnctus aēnīs  
 post tergum nōdīs fremet horridus ōre cruentō.’  
+
+![](fairclough_brown_aeneid_images/07.png)
 
 *Mercury’s mission to Carthage.*
 
@@ -402,6 +415,8 @@ et quō sub caelō tandem, quibus orbis in ōrīs
 iactēmur, doceās; ignārī hominumque locōrumque  
 errāmus, ventō hūc vāstīs et flūctibus āctī;  
 multa tibi ante ārās nostrā cadet hostia dextrā.’  
+
+![](fairclough_brown_aeneid_images/08.png)
 
 *The story of Dido.*
 
@@ -776,6 +791,9 @@ ad tē cōnfugiō et supplex tua nūmina poscō.
 Frāter ut Aenēās pelagō tuus omnia circum  
 lītora iactētur odiīs Iūnōnis inīquae,  
 nōta tibi, et nostrō doluistī saepe dolōre.  
+
+![](fairclough_brown_aeneid_images/09.png)
+
 Hunc Phoenīssa tenet Dīdō blandīsque morātur  
 vōcibus, et vereor, quō sē Iūnōnia vertant  
 hospitia; haud tantō cessābit cardine rērum.  
