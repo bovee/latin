@@ -10,7 +10,7 @@ edited: true
 license: CC-BY-SA 4.0 http://creativecommons.org/licenses/by-sa/4.0/
 original_scan: https://www.google.com/books/edition/Caesar_s_Gallic_War/AcoXAQAAMAAJ
 notes:
-Macrons adjusted (cōnfīrmant -> cōnfirmant, trānsitur -> trānsītur, fīrmam -> firmam) and notes and vocabulary omitted. Footnotes removed from Books 5-7.
+  Macrons adjusted (cōnfīrmant -> cōnfirmant, trānsitur -> trānsītur, fīrmam -> firmam) and notes and vocabulary omitted. Footnotes removed from Books 5-7.
 ---
 ![](rolfe_caesar_images/00.png)
 

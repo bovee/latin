@@ -7,7 +7,7 @@ edited: false
 license: CC-BY-SA 4.0 http://creativecommons.org/licenses/by-sa/4.0/
 original_scan: https://archive.org/details/eutropius00eutrrich
 notes:
-Vowel quantities adjusted to match Wiktionary (e.g. oppūgnābat -> oppugnābat, trāctāvit -> tractāvit, cūstōdiā -> custōdiā, prōsperē -> prospere, cūius -> cuius, etc).
+  Vowel quantities adjusted to match Wiktionary (e.g. oppūgnābat -> oppugnābat, trāctāvit -> tractāvit, cūstōdiā -> custōdiā, prōsperē -> prospere, cūius -> cuius, etc).
 ---
 # Eutropī — Breviāriī ab Urbe Conditā
 
