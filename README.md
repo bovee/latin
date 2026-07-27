@@ -5,3 +5,4 @@ Hi! This is a small collection of resources I've compiled from public domain and
  - [Books](./books/) contains a few dozen scanned, edited (and unedited) public domain books.
  - [Dictionaries](./dict/) contains text files of several introductory Latin-Latin dictionaries.
  - [OCR](./ocr/) are the scripts and background on my OCR process for the text and markdown latin works above.
+ - [Old English Books](./angbooks/) contains scanned, but unedited public domain books in Old English ("Anglo-Saxon").
