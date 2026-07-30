@@ -46,7 +46,9 @@ The `process_kaiki.py` script here will generate a `latin_words_full.txt` file t
 The `latin_words_full.txt.bz2` is a compressed version of its output generated from a dump downloaded on February 7th, 2024.
 
 It will also generate `.dic` and `.aff` files that can be used as a Latin dictionary in common word processing applications. These differ slightly from the `txt` version in that they will not flag words with enclictics like `-que`, etc.
- 
+
+A similar `ang_words_full.txt` was generated via `process_kaiki_ang.py` from a ddump downloaded on July 9th, 2026.
+
 ## Vim
 
 Run the following to import the word list and generate a Vim dictionary from it:
