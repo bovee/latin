@@ -87,7 +87,7 @@ _twēġen dagas_ ‘two days’ _miċel burg_ ‘a great city’, _sē hālga_
 
 __ġ__ in the combination _nġ_ has a sound analogous to that
 of _ċ_, something like the _g_ in _gem_: _menġan_ ‘mingle, mix’.
-Also in _cg_, which is pronounced as if written ġġ : _wǣpnes ecg_
+Also in _ċġ_, which is pronounced as if written ġġ : _wǣpnes eċġ_
 ‘the edge of a weapon’. Also at the beginning of words
 and syllables, as in _ġeond middanġeard_ ‘throughout the world’,
 except that in unaccented syllables it had the sound of our _y_,
@@ -604,8 +604,8 @@ causes similar changes in preceding consonants, as in _þū
 fētst_ ‘thou feedest’.
 
 71. Double consonants are always simplified before _-st_
-and _þ_, _cg_ (= _ġġ_ 6) being made into _ġ_, as in _hē ġefylþ_ from
-_ġefyllan_ ‘fill, _þū sæġst_ from _secgan_ ‘say’.
+and _þ_, _ċġ_ (= _ġġ_ 6) being made into _ġ_, as in _hē ġefylþ_ from
+_ġefyllan_ ‘fill, _þū sæġst_ from _seċġan_ ‘say’.
 
 72. In the preterite the first and third person are always
 the same—_iċ ġehīerde, hē ġehīerde_—and the plural ends in _-on_
@@ -668,7 +668,7 @@ latter are inflected in two different ways:—
 | Pres. Sing. 1. | iċ feriġe ‘carry’ | iċ wuniġe ‘dwell’ |
 |             2. | þū ferest         | þū wunast         |
 |             3. | hē fereþ          | hē wunaþ          |
-|          Plur. | hie feriaþ        | hīe wuniaþ        |
+|          Plur. | hīe feriaþ        | hīe wuniaþ        |
 | Pret. Sing. 1. | iċ ferede         | iċ wunode         |
 |             2. | þū feredest       | þū wunodest       |
 |             3. | hē ferede         | hē wunode         |
@@ -699,10 +699,10 @@ consonant, as in _sette_ from _settan_ ‘set’, _tǣhte_ from _tǣċan_
 _ġesett, ġetǣht_.
 
 83. Some of these verbs have vowel-change in the preterite
-and preterite participle, as in _sæġde_ from _secgan_ (71),
-_sealde_ from _sellan_ (30, 31), _worhte_ from _wyrcan_ ‘work, make,
-do’, _sōhte_ from _sēċan_ ‘seek’, _þohte_ from _þenċan_ ‘think’,
-preterite participles _ġesæġd, ġeseald, ġeworht, ġesoht, ġeþoht_.
+and preterite participle, as in _sæġde_ from _seċġan_ (71),
+_sealde_ from _sellan_ (30, 31), _worhte_ from _wyrċan_ ‘work, make,
+do’, _sōhte_ from _sēċan_ ‘seek’, _þōhte_ from _þenċan_ ‘think’,
+preterite participles _ġesæġd, ġeseald, ġeworht, ġesōht, ġeþōht_.
 
 ### Preterite-Present Verbs.
 
@@ -751,7 +751,7 @@ him by some one else: _hīe cwǣdon_ (75) _þæt hē wǣre gōd
 cyning_. If the truth of the statement is so self-evident that
 it could be expressed by direct narration without any change
 of meaning, then the indicative may be used, as in _nū wē
-willaþ_ (58) _secgan_ (83) _þæt wē fūse sind_ (65) _ūrne eard tō
+willaþ_ (58) _seċġan_ (83) _þæt wē fūse sind_ (65) _ūrne eard tō
 sēċanne_, which means exactly the same as _nū wē sind fūse.._,
 so that the subjunctive would here be too emphatic: _þæt wē
 fūse sīen_ would imply that the speakers wished to say that
@@ -788,11 +788,11 @@ we should otherwise expect the subjunctive: _iċ þē selle hafoc,
 
 95. There is a tendency to use the subjunctive in clauses
 dependent on a negative sentence, as in _neom iċ swā sþēdiġ
-þæt iċ mæġe_ (90) _mē_ (33) _wīn bycgan_, because the statement
-_iċ mæġ mē wīn bycgan_ is false. Without the negation the
+þæt iċ mæġe_ (90) _mē_ (33) _wīn byċġan_, because the statement
+_iċ mæġ mē wīn byċġan_ is false. Without the negation the
 indicative would be used: _iċ eom swā spēdiġ þæt iċ mæġ mē
-wīn bycgan_. So also after ‘than’, as in _þū spricst_ (41, 73)
-_dēoplicor þonne ūre ieldo_ (19) _ā·beran mæġe_, because the statement
+wīn byċġan_. So also after ‘than’, as in _þū spricst_ (41, 73)
+_dēoplīcor þonne ūre ieldo_ (19) _ā·beran mæġe_, because the statement
 _ūre ieldo hit ā·beran mæġ_ is false.
 
 96. The subjunctive sometimes used illogically in statements
@@ -1003,7 +1003,7 @@ wolcnu and ealle stormas.
 
 ## Be manna cræftum.
 
-14. Hwelcne cræft canst þū?
+14. Hwelċne cræft canst þū?
 
 Iċ eom munuc.
 
@@ -1047,7 +1047,7 @@ feormian.
 
 Ġīese lēof, iċ hæbbe miċel ġedeorf! On ǣrnemerġen iċ
 drīfe mīn sċēap tō lǣswe. Siþþan stande iċ ofer hīe mid
-hundum, þȳ·lǣsþe wulfas hīe for·swelgen. Þonne on ǣfen iċ
+hundum, þȳ lǣs þe wulfas hīe for·swelgen. Þonne on ǣfen iċ
 lǣde hīe on-ġēan tō hira locum. Iċ hīe melce tuwa on dæġe.
 Iċ maciġe buteran and ċīese. And iċ eom mīnum hlāforde
 ġetrīewe.
@@ -1071,7 +1071,7 @@ iċ hīe betǣċe eft þǣm ierþlinge, wel ġefylde and ġewæterode.
 
 Ānne cræft iċ cann.
 
-24. Hwelcne cræft canst þū?
+24. Hwelċne cræft canst þū?
 
 Iċ eom hunta.
 
@@ -1133,7 +1133,7 @@ oþþe bēag, þæt is þī ġeornor mīnne cræft begā.
 
 ### Sē fisċere.
 
-37. Hwelcne cræft canst þū?
+37. Hwelċne cræft canst þū?
 
 Iċ eom fisċere.
 
@@ -1157,7 +1157,7 @@ On þǣre ċeastre.
 
 42. Hwā byġþ hīe?
 
-Þā ċeasterware. Ne mæġ iċ hira swā fela ġefōn swā iċ
+Þā ċeaster-ware. Ne mæġ iċ hira swā fela ġefōn swā iċ
 sellan mæġe.
 
 43. Hwelċe fiscas ġefēhst þū?
@@ -1172,7 +1172,7 @@ rēwett tō þǣre sǣ.
 
 45. Hwæt ġefēhst þū on þǣre sǣ?
 
-Hæringas, and leaxas, and styrian, and lopestran, and
+Hǣringas, and leaxas, and styrian, and loppestran, and
 crabban, and fela ōþerra fisca.
 
 46. Wilt þū hwæl fōn?
@@ -1193,7 +1193,7 @@ mīne ġefēran mid ānum sleġe besenċan mæġ oþþe of·slēan.
 49. And þēah maniġe ġefōþ hwalas, and þǣm frēċennessum
 æt·berstaþ, and miċelne sċeatt þanon beġietaþ.
 
-Sōþ þū sæġst ; ac iċ ne dearr for mīnes mōdes slǣwþe.
+Sōþ þū sæġst; ac iċ ne dearr for mīnes mōdes slǣwþe.
 
 ### Sē fuglere.
 
@@ -1214,7 +1214,7 @@ hīe temian cūþe?
 
 53. Sele mē hafoc!
 
-Iċ þē selle lustlīċe, ġif þū mē selest swiftne hund. Hwelcne
+Iċ þē selle lustlīċe, ġif þū mē selest swiftne hund. Hwelċne
 hafoc wilt þū habban, þone māran hwæþer-þe þone lǣssan?
 
 54. Sele mē þone māran! Hū ā·fētst þū þīne hafocas?
@@ -1266,10 +1266,10 @@ mid ā·fēdan mæġe and mīn wīf and mīn bearn.
 
 ### Sē sċōhwyrhta.
 
-61. Þū sċōhwyrhta, hwæt wyrċst þū ūs tō nytte?
+61. Þū sċōhwyrhta, hwæt wyrcst þū ūs tō nytte?
 
 Mīn cræft is ēow swīþe nytt and swīþe nīedbehēfe. Iċ
-bycge hȳda and fell, and hīe ġearciġe mid mīnum cræfte, and
+byċġe hȳda and fell, and hīe ġearciġe mid mīnum cræfte, and
 wyrċe þǣr-of missenlīċes cynnes ġesċȳ, leþerhosa, þwangas,
 ġerǣdu, flasċan, and fǣtelsas; and ne mæġ ēower nān ofer
 winter wunian būtan mīnum cræfte.
@@ -1399,7 +1399,7 @@ hine selfne mid līcettunge beswīcþ.
 
 Wē willaþ bilewite bēon būtan līcettunge, and wīse, þæt
 wē mæġen yfel for·būgan and gōd dōn. Þēah·hwæþre ġīet
-þū spricst wiþ ūs dēoplicor þonne ūre ieldo ā·beran mæġe.
+þū spricst wiþ ūs dēoplīcor þonne ūre ieldo ā·beran mæġe.
 Ac sprec wiþ ūs æfter ūrum ġewunan, næs swā dēoplīċe.
 
 80. Iċ wile dōn ealswā ġē biddaþ. Þū cnapa, hwæt dydest
@@ -1414,7 +1414,7 @@ capitolmæssan, and siþþan underntīd and þæs dæġes mæssan.
 Æfter þissum wē sungon middæġ, and ǣton, and druncon,
 and slēpon; and eft wē ā·rison, and sungon nōn. And nū
 wē sind hēr beforan þē, ġearwe tō ġehīeranne hwæt þū ūs
-secgan wilt.
+seċġan wilt.
 
 81. Hwonne wille ġē ǣfensang singan oþþe nihtsang?
 
@@ -1451,7 +1451,7 @@ næbbe.
 
 87. Ne drincst þū wīn?
 
-Neom iċ swā spēdiġ þæt ic mæġe mē wīn bycgan;
+Neom iċ swā spēdiġ þæt ic mæġe mē wīn byċġan;
 and wīn nis nā ċilda drynċe ne dysiġra, ac ealdra and
 wīsra.
 
@@ -1508,7 +1508,7 @@ and þǣr·inne his mannum ġedǣlde ealle þā herehȳþ þe hīe
 96. Þā hēt hē ealle þā betstan wyrhtan tō his cynestōle
 ġebannan, ǣġþer ġe of his āgnum rīċe ġe of eallum þǣm
 þēodum þe him under·þīedde wǣron. Þā þā wyrhtan ealle
-ġesamnode wǣron, þā wearþ þæt weorc on·gunnen.
+ġesamnode wǣron, þā wearþ þæt weorc ongunnen.
 
 97. Þā ġelamp hit æfter fierste þæt sēo heall ġearo wæs.
 Sēo wæs ealra hūsa mǣst, and fæġerost on tō lōcianne. Hē
@@ -1591,9 +1591,9 @@ wildan mōras his fæsten sēan. Ac nān ne dorste him æfterspyrian.
 
 110. Þā wæs swā miċel eġe fram Grendle þæt nān mann
 ne mihte ā·þenċan ne ā·cræftan hū hīe him wiþ·standan
-mihten, oþþe Dena eard wiþ hine ġehealdan. Þā on·gann
+mihten, oþþe Dena eard wiþ hine ġehealdan. Þā ongann
 Hrōþgār cyning ġeorne tō smēaganne wiþ his witan hwæt
-him eallum rǣdlicost þuhte, þæt man Dena earde ġebeorgan
+him eallum rǣdlīcost þūhte, þæt man Dena earde ġebeorgan
 mihte, ǣr hē mid ealle for·dōn wurde.
 
 111. Þā hīe þā ġesāwon þæt him nāhwæþer ne dohte, ne
@@ -1603,7 +1603,7 @@ him sume helpe ġefremeden. And nā þȳ lǣs for eallum
 þissum ġeblōte hē fērde swā hē self wolde, and þæt earme
 folc slōg and hīende.
 
-112. Þā on·gunnon þā sċopas lēoþ wyrċan be þǣm,
+112. Þā ongunnon þā sċopas lēoþ wyrċan be þǣm,
 ōþ-þæt hit wearþ on eallum norþlandum cūþ hū Dene
 ġebrocode wǣron.
 
@@ -1633,14 +1633,14 @@ him beforan, swelċe hwītne weall.
 116. Þā wiston hīe þæt hīe tō Dena lande cumene wǣron.
 Þā tugon hīe hira sċip p on þæt sand, and bǣron hira wǣpnu
 ūt. Þā stōdon hīe on þǣm strande, Gode þanciende þæs-þe
-hē hīe ġesunde þider brohte.
+hē hīe ġesunde þider brōhte.
 
 ### Be þǣm wearde.
 
 117. Þā wæs þǣr sum cyninges þeġn, sē wæs tō þǣm
 ġesett þæt hē sċolde sǣwearde healdan. Sē of þǣm clife
 ġeseah þæt sċip tō lande cuman, and þā menn ūp-gān mid
-wǣpnum mid ealle. Þā bræc hine firwit hwæt þā menn
+wǣpnum mid ealle. Þā bræc hine firwitt hwæt þā menn
 wǣren.
 
 118. Þā rād hē niþer tō þǣm strande, and his spere
@@ -1648,22 +1648,22 @@ wǣren.
 sind ġē þe þus ġewǣpnode hider on land cōmon on ēowrum
 langsċipe? Iċ eom Hrōþgāres þeġn, Dena cyninges; iċ eom
 tō þǣm ġesett þæt is sǣwearde healde, and þisne eard weriġe,
-þy·lǣsþe sċiphere ūs on unġearwe on-bestele Nǣfre ne
+þȳ lǣs þe sċiphere ūs on unġearwe on-bestele Nǣfre ne
 dorste ūrra fēonda nān openlīċe hider on land cuman.’
 
 119. Þā cwæþ hē eft: ‘Ne ġeseah iċ nǣfre māran mann
 þonne ēower sum is: þǣm ġerīst wel þæt hē wǣpnu bere,
 būtan him his ansīen lēoge! Ac nū iċ sċeal witan hwanon
 ġē cumene sind, ǣr ġē furþor ūp-gān þæt land tō sċēawianne.
-Nū ġē sǣmenn, ġehīeraþ mīnne ānfealdne ġeþoht: ofost is
+Nū ġē sǣmenn, ġehīeraþ mīnne ānfealdne ġeþōht: ofost is
 betst tō cȳþanne hwanon ġē cumene sind.’
 
 120. Him þā Bēowulf andswarode, and þus cwæþ: ‘Wē
 sind Hyġelāces þeġnas, Ġēata cyninges. Mīn fæder wæs
-on eallum folcum cūþ, sē wæs Ecgþēow hāten, æþeles cynnes
+on eallum folcum cūþ, sē wæs Eċġþēow hāten, æþeles cynnes
 mann. Þurh holdne hyġe wē sind hider cumene þīnne
 hlāford sēcan, Hrōþgār cyning. Wē habbaþ miċel ǣrende
-tō þǣm cyninge. Þū wāst ġif hit swā is swā wē secgan
+tō þǣm cyninge. Þū wāst ġif hit swā is swā wē seċġan
 ġehīerdon; þæt sum dīeġle fēond unāsecgendlīċ yfel fremeþ
 on Denum, mid·þǣm·þe hē hīe of·slihþ and for·swilġþ on
 þǣm þīestrum nihtum. Iċ mæġ Hrōþgār cyning rǣd ġelǣran,
@@ -1710,7 +1710,7 @@ nealles for wræcsīþe!’
 
 126. Þā andswarode him Bēowulf: ‘Wē sind Hyġelāces
 þeġnas, Ġēata cyninges. Bēowulf is mīn nama. Iċ wile
-Hrōþgāre cyninge mīn ǣrende secgan, ġif hē for his gōdnesse
+Hrōþgāre cyninge mīn ǣrende seċġan, ġif hē for his gōdnesse
 ġeunnan wile þæt wē hine grētan mōten.’
 
 127. Þā cwæþ Wulfgār: ‘Iċ wile Hrōþgāre cyninge þīn
@@ -1723,11 +1723,11 @@ swā þeġnes riht biþ, and him þus tō cwæþ: ‘Hēr sind
 feorrancumene menn of Ġēata þēode, Bēowulf hātte hira
 lāttēow. Hīe biddende sind þæt hīe mōten wiþ þē sprecan.
 Ne wiern þū him þæs! Hīe þæs wierþe þynċaþ þæt hīe
-hwate menn dōmes belecgen. Hūru hira lāttēow dēah sē-þe
+hwate menn dōmes beleċġen. Hūru hira lāttēow dēah sē-þe
 hīe hider lǣdde.’
 
 129. Þā cwæþ Hrōþgār: ‘Iċ cūþe hine þā hē cniht wæs.
-His fæder hātte Ecgþēow. Sē hæfde tō wīfe Hrēþles dohtor,
+His fæder hātte Eċġþēow. Sē hæfde tō wīfe Hrēþles dohtor,
 Ġēata cyninges; næfde hē dohtor būtan hīe. And nū is his
 nefa hider cumen: sōhte holdne frēond! Þæt sæġdon þā
 sċipmenn þe Ġēata selena hider brohton þæt hē hæbbe
@@ -1738,7 +1738,7 @@ hine inn-gān mid his ġefērum! Seġe him ēac þæt hīe ūs
 wilcuman sind hider ofer sǣ.’
 
 130. Þā ġe·ċierde Wulfgār eft tō þǣm ġiesthūse, and his
-ǣrende ā·bēad, and him tō cwæþ: ‘Ēow hēt secgan mīn
+ǣrende ā·bēad, and him tō cwæþ: ‘Ēow hēt seċġan mīn
 hlāford, Hrōþgār cyning, þæt hē ēowre ġebyrda cann, and ġē
 him wilcuman sind hider ofer sǣ. Nū ġē mōton gān on
 ēowrum hereġeatwum Hrōþgār ġesēon. Lǣtaþ ēowre sċieldas
@@ -1764,7 +1764,7 @@ for·slōg and for·dyde, and hira fīfe ġeband.
 134. ‘Nū wile ic þē, Dena cyning, ānre bēne biddan, nū
 iċ þus feorran cōm, þæt iċ āna mōte mid mīnra þeġna werode
 Heorot fǣlsian! Iċ hæbbe ēac ġehīered þæt Grendel for his
-rēþnesse ne reċþ nānra wǣpna. Iċ þæt þonne for·hycge—
+rēþnesse ne reċþ nānra wǣpna. Iċ þæt þonne for·hyċġe—
 swā mē mīn hlāford, Hyġelāc cyning, blīþe sīe—þæt iċ sweord
 tō wīge bere oþþe sċield: mid barum handum iċ him wiþ-fō.
 Þæt biþ stīþ ġemōt, þonne wit tō·gædre fōþ!
@@ -1778,7 +1778,7 @@ mīne byrnan; sēo is Hrēþles lāf and Wēlandes ġeweorc,
 
 136. Þā cwæþ Hrōþgār: ‘For ġefeohtum þū ūs sōhtest
 and for fultume, mīn frēond Bēowulf! Sorg is mē tō
-secganne hwelċe iermþa mē Grendel ġedōn hæfþ mid his
+seċġanne hwelċe iermþa mē Grendel ġedōn hæfþ mid his
 herġunge. Mīne þeġnas sind of·slæġene, and min folgoþ is
 ġewanod.
 
@@ -1795,7 +1795,7 @@ bēo blīþe mid þīnum ġefērum, swā þē þīn mōd hwett!’
 139. Þā wæs þǣm Ġēatum benċ ġerȳmed on þǣre healle,
 þǣr hīe sittan ēodon ealle æt·samne. Þā behēold sē byrele
 swīþe wel his note: ēode æfter benċum, and medo sċenċte
-and hlūtor ealo. Þā on·gann sē sċop singan and ġieddian
+and hlūtor ealo. Þā ongann sē sċop singan and ġieddian
 beorhtre stemne. Þā menn wǣron blīþe; þæt wæs miċel
 ġesamnung Dena and Ġēata!
 
@@ -1826,7 +1826,7 @@ hū hit ymb unc Brecan ġelamp:—
 143. ‘Þæt is þæt wit on cnihthāde ġecwǣdon and ġebēotodon
 þæt wit uncrum fēorum ġenēþden ūte on gārseċġe.
 And wit þæt ġelǣston swā. Wit hæfdon nacod sweord on
-handum þā wit ūt-swummon: þohton unc wiþ þā sǣdēor
+handum þā wit ūt-swummon: þōhton unc wiþ þā sǣdēor
 werian. Ne mihte hē mē nā ōþ·swimman: iċ him fram
 nolde.
 
@@ -1861,7 +1861,7 @@ sċeal ēower ġehwelċ orsorg tō ġebēorsċipe gān sōna swā hit
 dagaþ!’
 
 148. Þā wearþ sē cyning blīþe: ġelīefde him helpe, siþþan
-hē ġehīerde Bēowulfes fæstrǣdne ġeþoht.
+hē ġehīerde Bēowulfes fæstrǣdne ġeþōht.
 
 149. Þā ēode Wealhþēo forþ, sēo cwēn, and þā menn
 grētte. Ǣrest hēo sealde þā cuppan Hrōþgāre cyninge,
@@ -1870,16 +1870,16 @@ his mannum hold.
 
 150. Þā ēode hēo æfter benċum, and þā cuppan eallum
 sealde ġe ealdum ġe ġeongum, ōþ-þæt hēo tō Bēowulfe cōm,
-and him þā cuppan brohte, and hine grētte: þancode
+and him þā cuppan brōhte, and hine grētte: þancode
 Gode mid snotrum wordum þæt hire sē willa ġelamp þæt
 hēo mōste frōfre wēnan þāra iermþa þe hīe swā lange
 drugon.
 
 151. Hē þā Bēowulf on fēng þǣre cuppan æt þǣre cwēne
 handa. Þā wearþ his mōd on·bryrd, and hē cwæþ: ‘Þā iċ
-on sċip ā·stāg mid mīnum ġefērum, þā pþohte iċ þæt iċ þbwæper
+on sċip ā·stāg mid mīnum ġefērum, þā þōhte iċ þæt iċ āhwæper
 wolde, oþþe þīnra lēoda willan ġewyrċan, oþþe on wīge
-feallan. Nū tō·niht i sċeal mīnne þeġnsċipe ġecȳþan, oþþe
+feallan. Nū tō·niht iċ sċeal mīnne þeġnsċipe ġecȳþan, oþþe
 mīnes līfes ende ġebīdan.’
 
 152. Þā ġelīcode þǣre cwēne Bēowulfes ġielpspræc.
@@ -1910,14 +1910,14 @@ hē mē wiþ·standan dearr. Dēme siþþan sē ælmihtiġa þone
 siġe on swā hwæþre hand swā him ġemet þynċþ!”
 
 156. Þā on·hielde Bēowulf his hēafod tō þǣm bolstre, and
-his ġefēran swā same. Hira nān ne þohte þæt hē sċolde
+his ġefēran swā same. Hira nān ne þōhte þæt hē sċolde
 eft tō his earde becuman, oþþe his māgas and frīend eft
 ġesēon. Ac hīe wǣron sōna on fæstum slǣpe, ealle būtan
 Bēowulfe sē wacode on·ġēan þæs fēondes cyme, ierre on
 mōde.
 
 157. Þā cōm sē ā·wierġda Grendel of þǣm mōrum stealcian
-under þiċċum miste; þohte þāra manna sumne besierwan
+under þiċċum miste; þōhte þāra manna sumne besierwan
 on Heorote.
 
 158. Sōna swā hē tō þǣre healle cōm, swā arn hē þā
@@ -1927,7 +1927,7 @@ of heorrum ā·hōf. Hē ēode þā inn, rēþe on mōde; of his
 ēagum stōd lēoht swelċe fȳr.
 
 159. Þā ġeseah hē þā Ġēatas on þǣre healle slǣpan.
-Þā ā·hlōg his mōd: þohte þæt hē hīe for·swelgan wolde
+Þā ā·hlōg his mōd: þōhte þæt hē hīe for·swelgan wolde
 ānne æfter ōþrum ǣr dæġ cōme. Ac Bēowulf wacode:
 behēold hū sē fēond faran wolde.
 
@@ -1938,7 +1938,7 @@ dranc, ōþ-þæt hē ealne þone līchaman for·swolgen hæfde
 mid handum mid fōtum mid ealle.
 
 161. Hē ēode þā furþor, and Bēowulf ġelæhte, on his
-bedde licgende. Þā ġesæt Bēowulf wiþ earm, and him
+bedde liċġende. Þā ġesæt Bēowulf wiþ earm, and him
 tō·ġēanes fēng. Þā on·ġeat Grendel sōna þæt hē ne ġemētte
 ǣr on ǣnigum menn māran handgripe!
 
@@ -1985,7 +1985,7 @@ dura, eallum mannum tō wǣfersīene.
 168. Þæs on morgenne wæs þǣr miċel meniġo ymb þā
 healle, ġe ealde ġe ġeonge. Þæs cyninges ealdormenn cōmon
 feorran and nēan þæt hīe þæt wundor ġesāwen. Grendles
-dēaþ ne þuhte hira ǣnigum sārlīċ.
+dēaþ ne þūhte hira ǣnigum sārlīċ.
 
 169. Hīe þā Grendle æfter-spyredon ōþ hīe tō mere
 cōmon, ‘nicera mere’ hātte, þǣr Grendel his fæsten hæfde.
@@ -2001,23 +2001,23 @@ ealle eorþan, ne rīċes wierþra. Ne tǣldon hīe hūru hira
 āgenne hlāford, ac cwǣdon þæt hē wǣre gōd cyning.
 
 172. Hwīlum hīe on ġeflite ærndon, þǣr him þā wegas
-fæġere þuhton.
+fæġere þūhton.
 
 173. Þā wæs þǣr mid him sum cyninges þeġn, sē wæs
-gōd sċop. Hē on·gann þā Bēowulfes sīþ on lēoþwīsan
-ā·secgan mid wel-ġesettum wordum. Þā on·gann hē cweþan
+gōd sċop. Hē ongann þā Bēowulfes sīþ on lēoþwīsan
+ā·seċġan mid wel-ġesettum wordum. Þā ongann hē cweþan
 be Siġemunde þǣm mǣran wreċċan and Fitelan, hū hīe
 bēġen æt·gædere, ēam and nefa, fela mǣrliċra dǣda ġefremedon.
-Þā cwæþ hē þæt sēo dǣd þe ealra mǣrlicost wæs,
+Þā cwæþ hē þæt sēo dǣd þe ealra mǣrlīcost wæs,
 þæt hē þā ġefremede him āna—næs him Fitela mid.
 
 174. Þæt wæs þā hē þone dracan on his sċræfe ā·cwealde,
 þā hē under þone hāran stān ġenēþde, and hine hetelīċe
 þīede, þæt þæt sweord on þæs sċræfes wealle æt·stōd. Þā
 sōna ġemealt sē draca, fram his āgenre hǣtan for·swǣled.
-Sigemund hæfde þā mīd his snelsċipe þæs dracan goldhord
+Sigemund hæfde þā mid his snelsċipe þæs dracan goldhord
 ġegān. Hē þā þæt gold and þā māþmas ealle on his sċip
-bær·and wearþ swā wreċċena mǣrost.
+bær, and wearþ swā wreċċena mǣrost.
 
 175. Þā sæġdon hīe ealle þæt Siġemund næfde ġefremed
 mǣrliċran dǣda þonne Bēowulf. Swā hīe forþ ēodon, blīþe
@@ -2037,7 +2037,7 @@ Ne wēndon ēac mine witan þæt hīe mihten Dena lēode wiþ
 æfter wundre! And nū hæfþ feorrancund mann dǣd
 ġefremed þe wē ǣr ne mihton þurh·tēon mid ūre ealra
 snytro! Hwæt, þæt wīf þe swelċne sunu ġebær, ġif hēo
-ġīet leofaþ, hēo mæġ secgan þæt hire God ēstiġ wǣre on
+ġīet leofaþ, hēo mæġ seċġan þæt hire God ēstiġ wǣre on
 hire bearntēame!
 
 178. ‘Lēofa Bēowulf, nā þū eart þeġna betst, iċ wile þē
@@ -2086,7 +2086,7 @@ māþmas; and hēt þone ānne mid fēo for·ġieldan þe
 Grendel ǣr ā·cwealde.
 
 186. Þā mihte man ġehīeran eft swā ǣr þǣre hearpan
-swēġ. Þā on·gann þæs cyninges sċop lēoþ singan be Henġeste
+swēġ. Þā ongann þæs cyninges sċop lēoþ singan be Henġeste
 and Finne, hū Finn on his āgenre byriġ of·slæġen wearþ.
 
 187. Þā þæt lēoþ ā·sungen wæs, þā wæs eft swā ǣr hleahtor
@@ -2244,7 +2244,7 @@ and ġesāwon hū þæt wæter wæs eall mid blōde ġedrēfed.
 Þā blēow man horn, and ġesamnode þæt werod. Hīe þā
 ealle wīcodon be þǣm mere. Hīe ġesāwon maniġra cynna
 nǣdran and sǣdracan on þǣm wætere swimman, swelċe ēac
-niceras on þǣm næssum licgan. Hīe þā ealle ierre on·weġhruron,
+niceras on þǣm næssum liċġan. Hīe þā ealle ierre on·weġhruron,
 sōna swā hīe þone horn ġehīerdon. Þāra ānne
 Bēowulf mid flāne of'sċēat: ġelette hine his sundes. Þā
 wearþ hē mid sperum tō·sticod and mid hōcum on land
@@ -2262,10 +2262,10 @@ Unferþ, þæs cyninges þyle, þā him wæs gōdes wǣpnes þearf.
 ġemunde Unferþ his ǣrran ġielpes, þā hē Bēowulfe þæs
 sweordes on·lāh: ne dorste his fēore ġenēþan under þǣm
 hrēom ȳþum. Þǣr ā·læġ his dōm, þæt hē þā æt nīehstan
-hine selfne tō nahte bemæt. Næs hit Bēowulfe swā, siþþan
+hine selfne tō nāhte bemæt. Næs hit Bēowulfe swā, siþþan
 hē hine tō wīge ġeġiered hæfde. Þā cwæþ Bēowulf:
 
-211. ‘Ġeþenċ nū, pū snotra cyning, nū iċ eom fūs tō
+211. ‘Ġeþenċ nū, þū snotra cyning, nū iċ eom fūs tō
 sīþianne, hwæt wit ǣr ġesprǣcon: ġif iċ æt þīnre þearfe mīn
 līf for·lēte, þæt þū mē ā wǣre on fæder stǣle æfter mīnum
 forþsīþe. Bēo þū mundbora mīnum þeġnum, ġif is on wīge
@@ -2321,21 +2321,21 @@ heals, þæt sēo eċġ eall þurh·wōd ġe flǣsċ ġe bānhringas.
 Hēo þā mid þǣm dynte niþer ā·sāg, and hire līf ā·lēt.
 
 218. Þā ġefeah Bēowulf þæs weorces miclum ġefēan; ac
-hē wæs wilniende þæt hē þpæs ġewinnes mihte māre
+hē wæs wilniende þæt hē þæs ġewinnes mihte māre
 ġefremman: wolde Grendle for·ġieldan þā unārīmedlican
 herġunga þe hē on Denum ǣr ġeworhte. Hē þā funde hine
-on his reste dēadne licgan: ne wearþ sēo wund ġehǣled þe
+on his reste dēadne liċġan: ne wearþ sēo wund ġehǣled þe
 hē ǣr on Heorote on·fēng. Þā ċearf hē him þæt hēafod of
 mid ānum dynte, þæt þæt bodiġ wīde sprang, and þæt hēafod
 forþ wand on þā flōre.
 
-### Hū Bēowulf brohte þǣm cyninge Grendles hēafod.
+### Hū Bēowulf brōhte þǣm cyninge Grendles hēafod.
 
 219. Sōna þæt ġesāwon þā witan þe mid Hrōþgāre þone
 mere hēoldon þæt þæt wæter wæs eall mid blōde ġedrēfed.
-Þa on·gunnon hīe ymb Bēowulf tō sprecanne: cwǣdon
+Þā ongunnon hīe ymb Bēowulf tō sprecanne: cwǣdon
 þæt hīe ne wēndon þæt hē ǣfre eft cōme Hrōþgār sēċan,
-for·þǣmn hīe ealle untwēogendlīċe wēndon þæt hine þæt
+for·þǣm hīe ealle untwēogendlīċe wēndon þæt hine þæt
 merewīf of·slæġen hæfde.
 
 220. Þā cōm nōn; þā for·lēton hīe þone mere, and him
@@ -2344,7 +2344,7 @@ sǣton him on þǣm ōfre sēoce on mōde, and on þone mere
 starodon. Hīe wȳsċton, and þēah ne wēndon, þæt hīe hira
 hlāford eft ġesāwen.
 
-221. Þā under þǣm on·gann þāra enta sweord wanian
+221. Þā under þǣm ongann þāra enta sweord wanian
 swelċe hit īses ġiecel wǣre; wæs Grendles blōd tō þǣm hāt
 and ǣtren. Wæs þæt miċel wundor þæt hit eall ġemealt
 būtan þǣm hilte ānum! Þā nam Bēowulf þæt hilt and
@@ -2411,8 +2411,8 @@ leornian.’
 
 230. ‘Is miċel wundor tō seċġanne hū sē ælmihtiġa his
 ġiefa seleþ þǣm-þe hē wile: sumum menn hē for·ġiefþ wīsdōm,
-sumum þeġn-sċipe. Hwīlum hē þǣm menn his willan tō-
-forlǣtt tō langre tīde: seleþ him ealle eorþan wynna, and
+sumum þeġn-sċipe. Hwīlum hē þǣm menn his willan tō-forlǣtt
+tō langre tīde: seleþ him ealle eorþan wynna, and
 ġedēþ him brād rīċu under·þīedd, þæt hē ne mæġ for his
 unwīsdōme his ende ġeþenċan. Hē leofaþ on wistum. Ne
 ġeswenċþ hine ādl ne sorg. Ne dreċþ hine unfriþhere on
@@ -2475,7 +2475,7 @@ On þǣm ġecȳþde Bēowulf his þeġnsċipe and his mōd þæt hē
 
 240. Þā þā Ġēatas ealle ġearwe wǣron, þā ēodon hīe þǣr
 Hrōþgār sæt on his cynesetle. Þā grētte Bēowulf þone
-cyning, and cwæþ: ‘Nū wē cuman willaþ secgan þæt wē
+cyning, and cwæþ: ‘Nū wē cuman willaþ seċġan þæt wē
 fūse sind Hyġelāc cyning tō sēċanne. Wē wǣron hēr on
 eallum þingum wel bewenede: þū ūs wel dohtest. Ġif is þē
 tō willan māre dōn mæġ, iċ bēo sōna ġearo. Ġif iċ ġehīere
@@ -2483,13 +2483,13 @@ ofer sǣ þæt þā nēahþēoda wiþ þē ġewinn ūp-āhebben, iċ
 bringe þē þūsend cempena tō helpe. Iċ wāt on Hyġelāce
 cyninge, þēah hē ġeong sīe, þæt hē mē fremman wile mid
 wordum and mid weorcum, ġif þē biþ manna þearf. Ġif
-þonne þīn sunu, Hrēþrīċ æþeling, tō Ġēata lande þenċþ, hē
+þonne þīn sunu, Hrēþrīċ æþeling, tō Ġēata lande þencþ, hē
 mæġ þǣr fela frēonda findan: gōd biþ þǣm þe dēah þæt hē
 fierlenu land sēwe.’
 
 241. Þā andswarode him Hrōþgār: ‘Sē ælmihtiġa þurh
 his wīsdōm sende þē þās word on mōde: ne ġehīerde iċ
-nǣfre swā ġeongne mann snotorlicor sprecan! Þū eart on
+nǣfre swā ġeongne mann snotorlīcor sprecan! Þū eart on
 līchaman strang, and on mōde wīs. Iċ wēne, ġif hit ġelimpþ
 þæt Hyġelac on wīge ā·fielþ, oþþe him elles-hwæt ġesǣlþ,
 and þū līfes bist, þæt Ġēatas nānne beteran cyning tō ċēosanne
@@ -2518,7 +2518,7 @@ orleahtre, ōþ-þæt hine ieldo his mæġnes benam, swā hēo
 maniġe dēþ.
 
 244. Þā Ġēatas ēodon swā forþ, ōþ-þæt hīe tō þǣre sǣ
-strande cōmon. Þā rād him sē weard tō-ġēanes. Ne grētte
+strande cōmon. Þā rād him sē weard tōġēanes. Ne grētte
 hē hīe nā mid hearme, swā hē ǣr dyde; ac hē him frēondlīċe
 tō-cwæþ: bæd hīe ġesunde tō hira sċipe gān, þǣr hit on
 ancre rād, mid hereġeatwum ġehladen and mid missenlicum
@@ -2532,10 +2532,10 @@ cōmon, þā ēodon hīe Hyġelāc cyning grētan. And sē cyning
 hira ġefæġen wæs, forþǣm hē ne wēnde nā þæt hē sċolde
 Bēowulf his mǣġ eft libbendne ġesēon.
 
-246. Þā on·gann sē cyning hine ġeorne befriġnan hū him
+246. Þā ongann sē cyning hine ġeorne befriġnan hū him
 on þǣm sīþe ġelamp. And Bēowulf him þæt eall sweotollīċe
 sæġde. And þā hē his sprǣce ġeendod hæfde, þā sealde hē
-þǣm cyninge þā betstan þāra māþma þe hē him mid brohte;
+þǣm cyninge þā betstan þāra māþma þe hē him mid brōhte;
 and hē sealde sume þā māþmas þǣre cwēne, sume his
 frēondem and māgum. And hīe ealle þāra ġiefena fæġnodon.
 
