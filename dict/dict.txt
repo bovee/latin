@@ -1,4 +1,5 @@
 A.;ind;[RCR] Aulus, *praenōmen*.
+ā | ab;pre,+abl;
 abdicō,abdicāre,abdicāvī,abdicātum;ver;[SA] (magistrātum) omittō vel dēpōnō. [PT] *aliquā rē sē abdicāre* = aliquam rem omittere, dēpōnere, cēdere ab aliquā rē.
 abdō,abdere,abdidī,abditum;ver;[ONE] cēlō, in locum sēcrētum condō. [SA] cēlō, in sēcrētō pōnō. [RCR] cēlō.
 abdūcō,abdūcere,abdūxī,abductum;ver;[F] contrārium quam addūcō.
@@ -25,6 +26,7 @@ abstineō,abstinēre,abstinuī,abstentum;ver;[RCR] procul teneō. parcō. [F] ā
 abstrahō,abstrahere,abstrāxī,abstractum;ver;[F] ab aliquō trahō. auferō. [PT] ab aliquō trahō.
 absum,abesse,āfuī,—;ver;[F] contrārium quam *adsum*. *nōn multum abest quīn* significat *paene*. [PT] nōn adsum.
 absūmō,absūmere,absūmpsī,absūmptum;ver;[SA] dēleō, morte afficiō.
+ac;con;vidē atque
 Acastus,Acast|ī;m;[ONE] Lāudamīae pater.
 accēdō,accēdere,accessī,accessum;ver;[RCR] adveniō, addor.
 accelerō,accelerāre,accelerāvī,accelerātum;ver;[PT] celerius īre faciō, vel cōgō.
@@ -34,6 +36,7 @@ accept|us,accept|a,accept|um;adi;[RCR] grātus.
 accidō,accidere,accidī,—;ver;[SA] accidit id quod forte fit. [F] id accidit quod cāsū, vel forte, fit. [PT] id accidit quod cāsū, vel forte, fit.
 acciō,accīre,accīvī,accītum;ver;[RCR] advocō, arcessō.
 accipiter,accipitr|is;m;[ONE] avis rapāx.
+accipiō,accipere,accēpī,acceptum;ver;
 Accius,Acc|ī;m;[ONE] poēta tragicus Latīnus: A.V.C. DCX flōruit.
 accola,accol|ae;m;[RCR] is quī prope habitat.
 accommodō,accommodāre,accommodāvī,accommodātum;ver;[ONE] aptō. [F] aptum vel idōneum alicui faciō.
@@ -51,6 +54,7 @@ acquiēscō,acquiēscere,acquiēvī,acquiētum;ver;[F] quiēscere incipiō.
 āctor,āctōr|is;m;[ONE] is quī (bovēs) agit.
 acuō,acuere,acuī,acūtum;ver;[F] aliquid acūtum reddō vel faciō.
 acūt|us,acūt|a,acūt|um;adi;[ONE] ācer, nōn obtūsus. [F] id est acūtum quō aliquid facile possumus secāre.
+ad;pre,+acc;
 ad aliquem pōnō;ind;[PT] praecipuē, in mēnsā pōnō.
 ad senātum aliquid referō;ind;[RCR] dē aliquō senātum cōnsulō.
 ad ultimum;adv;[RCR] postrēmō.
@@ -62,6 +66,7 @@ adeō;adv;[SA] tam, ita. [RCR] tam, ita. [F] ita. [PT] ita.
 adeō,adīre,adīvī | adiī,aditum;ver;[SA] adveniō. appropinquō. [PT] eō ad.
 adferō,adferre,attulī,allātum;ver;[F] ferō ad. mēcum portō. [PT] ad aliquem ferō vel portō.
 adhibeō,adhibēre,adhibuī,adhibitum;ver;[ONE] aliquem vel aliquid ad aliquam rem sūmō, admoveō. (habeō.) [RCR] advocō. ūsūrpō. [F] habeō, mōnstrō, praestō. [PT] habeō, mōnstrō, praestō.
+adhūc;adv;
 adhortor,adhortārī,adhortātus,—;ver;[RCR] monitīs incitō.
 adhūc;adv;[SA] usque ad hunc Iocum. usque ad hoc tempus. [F] i.e. ad hūc. ad hōc temporis.
 adiaceō,adiacēre,adīacuī,—;ver;[RCR] vīcīnus sum.
@@ -88,6 +93,7 @@ adportō,adportāre,adportāvī,adportātum;ver;[F] portō ad. [PT] portō ad.
 adsternō,adsternere,adstrāvī,adstrātum;ver;[ONE] humī iuxtā aliquid iaciō.
 adstō,adstāre,adstitī,—;ver;[PT] prope aliquem stō.
 adstringō,adstringere,adstrīnxī,adstrīctum;ver;[F] vinciō, alligō.
+adsum,adesse,affuī,—;ver;
 adtrahō,adtrahere,adtrāxī,adtractum;ver;[F] trahō ad.
 adulēscēns,adulēscent|is;mf;[F] aut puer aut puella adhūc crēscēns. Est *īnfāns, puer, adulēscēns, iuvenis, homō adultus*.
 adulēscentia,adulēscenti|ae;;[F] aetās adulēscentis.
@@ -102,6 +108,7 @@ adversitās,adversitāt|is;f;[F] mala fortūna.
 adversum,advers|ī;n;[F] malum.
 adversus;ind;[RCR] praep. Acc. reg., contrā.
 advers|us,advers|a,advers|um;adi;[RCR] ā fronte positus. [F] id est adversum quod contrā nōs contendit.
+advertō,advertere,advertī,adversum:ver;
 advolō,advolāre,advolāvī,advolātum;ver;[RCR] properē petō.
 Aeacidēs,Aeacid|ae;m;[ONE] Achillēs, Aeacī nepōs.
 aedēs,aed|is;f;[ONE] templum, fānum. [SA] templum. (plūr.) domus vel domicilium. [RCR] templum.
@@ -137,6 +144,8 @@ aestīv|us,aestīv|a,aestīv|um;adi;[F] ad aestātem attinēns.
 aestus,aest|ūs;m;[F] calor. [PT] ārdor. mōtus aquae, sanguinis, maris, cēterōrum.
 aetās,aetāt|is;f;[ONE] vītae tempus vel spatium. [SA] aetās indicat quot annōs nātus sīs. [RCR] vītae spatium, tempus. aevum, saeculum.
 aeternitās,aeternitāt|is;f;[ONE] tempus fīne carēns.
+aetern|us,aetern|a,aetern|um;adi;
+aethēr,aetheris;n;
 Aetnae|us,Aetnae|a,Aetnae|um;adi;[ONE] ad Aetnam, montem Siciliae, pertinēns.
 aevum,aev|ī;n;[ONE] aetās.
 affectō,affectāre,affectāvī,affectātum;ver;[F] adipīscī cōnor.
@@ -145,6 +154,7 @@ afficiō,afficere,affēcī,affectum;ver;[SA] vulnere afficiō = vulnerō. poenā
 affīgō,affīgere,affīxī,affīxum;ver;[F] aliquid aliī reī iungō. [PT] iungō.
 affirmō,affirmāre,affirmāvī,affirmātum;ver;[SA] id, quod prō certō habeō, dīcō. [F] dīcō. [PT] dīcō.
 agāsō,agāsōn|is;m;[F] custōs equōrum vel asinōrum.
+ager,agr|ī;m;
 aggredior,aggredī,aggressus,—;ver;[F] incipiō cōnārī. impetum faciō in, contrā aliquem currō. [PT] impetum faciō in, contrā aliquem currō.
 agitātor,agitātōr|is;m;[F] iīs quī equōs dīrigit.
 agitō,agitāre,agitāvī,agitātum;ver;[ONE] saepe aut vehementer agō, iactō. [RCR] quatiō. impellō: dēlīberō. [F] quatiō. perturbō. [PT] quatiō.
@@ -163,6 +173,7 @@ aiō;ind;[ONE] *vb. dēfectīvum,* dīcō, assentior. [F] dīcō ita. [PT] dīc�
 alacritās,alacritāt|is;f;[RCR] exsultātiō.
 albeō,albēre,albuī,albitum;ver;[ONE] albus sum.
 Albula,Albul|ae;f;[ONE] nōmen prīscum Tiberis.
+alb|us,alb|a,alb|um;adi;⚪
 Alcīdēs,Alcīd|ae;m;[ONE] Herculēs, Alceī nepōs.
 ālea,āle|ae;f;[RCR] perīculum (velut cum lūdimus tesserīs, fortūnā ūsī, nōn arte).
 āles,ālit|is;m;[ONE] quī ālās habet : avis. [RCR] avis (ālās gerēns).
@@ -172,8 +183,11 @@ aliēnāt|us,aliēnāt|a,aliēnāt|um;adi;[F] mūtātus. *Mente aliēnātus* = *
 aliēnō,aliēnāre,aliēnāvī,aliēnātum;ver;[RCR] sēparō, disiungō.
 aliēn|us,aliēn|a,aliēn|um;adi;[SA] ad alium pertinēns. barbarus. [RCR] ad alium pertinēns (i.e. nōn meus). [F] ad aliōs attinēns.
 aliōquī;adv;[RCR] quod ad cētera pertinet, hōc exceptō.
+aliquandō;adv;
 aliquantulum;ind;[F] nōn multum. [PT] nōn multum.
+aliquis | aliquae | aliquod;pro;
 aliquot;ind;[SA] indēcl. num. nōnnūllī.
+ali|us,ali|a,ali|um;adi;
 aliter;adv;[SA] modī. aliō modō. aliīs verbīs, aliā condiciōne. [F] aliō modō. [PT] aliō modō.
 alliciō,allicere,allexī,allectum;ver;[RCR] conciliō.
 alligō,alligāre,alligāvī,alligātum;ver;[F] vinciō. [PT] vinciō.
@@ -183,6 +197,7 @@ alm|us,alm|a,alm|um;adi;[ONE] quī alit vel nūtrit: benignus.
 alō,alere,aluī,alitum;ver;[ONE] nūtriō, ēducō, augeō.
 altāria,altār|ium;n;[ONE] āra. [RCR] āra.
 altē;ind;[F] adverbium ab adiectīvō *altus* ductum. *Is altē dormit quem vix excitāre possumus*.
+alter|,alter|a,alter|um;adi;
 altercātiō,altercātiōn|is;f;[RCR] contentiō, iūrgium.
 altercor,altercārī,—,—;ver;[F] verbīs contrā aliquem contendō.
 alteruter|,alterutr|a,alterutr|um;adi;[ONE] alter ē duōbus.
@@ -204,15 +219,19 @@ amiciō,amicīre,amicuī | amixī,amictum;ver;[F] vestēs induō. [PT] vestēs i
 amīcitia,amīciti|ae;f;[SA] id quod inter amīcōs est. [F] id quod inter amīcōs est.
 amictus,amict|ūs;m;[F] vestis. habitus. Nōmen est ā verbō *amiciō* ductum.
 āmittō,āmittere,āmīsī,āmissum;ver;[RCR] perdō. [F] perdō.
+amīc|us,amīc|a,amīc|um;adi;
 amnis,amn|is;m;[ONE] flūmen, fluvius. [SA] magnum flūmen. [RCR] flūmen magnum.
+amō,amāre,amāvī,amātum;ver;
 amoen|us,amoen|a,amoen|um;adi;[F] iūcundus, dulcis.
-amor,amor|is;m;[F] nōmen ā verbō *amō* ductum.
+amor,amōr|is;m;[F] nōmen ā verbō *amō* ductum.
 amphora,amphor|ae;f;[F] magnum vās.
 amplector,amplectī,amplexus,—;ver;[SA] bracchiīs cingō, circumdō. [F] bracchia mea collō alicui circumdō.
 amplexus,amplex|ūs;m;[ONE] āctus amplectendī alicui bracchia circumdandī.
 amplius;adv;[RCR] plūs.
 ampl|us,ampl|a,ampl|um;adi;[RCR] magnus. decōrus, honestus.
 amputō,amputāre,amputāvī,amputātum;ver;[PT] partem abscīdō.
+an;con;
+anas,anat|is | anit|is;f;🦆
 anceps,ancipit|is,—;adi;[RCR] duo capita gerēns: neutrō inclīnātus, aequus. duplex (caput). [F] dubius.
 ancilla,ancill|ae;f;[ONE] famula, serva. [RCR] serva. [F] servus fēminīnus.
 angō,angere,ānxī,ānctum | ānxum;ver;[F] cruciō, dolōre aliquem afficiō. [PT] iugulum comprimō.
@@ -223,6 +242,7 @@ anhēlō,anhēlāre,anhēlāvī,anhēlātum;ver;[F] nōn facile spīrō. Canis s
 anicula,anicul|ae;f;[F] anus parva.
 anima,anim|ae;f;[F] id quod ex ōre venit dum spīrāmus. pars hominis immortālis.
 animadvertō,animadvertere,animadvertī,animadversum;ver;[SA] in aliquem animadvertō = poenās sūmō dē aliquō. [RCR] cernō, sentiō. [F] animum ad aliquid vertō. percipiō, videō. [PT] animum ad aliquid vertō. percipiō. videō.
+animal,animāl|is;n;
 animī;ind;[RCR] (loc.) in animō.
 animus,anim|ī;m;[RCR] mēns. animī, pl. fortitūdō.
 Aniō,Aniēn|is;m;[RCR] flūmen in Tiberim prōfluēns.
@@ -231,9 +251,12 @@ annōna,annōn|ae;f;[RCR] frūmentum. pretium quō emitur frūmentum. [F] frūme
 annu|us,annu|a,annu|um;adi;[F] ad annum attinēns.
 ānsa,āns|ae;f;[F] quasi parvus laqueus soleae affīxus per quem corrigiam īnserimus.
 ānser,ānser|is;m;[SA] avis domestica. [RCR] avis quaedam..
+ante;adv;
+ante;pre,+acc;
 anteā;adv;[SA] tempore priōre.
 antecēdō,antecēdere,antecessī,antecessum;ver;[F] superō, supergredior, aliīs melior sum.
 antepīlānus,antepīlān|ī;m;[RCR] quī ante pīlānōs, i. e. triāriōs, pugnat, inter hastātōs prīncipēsve.
+antequam;con;
 antesignānus,antesignān|ī;m;[RCR] quī ante signa est, in prīmā aciē.
 Anticyra,Anticyr|ae;f;[ONE] urbs Graeciae ubi nāscēbātur herba elleborus vel vērātrum, remedium īnsāniae.
 antīqu|us,antīqu|a,antīqu|um;adi;[F] contrārium quam novus.
@@ -258,6 +281,8 @@ approbō,approbāre,approbāvī,approbātum;ver;[SA] dīcō mihi placēre.
 appropinquō,appropinquāre,appropinquāvī,appropinquātum;ver;[SA] mē admoveō. adveniō. [F] eō ad. [PT] eō ad.
 aptō,aptāre,aptāvī,aptātum;ver;[F] iungō, affīgō, accommodō.
 apt|us,apt|a,apt|um;adi;[SA] idōneus. opportūnus.
+apud;pre,+acc;
+aqua,aqu|ae;f;
 aquila,aquil|ae;f;[ONE] avium rapācium generōsissima. [SA] avis magna et fusca. [RCR] avis, Iovis nūntia. [F] magna avis, quasi rēx avium.
 aquilō,aquilōn|is;m;[F] ventus quī ē regiōne septentriōnālī flat.
 āra,ār|ae;f;[SA] saxum ēditum ubi victimae caedēbantur. [F] quasi mēnsa suprā quam sacrificāmus.
@@ -267,6 +292,7 @@ Arātus,Arāt|ī;m;[ONE] poēta Graecus: A.V.C. D flōruit: dē caelō sīderibu
 arbiter,arbitr|ī;m;[F] spectātor. testis. iūdex.
 arbitrium,arbitri|ī;n;[ONE] iūs potestāsque alicuius reī faciendae.
 arbitror,arbitrārī,—,—;ver;[F] putō. [PT] putō.
+arbor,arbor|is;f;
 arca,arc|ae;f;[F] rēs quaedam quadrāta in quā aliās rēs inclūdimus ut custōdiantur.
 arceō,arcēre,arcuī,arctum;ver;[RCR] distineō, sēparō. [PT] dēfendō. in contrāriam partem vertō.
 arcessō,arcessere,arcessīvī,arcessītum;ver;[SA] venīre iubeō, mittō quī dūcat. [RCR] venīre iubeō, advocō. [F] vocō, aliquem ut aliquid adferat mittō.
@@ -329,7 +355,9 @@ astō,astāre,astitī,—;ver;[RCR] stō prope.
 astringō,astringere,astrīnxī,astrictum;ver;[ONE] artē vel firme vinciō.
 astrologia,astrologi|ae;f;[F] scientia astrōrum.
 astrum,astr|ī;n;[ONE] stēlla, sīdus. [F] lūmen quoddam lūnā minus quod noctū in caelō vidēmus.
-āter|,ātr|a,ātr|um;adi;[F] niger.
+at;con;
+āter|,ātr|a,ātr|um;adi;⚫[F] niger.
+atque;con;
 atquī;con;[RCR] cēterum.
 ātrium,ātri|ī;n;[RCR] aula, magna domus. [PT] magna cella in mediā parte domūs.
 atrōx,atrōc|is,—;adi;[SA] crūdēlis, ferōx. [RCR] saevus, dīrus.
@@ -344,6 +372,7 @@ auctumnus,auctumn|ī;m;[F] vidē *hiemps*.
 audācia,audāci|ae;f;[SA] virtūs audācis hominis. [RCR] fortitūdō, in perīculō cōnstantia. [F] est nōmen, adiectīvum est *audāx*.
 audāx,audāc|is,—;adi;[SA] quī ex mōre audet: fortis. [RCR] impavidus, intrepidus. [F] is est audāx quī nihil timet.
 audeō,audēre,—,ausus sum;ver;[RCR] nōn timeō. [F] nōn timeō. audāx sum.
+audiō,audīre,audiī | audīvī,audītum;ver;
 auferō,auferre,abstulī,ablātum;ver;[SA] ex locō rapiō. [RCR] tollō, abripiō. [F] ab aliquō capiō. [PT] ab aliquō rapiō.
 aufugiō,aufugere,aufūgī,—;ver;[RCR] fugā abeō. [F] effugiō. [PT] ab aliquō fugiō.
 augeō,augēre,auxī,auctum;ver;[RCR] (aliquid) maius vel amplius faciō. [F] aliquid maius faciō. extendō.
@@ -365,6 +394,8 @@ Ausonis,Ausonid|is,—;adi;[ONE] ad Ausoniam pertinēns.
 auspex,auspic|is;m;[ONE] (1) is quī avibus spectandīs rēs futūrās praedīcit. (2) is quī alicuius reī faciendae auctor est.
 auspicium,auspici|ī;n;[RCR] imperium (ducis quī prō exercitū augurium agit) (ausper, avisspiciō).
 ausum,aus|ī;n;[ONE] facinus audāx.
+aut;con;
+autem;con;
 auxilior,auxiliārī,—,—;ver;[F] auxilium dō. adiuvō.
 auxilium,auxili|ī;n;[SA] id quod adiuvat. subsidium.
 avāritia,avāriti|ae;f;[F] nōmen est *avāritia*, adiectīvum *avārus*.
@@ -379,6 +410,7 @@ Aventīnus,Aventīn|ī;m;[ONE] ūnus ē septem Rōmae montibus.
 avidē;ind;[F] adverbium ab adiectīvō avidus ductum. [PT] adverbium ab adiectīvō avidus ductum.
 aviditās,aviditāt|is;f;[F] nōmen est, adiectīvum est *avidus*.
 avid|us,avid|a,avid|um;adi;[ONE] cupidus, rapāx. [F] is est avidus quī nimis edit. [PT] is est avidus quī nimis edit.
+avis,av|is;f;
 avīt|us,avīt|a,avīt|um;adi;[RCR] ad avum pertinēns: ab avō trāditus.
 āvi|us,āvi|a,āvi|um;adi;[F] locus āvius est locus ubi nōn est via.
 āvolō,āvolāre,āvolāvī,āvolātum;ver;[RCR] celeriter discēdō (avis celeritātem imitātus).
@@ -401,7 +433,9 @@ beāt|us,beāt|a,beāt|um;adi;[F] contrārium quam miser.
 bellō,bellāre,bellāvī,bellātum;ver;[RCR] bellum gerō.
 Bellōna,Bellōn|ae;f;[RCR] bellātrīx dea.
 bēllua,bēllu|ae;f;[F] bēstia.
+bellum,bell|ī;n;
 bēlua,bēlu|ae;f;[ONE] animal vel bēstia immānī corpore, e.g. elephās. [RCR] ingēns animal.
+bene;adv;
 beneficium,benefici|ī;n;[SA] aliquid bene tibi factum. [F] id quod homō benignus nōbīs praebet.
 benignitās,benignitāt|is;f;[F] nōmen est, adiectīvum est *benignus*.
 benign|us,benign|a,benign|um;adi;[SA] quī bene aliōs tractat. *contr.* crūdēlis. [RCR] amīcus, benevolus. [F] contrārium quam crūdēlis. [PT] contrārium quam crūdēlis.
@@ -410,11 +444,14 @@ bibō,bibere,bibī,bibitum;ver;[SA] aquam vel vīnum bibis.
 bīn|ī,bīn|ae,bīn|a;adi;[ONE] (1) numerāle distribūtīvum: ūnī cuique duo: (2) duo.
 blandior,blandīrī,blandītus,—;ver;[ONE] adūlor, arrīdeō: e.g. canis caudā agitātā dominō blandītur. [F] molliter rem ergā aliquem agō cui placēre studeō. molliter tractō.
 bland|us,bland|a,bland|um;adi;[ONE] quī blandītur: rīdēns. [SA] mītis. lēnis. quī amīcīs verbīs suādet.
+bon|us,bon|a,bon|um;adi;
 Boreās,Bore|ae;m;[ONE] ventus ē regiōne septentriōnālī ortus.
+bōs,bov|is;mf;🐂
 brācae,brāc|ārum;f;
 bracchium,bracchi|ī;n;[SA] membrum corporis quod manum umerō coniungit. 
 brevī;adv;[RCR] mox.
 brev|is,brev|is,brev|e;adi;[F] nōn longus.
+breviter;adv;
 brūmāl|is,brūmāl|is,brūmāl|e;adi;[ONE] hībernus.
 Brūtus,Brūt|ī;m;[RCR] *cognōmen* (brūtus: stolidus, stultus).
 būbō,būbōn|is;m;[F] avis quae noctū volat.
@@ -425,14 +462,16 @@ bustum,bust|ī;n;[ONE] rogus vel pyra ubi corpora mortuōrum combūruntur.
 cachinnus,cachinn|ī;m;[F] rīsus magnus.
 cadāver,cadāver|is;n;[F] corpus mortuum.
 cadō,cadere,cecidī,cāsum;ver;[SA] humum celeriter eō, dēlābor.
+caec|us,caec|a,caec|um;adi
 caedēs,caed|is;f;[ONE] āctus caedendī vel occīdendī. [SA] āctus caedendī. [RCR] caedem facit quī caedit, interficit. [F] nōmen est. verbum est *caedō*.
 caedō,caedere,cecīdī,caesum;ver;[SA] occīdō, interficiō. [F] interficiō. secō. percutiō.
 caelāt|us,caelāt|a,caelāt|um;adi;[PT] nōn pūrus sed variīs figūrīs ōrnātus et decorātus.
 caelebs,caelib|is,—;adi;[F] cui nōn est coniūnx.
 caelest|is,caelest|is,caelest|e;adi;[RCR] dī, in caelō habitantēs, saepe caelestēs vocantur.
 caelō,caelāre,caelāvī,caelātum;ver;[RCR] adōrnō (īnfīxō metallō).
+caelum,cael|ī;n;
 caenum,caen|ī;n;[ONE] lutum, id quod in viīs post imbrem est.
-caerule|us,caerule|a,caerule|um;adi;[ONE] eō colōre quō caelum serēnum est.
+caerule|us,caerule|a,caerule|um;adi;🔵[ONE] eō colōre quō caelum serēnum est.
 Caesar,Caesar|is;m;[ONE] C. Iūlius Caesar Octāviānus Augustus, prīmus Rōmānōrum imperātor: obiit annō post Chrīstum nātum tertiō decimō.
 caespes,caespit|is;m;[ONE] segmentum solī herbōsī.
 calamitās,calamitāt|is;f;[F] aliquid malī.
@@ -449,9 +488,10 @@ calor,calōr|is;m;[ONE] status ēius quod calet (q.v.). [F] nōmen est. adiectī
 caltha,calth|ae;f;[ONE] genus violae, colōre lūteō.
 calx,calc|is;f;[F] posterior pars pedis.
 campus,camp|ī;m;[SA] locus aequus. [RCR] locus plānus.
-candid|us,candid|a,candid|um;adi;[F] albus.
+candid|us,candid|a,candid|um;adi;⚪[F] albus.
 candor,candōr|is;m;[F] lūx candida.
 cāneō,cānēre,cānuī,cānitum;ver;[ONE] cānus vel albus sum.
+canis,can|is;mf;🐕
 canna,cann|ae;f;[ONE] calamus, arundō.
 canō,canere,cecinī,cantum;ver;[F] carmina vōce canimus. sonō.
 cantō,cantāre,cantāvī,cantātum;ver;[F] canō.
@@ -475,6 +515,7 @@ cardō,cardin|is;m;[F] cardinēs sunt parvae rēs ex quibus iānua pendet.
 careō,carēre,caruī,caritum;ver;[SA] abl. reg. nōn habeō, e. g. hoc verbum supīnō caret. [F] (abl.) nōn habeō.
 carīna,carīn|ae;f;[ONE] ima pars nāvis: nāvis ipsa.
 cāritās,cāritāt|is;f;[RCR] fit cāritās ubi omnia stant magnō pretiō.
+carmen,carmin|is;n;
 Carmenta,Carment|ae;f;[RCR] dea quaedam Rōmāna. Vidē Carmentis.
 Carmentis,Carment|is;f;[RCR] dea quaedam Rōmāna. Vidē Carmenta.
 carnifex,carnific|is;m;[F] īs quī hominēs damnātōs occīdit, vel interficit. [PT] quī hominēs damnātōs occīdit, vel interficit.
@@ -510,6 +551,7 @@ celeber|,celebr|is,celebr|e;adi;[SA] clārus, omnibus ob virtūtem nōtus. [F] n
 celebrō,celebrāre,celebrāvī,celebrātum;ver;[RCR] saepe et cum multīs ago. cum laude commemorō. [PT] diēs fēstōs celebrāmus.
 celer|,celer|is,celer|e;adi;[F] is est celer quī aliquid celeriter agit.
 Celer,Celer|is;m;[ONE] equitibus Rōmānīs tempore Rōmulī praefectus.
+celeriter;adv;
 Celeus,Cele|ī;m;[ONE] Eleusīnōrum rēx.
 cella,cell|ae;f;[F] pars domūs inter quattuor mūrōs. [PT] pars domūs quattuor inter mūrōs.
 cēlō,cēlāre,cēlāvī,cēlātum;ver;[SA] in sēcrētō pōnō. abdō. [F] tegō. aliquid in locō pōnō ubi nēmō possit invenīre.
@@ -519,6 +561,7 @@ cēnāculum,cēnācul|ī;n;[F] cella ubi cēnāmus.
 cēnō,cēnāre,cēnāvī,cēnātum;ver;[SA] cēnam edō. [F] cēnam edō. [PT] cēnam edō.
 cēnseō,cēnsēre,cēnsuī,cēnsum;ver;[F] putō. sentiō.
 cēnsus,cēns|ūs;m;[RCR] populus discrīmine dīvitiārum in classēs dīvīsus.
+centum;ind;
 centuriāt|us,centuriāt|a,centuriāt|um;adi;[RCR] in centuriās dīvīsus (ut ūnum quaeque centuria suffrāgium ferat).
 centuriō,centuriōn|is;m;[SA] is quī centum mīlitibus praeest. [RCR] quī centuriam (prope centum quondam mīlitēs, deinde ad sexāgintā) dūcit. [PT] centum mīlitum dux.
 cēra,cēr|ae;f; [F] id quō apēs favōs faciunt.
@@ -528,6 +571,7 @@ Cerēs,Cerer|is;f;[ONE] dea agrī cultūrae fautrīx. [F] dea frūmentī.
 cernō,cernere,crēvī,crētum;ver;[SA] percipiō. [PT] percipiō, videō.
 certāmen,certāmin|is;n;[SA] pugna. [RCR] contentiō (certō). [F] contentiō.
 certātim;adv;[RCR] ācriter, cum certāmine.
+certē;adv;
 certior fīō,certior fierī,certior factus sum,—;ver;[F] audiō.
 certō,certāre,certāvī,certātum;ver;[RCR] contendō, alterum superāre cōnor. [F] certāmen ineō. contendō.
 cert|us,cert|a,cert|um;adi;[SA] *contr.* dubius. [PT] nōn dubius.
@@ -536,7 +580,7 @@ cervīx,cervīc|is;f;[RCR] collum.
 cervus,cerv|ī;m;[SA] animal quod cornua rāmōsa habet et celerrimē currit. [F] animal quoddam timidum quod cornua habet. Celerrimē currere potest.
 cessō,cessāre,cessāvī,cessātum;ver;[ONE] ā labōre requiēscō: moror. [PT] dēsistō.
 cēssō,cēssāre,cēssāvī,cēssātum;ver;[SA] prōgredī recūsō.
-cēter|ī,cēter|ae,cēter|a;adi;[F] omnēs aliī. [PT] omnēs aliī.
+cēter|us,cēter|a,cēter|um;adi;[F] omnēs aliī. [PT] omnēs aliī.
 cēterum;con;[RCR] tamen, autem. [PT] sed.
 cētus,cēt|ī;m;[F] bēllua marīna.
 Cēȳx,Cēȳc|is;m;[ONE] hērōs quīdam in avem aquāticam versus.
@@ -550,6 +594,8 @@ cinctus,cinct|ūs;m;[RCR] modus vestīmentum induendī.
 cinctus Gabīnus;ind;[RCR] toga ad expedītum mōtum mīlitāriter circumdata (cingō).
 cingō,cingere,cīnxī,cinctum;ver;[SA] circumdō, amplector. [RCR] circumdō, induō.
 cinis,ciner|is;mf;[ONE] id quod igne exstīnctō reliquum est. [F] id quod in focō manet postquam carbō est cōnsūmptus.
+circā;adv;
+circā;pre,+acc;
 circiter;ind;[PT] circā.
 circueō,circuīre,circuiī,circuitum;ver;[SA] circum aliquid eō. cingō.
 circumdō,circumdare,circumdedī,circumdatum;ver;[SA] :*acc. et dat. reg.* aliquid circum aliquid pōnō. circumveniō, cingō. [RCR] dispōnō circum. [F] cingō. [PT] cingō.
@@ -575,6 +621,7 @@ clam;adv;[ONE] sēcrētō, occultō, nōn apertē. [SA] secrētō, nēmine viden
 clāmō,clāmāre,clāmāvī,clāmātum;ver;[SA] magnam vōcem ēmittō. [F] magnā vōce loquor. [PT] magnā vōce loquor.
 clāmor,clāmōr|is;m;[SA] āctus clāmandī, id quod clāmās. [F] nōmen est. verbum est clāmō.
 clangor,clangōr|is;m;[RCR] avis clāmor.
+clār|us,clār|a,clār|um;adi;
 classicum,classic|ī;n;[RCR] signum tubā datum.
 classis,class|is;f;[F] multae sub ūnō duce nāvēs.
 claudicō,claudicāre,claudicāvī,claudicātum;ver;[PT] nōn bene ambulō. Claudicāmus sī pedēs nōbīs sunt laesī.
@@ -590,7 +637,8 @@ clipeus,clipe|ī;m;[ONE] scūtum rotundum. [SA] scūtum parvum et rotundum. [F] 
 cloāca,cloāc|ae;f;[SA] canālis subter viās cōnstrūctus ad aquam dūcendam.
 Clūsium,Clūsi|ī;n;[RCR] urbs Etrūsca.
 coāgulum,coāgul|ī;n;[ONE] id quod ad lac coāgulandum adhibētur.
-coemō,coemere,coēmī,coemptum;ver;[RCR] emō (ubi multa simul emō).
+cochlea,cochle|ae;f;
+coemō,coemere,coēmī,coēmptum;ver;[RCR] emō (ubi multa simul emō).
 coepī,—,coepisse,coeptum;ver;[SA] incipiō, initium faciō. [F] incipiō.
 coetus,coet|ūs;m;[RCR] conventus, manus congregāta.
 cōgitātiō,cōgitātiōn|is;f;[RCR] id quod in mente est cōgitantis, reputantis.
@@ -612,6 +660,7 @@ collūceō,collūcēre,collūxī,—;ver;[ONE] splendeō, niteō. (lūx.)
 collum,coll|ī;n;[SA] pars corporis quae caput et umerōs coniungit. [PT] pars corporis in quā situm est caput.
 colō,colere,coluī,cultum;ver;[SA] (ī) (agrōs) cūrō. arō. (ii) (deōs) veneror. [RCR] veneror. meditor. cūrō. [F] deōs colimus. veneror. agrōs fodiō.
 colōnia,colōni|ae;f;[RCR] oppidum cuius ager colōnīs, vel agricolīs, Rōmā missīs datus est. [PT] hominēs quī in aliam terram migrant colōniam faciunt, vel colōniam dēdūcunt.
+color,colōr|is;m;
 coluber,colubr|ī;m;[F] serpēns, anguis.
 columba,columb|ae;f;[ONE] avis turturī cōgnāta. [SA] avis timida.
 columna,column|ae;f;[RCR] id quod tēctum sustinet.
@@ -670,6 +719,7 @@ concrepō,concrepāre,concrepuī,concrepitum;ver;[RCR] resonō. [F] crepitum vel
 concupīscō,concupīscere,concupīscupīvī,concupīscupītum;ver;[RCR] vehementer cupiō.
 concurrō,concurrere,concurrī,concursum;ver;[SA] in ūnum locum cum aliīs currō.
 concursus,concurs|ūs;m;[RCR] mōtus in ūnum locum currentium.
+condiciō,condiciōnis;f;
 condiscipulus,condiscipul|ī;m;[PT] quī mēcum discit.
 conditiō,conditiōn|is;f;[RCR] lēx, modus impositus. [F] ratiō, modus.
 conditor,conditōr|is;m;[SA] is quī condit. [RCR] quī urbem aedificat.
@@ -695,7 +745,7 @@ coniugium,coniugi|ī;n;[ONE] mātrimōnium. [F] mātrimōnium.
 coniūnx,coniug|is;mf;[ONE] marītus: uxor. [SA] marītus vel uxor. [F] aut uxor aut marītus.
 coniūrātus;ind;[RCR] quī coniūrāvit.
 coniūrō,coniūrāre,coniūrāvī,coniūrātum;ver;[SA] mē aliīs coniungō alicuius occīdendī causā. [RCR] cum aliīs sēcrētum cōnsilium ineō. [F] inter aliōs iūrō. cum aliīs aliquid suscipiō.
-coniux,coniug|is;mf;[RCR] marītus, vir. uxor.
+coniūnx | coniux,coniug|is;mf;[RCR] marītus, vir. uxor.
 cōnor,cōnārī,—,—;ver;[SA] omnia faciō ut difficile aliquid efficiam.
 conqueror,conquerī,conquestus,—;ver;[RCR] multum queror.
 conquestus,conquest|ūs;m;[RCR] querēllae vehementēs.
@@ -752,6 +802,8 @@ continuō,continuāre,continuāvī,continuātum;ver;[RCR] rem alteram alterī si
 continu|us,continu|a,continu|um;adi;[RCR] perpetuus.
 cōntiō,cōntiōn|is;f;[RCR] populus exercitusve convocātus (cō-ventiō). [F] conventus ubi ōrātiōnēs habēmus.
 cōntiōnor,cōntiōnārī,cōntiōnātus,—;ver;[RCR] ōrātiōnem habeō apud cōntiōnem.
+contrā;adv;
+contrā;pre,+acc;
 contrahō,contrahere,contrāxī,contractum;ver;[F] aliquid angustius faciō. *Lītem contrahō* = lītem agere incipiō.
 contrōversia,contrōversi|ae;f;[F] contentiō verbōrum.
 contubernālis,contubernāl|is;mf;[F] comes quī in eōdem tēcum tabernāculō dormit.
@@ -777,6 +829,7 @@ corium,cori|ī;n;[F] pellis dūra quālem habet bōs. Māteria ex quā calceōs 
 corne|us,corne|a,corne|um;adi;[RCR] ex illā arbore factus quae vocātur cornus.
 cornū,corn|ūs;n;[SA] (i) id quod in capite bovis nāscitur. (ii) latus aciēī. āla. [RCR] aciēī pars, quae in latere est. [F] aliquid dūrum quod ē capite bovis aliōrumque animālium crēscit.
 corōna,corōn|ae;f;[F] rēs quaedam ē flōribus textam quam capitī impōnimus.
+corpus,corpor|is;n;
 corrigia,corrigi|ae;f;[F] lōrum soleae.
 corrumpō,corrumpere,corrūpī,corruptum;ver;[F] aliquem pecūniā corrumpō quam eō cōnsiliō eī dō, ut eī persuādeam ut aliquid faciat.
 cortex,cortic|is;m;[ONE] pars arboris exterior. [SA] exterior arboris pars.
@@ -821,6 +874,8 @@ culmen,culmin|is;n;[RCR] apex, vertex.
 culpa,culp|ae;f;[ONE] peccātum, id quod poenā vel reprehēnsiōne dignum est. [SA] vitium, id quod poenās merētur.
 culter,cultr|ī;m;[SA] īnstrūmentum quō secās. [RCR] ferrum acūtum, īnstrūmentum ad secandum. [F] id quō aliquid secāmus. [PT] id quō aliquid secāmus.
 cult|us,cult|a,cult|um;adi;[ONE] ōrnātus. (colō eō.)
+cum;con;
+cum;pre,+abl;
 cumulō,cumulāre,cumulāvī,cumulātum;ver;[SA] in cumulum vel acervum colligō. [F] compleō.
 cūnābula,cūnābul|ōrum;n;[F] cūnae.
 cūnae,cūn|ārum;f;[ONE] lectulus, in quō īnfantēs dormiunt. [F] lectus īnfantis.
@@ -834,6 +889,7 @@ Cupīdō,Cupīdin|is;m;[ONE] deus amōris.
 cupīdō,cupīdin|is;f;[ONE] affectus animī aliquid vehementer cupientis.
 cupid|us,cupid|a,cupid|um;adi;[SA] quī aliquid cupit. [F] adiectīvum ā verbō cupiō ductum. Is cupidus alicuius reī est quī eam habēre volt.
 cupiō,cupere,cupiī | cupīvī,cupītum;ver;[SA] valdē volō. [F] volō. [PT] volō.
+cūr;adv;
 cūra,cūr|ae;f;[ONE] sollicitūdō: studium: id quod cūrāmus. [RCR] custōdia. ānxietās.
 cūrātiō,cūrātiōn|is;f;[RCR] medentium ministeria.
 Curēs,Cur|ium;m;[ONE] oppidum agrī Sabīnī.
@@ -859,11 +915,15 @@ damnum,damn|ī;n;[F] sī quid perdō damnum patior. sī quid laeditur damnum acc
 Danaī,Dana|ōrum;m;[F] Graecī.
 dapēs,dap|um;f;[ONE] epulae: cēna magnificentior.
 daps,dap|is;f;[SA] cēna vel epulae.
+dē;pre,+abl;
 dea,de|ae;f;[F] deus fēminīnus.
+dēficiō,dēficere,dēfēcī,dēfectum;ver;
+deus,de|ī;m;
 dēbeō,dēbēre,dēbuī,dēbitum;ver;[RCR] id dēbeō quod reddendum est, quod aliēnum est: id facere dēbeō quod faciendum est. [F] oportet mē. [PT] oportet nē.
 dēbilitō,dēbilitāre,dēbilitāvī,dēbilitātum;ver;[ONE] dēbilem vel invalidum reddō.
 dēcantō,dēcantāre,dēcantāvī,dēcantātum;ver;[F] cantō.
 dēcēdō,dēcēdere,dēcessī,dēcessum;ver;[PT] cēdō. ē locō mē moveō, mē recipiō.
+decem;ind;
 dēcernō,dēcernere,dēcrēvī,dēcrētum;ver;[RCR] cōnstituō. ēdīcō, imperō. dīmicō. [F] iūdicō. ēdīcō. dēstinō.
 dēcertō,dēcertāre,dēcertāvī,dēcertātum;ver;[PT] pugnō, contrā aliōs contendō.
 decet,decēre,decuit,—;ver;[ONE] *vb. impers.,* decōrum vel aptum est. [RCR] verb imp., decōrum est, nōn indignum.
@@ -896,6 +956,7 @@ dēgredior,dēgredī,dēgressus,—;ver;[RCR] dēscendō.
 dehinc;ind;[F] posteā, deinde.
 dehīscō,dehīscere,dehīvī,—;ver;[F] ōs dehīscit cum hiāmus.
 dēiciō,dēicere,dēiēcī,dēiectum;ver;[F] ad terram iaciō. [PT] ad terram iaciō. praecipitō.
+dein | deinde;adv;
 deinceps;adv;[RCR] continuō, sine morā. [F] posteā.
 dēlābor,dēlābī,dēlāpsus,—;ver;[SA] lēniter dēscendō. [RCR] lēniter dēmittor. [F] dēcidō.
 dēlectō,dēlectāre,dēlectāvī,dēlectātum;ver;[ONE] placeō, iuvō, voluptāte moveō. [F] gaudium alicui praebeō. *dēlector* = gaudeō. [PT] gaudium praestō. delector = gaudeō.
@@ -964,6 +1025,7 @@ dexter|,dextr|a,dextr|um;adi;[SA] *contr.* sinister. [F] duās habeō manūs qu�
 dexterē;adv;[RCR] callidē, astūtē.
 Diāna,Diān|ae;f;[ONE] Apollinis soror, dea vēnātrīx. [F] dea vēnātiōnis.
 dicō,dicāre,dicāvī,dicātum;ver;[RCR] dēdicō, cōnsecrō.
+dicō,dīcere,dīxī,dictum;ver;
 dictātor,dictātōr|is;m;[SA] magistrātus quem Rōmānī magnō in perīculō creābant. [RCR] magistrātus extrāōrdinārius, summō imperiō sōlus praeditus.
 dictātūra,dictātūr|ae;f;[SA] magistrātus dictātōris.
 dictitō,dictitāre,dictitāvī,dictitātum;ver;[F] saepenumerō dīcō.
@@ -971,6 +1033,7 @@ dictō audiēns sum;ind;[F] pāreō.
 dictum,dict|ī;n;[SA] id quod aliquis dīxit.
 Dīdō,Dīdōn|is;f;[ONE] rēgīna Carthāginis. etiam Elissa vocātur.
 dīdūcō,dīdūcere,dīdūxī,dīductum;ver;[ONE] in contrāriās partēs dūcō.
+diēs,di|ēī;mf;
 differō,differre,distulī,dīlātum;ver;[RCR] prōcrāstinō. [F] aliquid in tempus futūrum dēpōnō. efficiō ut aliquis diūtius exspectet.
 difficil|is,difficil|is,difficil|e;adi;[SA] *contr.* facilis. [F] contrārium quam *facilis*. [PT] nōn facilis.
 difficultās,difficultāt|is,—;adi;[F] nōmen est, adiectīvum est *difficilis*.
@@ -1007,6 +1070,7 @@ discerpō,discerpere,discerpseī,discerptum;ver;[RCR] distrahō, dīvellō.
 discessus,discess|ūs;m;[F] nōmen ā verbō *discēdō* ductum.
 disciplīna,disciplīn|ae;f;[RCR] doctrīna. oboedientia.
 discipulus,discipul|ī;m;[F] is quī discit.
+discō,discere,didicī,discitūrus;ver;
 discordia,discordi|ae;f;[F] contentiō.
 discrīmen,discrīmin|is;n;[SA] perīculum. [RCR] differentia, dīversitās. tempus ubi ēventus dēcernitur: ultimum perīculum.
 discurrō,discurrere,discurrī,discursum;ver;[SA] hūc illūc currō.
@@ -1022,25 +1086,32 @@ distendō,distendere,distendī,distum;ver;[F] ita aliquid compleō ut tumeat.
 distineō,distinēre,distinuī,distentum;ver;[RCR] disiungō. in utramque partem extendō.
 distrahō,distrahere,distrāxī,distractum;ver;[F] in contrāriās partēs trahō.
 distribuō,distribuere,distribuī,distribūtum;ver;[SA] inter multōs dīvidō. [F] contrārium quam colligō.
+diū;adv;
 diurn|us,diurn|a,diurn|um;adi;[ONE] ad diem pertinēns. [SA] quī cottīdiē vel interdiū fit.
 diuturn|us,diuturn|a,diuturn|um;adi;[RCR] quī diū dūrat.
+dīves,dīvit|is,—;adi;
 dīvers|us,dīvers|a,dīvers|um;adi;[RCR] alius, differēns.
 dīvidō,dīvidere,dīvīsī,dīvīsum;ver;[F] in partēs secō.
 dīvīnitās,dīvīnitāt|is;f;[RCR] dīvīna nātūra.
 dīvīnitus;adv;[RCR] deōrum voluntāte (nōn hūmānō cōnsiliō).
 dīvīn|us,dīvīn|a,dīvīn|um;adi;[F] ad deōs attinēns.
 dīvitiae,dīviti|ārum;f;[F] nōmen est, adiectīvum est dīves.
+dīv|us,dīv|a,dīv|um;adi;
+dō,dare,dedī,datum;ver;
 doceō,docēre,docuī,doctum;ver;[SA] explicō. *contr.* discō.
 documentum,document|ī;n;[F] id quod aliquid vērum esse dēmōnstrat.
 doleō,dolēre,doluī,—;ver;[SA] dolōre afficior. *contr.* gaudeō.
 dōlium,dōli|ī;n;[F] magnum vās.
+aut;con;
 Dolōn,Dolōn|is;m;[ONE] speculātor quīdam Trōiānus.
 dolor,dolōr|is;m;[ONE] īra, trīstitia, vel animī affectus ex hīs mīxtus. [SA] āctus dolendī. [F] contrārium quam *gaudīum*.
 dolus,dol|ī;m;[RCR] fraus, astus, fallāciae. [F] id quō aliquem dēcipimus.
 domicilium,domicili|ī;n;[RCR] domus, sēdēs.
 domina,domin|ae;f;[F] uxor dominī. [PT] uxor dominī.
 dominātus,domināt|ūs;m;[SA] dominī potentia.
+dominus,domin|ī;m;
 domō,domāre,domuī,domitum;ver;[RCR] superō, subigō.
+domus,dom|ūs;f;
 dōnec;ind;[SA] *coniūnct. temp.* usque ad tempus cum.
 dōnō,dōnāre,dōnāvī,dōnātum;ver;[RCR] augeō (dōnīs). [F] dō. [PT] dō.
 dōnum,dōn|ī;n;[SA] id quod datur.
@@ -1053,12 +1124,17 @@ dubi|us,dubi|a,dubi|um;adi;[ONE] quī dubitat: quod dubitātur. [SA] incertus. [
 dūcō,dūcere,dūxī,ductum;ver;[SA] dux mīlitēs dūcit.
 dulce adverbium est;ind;[PT] *adiectīvum* est *dulcis*.
 dulcēdō,dulcēdin|is;f;[RCR] iūcunditās, voluptās.
+dulc|is,dulc|is,dulc|e;adi;
+dum;con;
 dumtaxat;ind;[F] sōlum. modo.
+du|o,du|ae,du|o;adi;
 duodēn|ī,duodēn|ae,duodēn|a;adi;[SA] ita distribūtī ut duodecim quisque habeat.
 dūrēscō,dūrēscere,dūruī,—;ver;[F] dūrus fīō.
 dūritia,dūriti|ae;f;[F] nōmen est, adiectīvum est dūrus.
 dūrō,dūrāre,dūrāvī,dūrātum;ver;[ONE] maneō, diuturnus sum.
 dūr|us,dūr|a,dūr|um;adi;[F] contrārium quam *mollis*.
+dux,duc|is;mf;
+ē | ex;pre,+abl;
 eā;adv;[RCR] ibi.
 eādem;adv;[RCR] eādem viā.
 ēbri|us,ēbri|a,ēbri|um;adi;[F] is quī nimis vīnī bibit ēbrius fit.
@@ -1078,6 +1154,7 @@ efferō,efferāre,efferāvī,efferātum;ver;[RCR] in feritātem, in ferārum sta
 efferō,efferre,extulī,ēlātum;ver;[F] ex aliquō locō portō. excipiō. *Ēlātus* = laetus.
 efficāx,efficāc|is,—;adi;[RCR] ūtilis, quī quod volō efficit.
 effigiēs,effigi|ēī;f;[RCR] imāgō. [F] imāgō, figūra, fōrma.
+efficiō,efficere,effēcī,effectum;ver;
 effluō,effluere,effluxī,—;ver;[F] fluō ex.
 effodiō,effodere,effōdī,effossum;ver;[F] ex aliquō locō fodiō.
 effringō,effringere,effrēgī,effrāctum;ver;[F] aliquid frangendō aperiō.
@@ -1089,6 +1166,7 @@ egeō,egēre,eguī,—;ver;[ONE] reī alicuius inopiā labōrō: necessārium al
 Ēgerius,Ēgeri|ī;m;[RCR] Arruntis fīlius, frātris minōris Tarquinī Prīscī.
 ēgredior,ēgredī,ēgressus,—;ver;[SA] exeō, excēdō. [F] exeō. [PT] exeō.
 ēgregi|us,ēgregi|a,ēgregi|um;adi;[RCR] optimus (ē grege). [F] optimus. [PT] optimus, eximius.
+ego;pro;
 ēiciō,ēicere,ēiēcī,ēiectum;ver;[F] ex aliquā rē iaciō.
 ēlābor,ēlābī,ēlāpsus,—;ver;[RCR] excidō.
 elegus,eleg|ī;m;[ONE] versus elegīacus.
@@ -1110,8 +1188,8 @@ Elissa,Eliss|ae;f;[ONE] Dīdō.
 ēmittō,ēmittere,ēmīsī,ēmissum;ver;[PT] mittō vel iaciō ex aliquā rē.
 emō,emere,ēmī,emptum;ver;[SA] pretium dō ut adipīscar.
 ēmptor,ēmptōr|is;m;[F] is quī emit
-ēn;ind;[RCR] interi., ecce.
-Ēn;ind;[F] Exclāmātiō est.
+ēn;int;[RCR] interi., ecce. [F] Exclāmātiō est.
+enim;con;
 ēnitēscō,ēnitēscere,ēnituī,—;ver;[RCR] clārus fīō (niteō).
 Ennius,Enni|ī;m;[ONE] poēta Latīnus: flōruit A.V.C. DL.
 ēnōrm|is,ēnōrm|is,ēnōrm|e;adi;[F] maior quam solet.
@@ -1126,6 +1204,8 @@ epulae,epul|ārum;f;[ONE] cēna magnificentius īnstrūcta: convīvium.
 eques,equit|is;m;[SA] mīles quī equō pugnat. [PT] mīles quī ex equō pugnat.
 equester|,equestr|is,equestr|e;adi;[RCR] quī ad equitēs equōsve pertinet.
 equidem;ind;[PT] ego quidem. ego prō meā parte.
+equus,equ|ī;m;🐎
+ergō;con;
 ērigō,ērigere,ērēxī,ērēctum;ver;[ONE] ēlevō, tollō. (regō.) [F] tollō.
 ēripiō,ēripere,ērīipuī,ēreptum;ver;[SA] ex perīculō rapiō.
 errō,errāre,errāvī,errātum;ver;[F] vagor. nōn rēctē putō vel faciō. [PT] nōn rēctē putō, vel faciō.
@@ -1136,6 +1216,8 @@ error,errōr|is;m;[F] nōmen ā verbō errō ductum.
 Erythēa,Erythē|ae;f;[ONE] īnsula in sinū Gādītānō.
 Erythēis,Erythēid|is,—;adi;[ONE] Erythēae incola.
 ēsca,ēsc|ae;f;[PT] parva pars cibī. Cibus est id quod edimus.
+et;con;&.
+etiam;con;
 Etrūria,Etrūri|ae;f;[RCR] Italiae pars, in dextrā Tiberis rīpā.
 Etrūsc|us,Etrūsc|a,Etrūsc|um;adi;[RCR] Etrūriā ortus, vel in Etiōriā situs.
 Eurus,Eur|ī;m;[ONE] ventus ex oriente flāns.
@@ -1184,6 +1266,7 @@ exīl|is,exīl|is,exīl|e;adi;[F] tenuis, macer.
 exilium,exili|ī;n;[ONE] exulis condiciō. [SA] status exulis.
 eximi|us,eximi|a,eximi|um;adi;[RCR] optimus, ēgregius.
 exinde;adv;[RCR] deinde.
+exīstimō,exīstimāre,exīstimāvī,exīstimātum;ver;
 exitium,exiti|ī;n;[ONE] interitus, perniciēs, ruīna. [F] mors. caedēs.
 exitus,exit|ūs;m;[RCR] ēgressus. fīnis (exeō).
 expediō,expedīre,expedīvī,expedītum;ver;[RCR] parō. [F] solvō.
@@ -1205,6 +1288,7 @@ exquīsīt|us,exquīsīt|a,exquīsīt|um;adi;[F] optimus, eximius. *Supplicium e
 exsangu|is,exsangu|is,exsangu|e;adi;[ONE] sanguine carēns. [PT] sine sanguine.
 exsecrātiō,exsecrātiōn|is;f;[RCR] maledictum.
 exserō,exserere,exseruī,exsertum;ver;[RCR] extendō, extrūdō.
+exsilium,exsili|ī;n;
 exsistō,exsistere,exsistitī,exsistitum;ver;[ONE] prōdeō, exeō. [SA] fīō, mē praebeō. [F] appāreō. sum.
 exsolvō,exsolvere,exsolvī,exsolūtum;ver;[RCR] līberō.
 exspectō,exspectāre,exspectāvī,exspectātum;ver;[SA] aliquem exspectō sī maneō ut veniat. [F] exspectō dōnec aliquis redeat. mancō. [PT] exspectō dōnec aliquis redeat. maneō.
@@ -1236,6 +1320,8 @@ facētiae,facēti|ārum;f;[PT] verba quae rīsum nōbīs movent.
 faciēs,faci|ēī;f;[ONE] ōs, voltus: fōrma vel speciēs externa alicuius reī. [F] ōs. fōrma.
 facil|is,facil|is,facil|e;adi;[SA] id quod omnēs facere possunt. *contr.* difficilis.
 facinus,facinor|is;n;[SA] id quod facis. aliquid male factum. scelus. [RCR] factum. scelus. [F] scelus.
+faciō,facere,fēcī,factum;ver;
+factum,fact|ī;n;
 facultās,facultāt|is;f;[RCR] occāsiō, rēs opportūnae.
 fācund|us,fācund|a,fācund|um;adi;[SA] quālis est ōrātor. ēloquēns.
 faenum,faen|ī;n;[ONE] herba in pābulum ārefacta, quā equī vēscuntur. [F] cibus equī. [PT] cibus equī. grāmen sōle tostum.
@@ -1247,6 +1333,7 @@ fals|us,fals|a,fals|um;adi;[F] contrārium quam *vērus*.
 falx,falc|is;f;[ONE] ferrāmentum incurvum, quō frūgēs metuntur, arborēs putantur.
 fāma,fām|ae;f;[RCR] rūmor. glōria. [F] id quod dē aliquō dīcitur. quod dē mē ipsō audiō. [PT] id quod dē aliquō dīcitur. quod dē mē ipsō audiō.
 famēs,fam|is;f;[SA] abl. famē. famē afficitur is quī nihil edit. [RCR] cibī cupīdō. cibī inopia. [F] famēs est mihi sī edere volō.
+familia,famili|ae;f;
 familiār|is,familiār|is,familiār|e;adi;[SA] quī ad familiam pertinet.
 familiāris,familiār|is;mf;[RCR] amīcus.
 famula,famul|ae;f;[ONE] serva, ancilla.
@@ -1268,7 +1355,7 @@ favor,favōr|is;m;[F] nōmen est. verbum est *faveō*.
 favus,fav|ī;m;[F] rēs in quā apēs mel custōdiunt.
 fax,fac|is;f;[F] quasi baculum quod ūrimus et nōbīscum portāmus quō noctem illūminēmus.
 febris,febr|is;f;[PT] morbus quī corpus nunc calidum nunc frīgidum reddit.
-fēlēs,fēl|is;f;[F] animal domesticum quod canis ōdit. [PT] animal domesticum quod canis ōdit.
+fēlēs,fēl|is;f;🐈[F] animal domesticum quod canis ōdit. [PT] animal domesticum quod canis ōdit.
 fēlīcitās,fēlīcitāt|is;f;[F] nōmen est, adiectīvum est *fēlīx*.
 fēlīciter;ind;[F] adverbium ab adiectīvō *fēlīx* ductum.
 fēlīx,fēlīc|is,—;adi;[F] nōn miser.
@@ -1279,6 +1366,7 @@ fenestra,fenestr|ae;f;[F] in mūrīs sunt fenestrae per quās lūx intrat. [PT] 
 fera,fer|ae;f;[ONE] animal saevum, nōn mānsuētum. [SA] animal quod in silvīs habitat. animal ferōx. [F] bēstia.
 ferae,fer|ārum;f;[RCR] i.e. ferae bēstiae (ferus).
 ferāx,ferāc|is,—;adi;[PT] fertilis. ferāx est arbor quae multās prōcreat frūgēs.
+ferē;adv;
 fēriae,fēri|ārum;f;[F] diēs quibus nūllum negōtium agimus. [PT] diēs fēstī quibus lūdum nōn frequentāmus.
 ferīn|us,ferīn|a,ferīn|um;adi;[F] ad ferās attinēns.
 feriō,ferīre,ferīvī | feriī,ferītum;ver;[SA] verbera dō. [F] pulsō, percutiō. [PT] pulsō, percutiō.
@@ -1311,6 +1399,7 @@ fimus,fim|ī;m;[F] id quod ex equīs ceterīsque animālibus in viā cadit.
 fīnēs,fīn|um;m;[F] regiō.
 fingō,fingere,fīnxī,fictum;ver;[ONE] fōrmō, exprimō: falsō narrō. [F] faciō. [PT] faciō.
 fīniō,fīnīre,fīnīvī,fīnītum;ver;[F] contrārium quam *incipiō*.
+fīnis,fīn|is;m;
 fīnitimī,fīnitim|ōrum;m;[F] vīcīnī.
 fīnitim|us,fīnitim|a,fīnitim|um;adi;[SA] vīcīnus. propinquus. [RCR] vīcīnus.
 fīō,fierī,factus sum,—;ver;[SA] *Vox Pass.* *verbī* faciō.
@@ -1319,7 +1408,7 @@ flagellō,flagellāre,flagellāvī,flagellātum;ver;[F] pulsō.
 flāgitō,flāgitāre,flāgitāvī,flāgitātum;ver;[F] vehementer poscō. [PT] vehementer poscō.
 flagrō,flagrāre,flagrāvī,flagrātum;ver;[RCR] ārdeō.
 flamma,flamm|ae;f;[F] ignis flammās gignit.
-flāv|us,flāv|a,flāv|um;adi;[ONE] eō colōre quō messis mātūra.
+flāv|us,flāv|a,flāv|um;adi;🟡[ONE] eō colōre quō messis mātūra.
 flēbil|is,flēbil|is,flēbil|e;adi;[ONE] lacrimīs dignus vel plēnus: maestus, lūgubris. [F] is quī flēre solet.
 flectō,flectere,flexī,flexum;ver;[SA] curvum faciō. cursum alicuius mūtō. [RCR] curvō.
 fleō,flēre,flēvī,flētum;ver;[ONE] lacrimās effundō.
@@ -1342,6 +1431,7 @@ foedus,foeder|is;n;[SA] pāctum.
 folium,foli|ī;n;
 follis,foll|is;m;[F] uter īnflātus. [PT] pila ventō īnflāta vel plēna.
 fōns,font|is;m;[F] quasi fluviī orīgō, ubi aqua ē terrā prōcēdit.
+for,fārī,fātus,—;ver;
 forāmen,forāmin|is;n;[F] sī gladium aliudve acūtum īnstrūmentum per aliquid immittō forāmen facit.
 forās;adv;[RCR] in partem exteriōrem. [F] per forēs. extrā domum.
 forent;ind;[ONE] =essent.
@@ -1366,6 +1456,7 @@ fovea,fove|ae;f;[F] fossa.
 fragmentum,fragment|ī;n;[F] pars parva. [PT] pars parva.
 fragor,fragōr|is;m;[ONE] sonitus magnus quī frangendō fit. [SA] sonitus frangendī. [RCR] sonus (velut cum aliquid frangitur).
 frangō,frangere,frēgī,frāctum;ver;[SA] in partēs vī dīvidō vel rumpō.
+frāter,frātr|is;m;
 frāterculus,frātercul|ī;m;[PT] frāter. parvus.
 frātern|us,frātern|a,frātern|um;adi;[ONE] ad frātrem pertinēns.
 fraudō,fraudāre,fraudāvī,fraudātum;ver;[F] dēcipiō. prīvō.
@@ -1385,6 +1476,7 @@ frūgēs,frūg|um;f;[ONE] ea quae terra gignit.
 frūgī;ind;[F] abstinēns.
 frūmentum,frūment|ī;n;[SA] id quod flāvum in agrīs flōret. [F] id ē quō pānem facimus.
 fruor,fruī,fruitus,—;ver;[SA] *abl. reg.* fēlīciter ūtor.
+frūctus,frūct|ūs;m;
 frūstrā;adv;[SA] nūllō ēventū (cum nōn efficis id quod cōnstituistī). [F] id frūstrā facere cōnor quod facere nōn possum. [PT] cōnōr facere quod facere nōn possum.
 frūstror,frūstrārī,frūstrātus,—;ver;[SA] dēcipiō: fallō. [RCR] fallō, vītō (frūstrā).
 fuga,fug|ae;f;[SA] āctus fugiendī.
@@ -1425,6 +1517,7 @@ gallīna,gallīn|ae;f;[F] gallus fēminīnus.
 Gallus,Gall|ī;m;[ONE] vir Vergilī aequālis, rēbus cum mīlitāribus tum poēticīs praestāns.
 gallus,gall|ī;m; 
 gaudeō,gaudēre,—,gāvīsus sum;ver;[SA] laetus sum. *contr.* doleō.
+gaudium,gaudi|ī;n;
 gelid|us,gelid|a,gelid|um;adi;[ONE] frīgidus: calōre carēns. [SA] frīgidus.
 gemell|us,gemell|a,gemell|um;adi;[ONE] geminus.
 geminī,gemin|ōrum;m;[SA] duo īnfantēs eōdem tempore nātī.
@@ -1458,6 +1551,7 @@ gladius,gladi|ī;m;[F] Vidē Mīles.
 glāns,gland|is;f;[ONE] bāca quercūs, fāgī, aliārum arborum. [PT] lapis quem ē fundā mittimus.
 glīscō,glīscere,—,—;ver;[RCR] crēscō, impendeō.
 globus,glob|ī;m;[RCR] manus.
+glōria,glōri|ae;f;
 glōriābund|us,glōriābund|a,glōriābund|um;adi;[F] is est glōriābundus quī glōriārī solet.
 glōrior,glōriārī,glōriātus,—;ver;[RCR] in meam ipse laudem dīcō. [F] magnum loquor, superbō modō loquor. Piscātōrēs saepenumerō sē magnum piscem cēpisse glōriantur.
 Gn.;ind;[RCR] Gnaeus, praenōnen.
@@ -1488,6 +1582,7 @@ gustō,gustāre,gustāvī,gustātum;ver;[ONE] cibum lābrīs experior: paullum e
 gustus,gust|ūs;m;[PT] prīma pars cēnae.
 gutta,gutt|ae;f;[ONE] minima pars aquae.
 habēna,habēn|ae;f;[ONE] id quō equī reguntur.
+habeō,habēre,habuī,habitum;ver;
 habil|is,habil|is,habil|e;adi;[RCR] ūtilis.
 habitus,habit|ūs;m;[RCR] speciēs. [F] speciēs vestium quās gerimus. vestis. [PT] speciēs vestium quās gerimus.
 Haemonis,Haemonid|is;f;[ONE] mulier Thessalica.
@@ -1498,7 +1593,7 @@ halcēdō,halcēdin|is;f;
 Halcyōn,Halcyon|is;f;[ONE] alcēdō. avis aquātica, in quam Halcyonē Cēȳcis uxor versa est.
 haruspex,haruspic|is;m;[RCR] quī exta animālium īnspicit, ut deōrum voluntātem cognōscat. [F] vātēs quī quid futūrum sit vīscera animālium īnspiciendō praedīcit.
 hasta,hast|ae;f;[SA] tēlum longum. [F] pīlum.
-haud;ind;[F] nōn.
+haud;adv;[F] nōn.
 haudquāquam;adv;[RCR] nōn, nūllō modō.
 hauriō,haurīre,hausī,haustum;ver;[RCR] dēvorō. perforō, ut quod intus sit effundātur. [F] aquam ex aliquō locō dūcō *pōculum hauriō* sī omne quod inest bibō.
 haustus,haust|ūs;m;[F] nōmen est, verbum est haurī.
@@ -1517,7 +1612,9 @@ Hesperi|us,Hesperi|a,Hesperi|um;adi;[ONE] ad Occidentem pertinēns.
 heus;ind;[F] exclāmātiō alicuius vocantis.
 hiātus,hiāt|ūs;m;[RCR] ōs apertum. locus cavus, lātē patēns.
 hībern|us,hībern|a,hībern|um;adi;[ONE] ad hiemem pertinēns. [F] ad hiemem attinēns.
-hiemps,hiem|is;f;[F] pars annī. ōrdō est *vēr, aestūs, auctumnus, hiemps*.
+hic | haec | hoc;pro;
+hīc;adv;
+hiems | hiemps,hiem|is;f;[F] pars annī. ōrdō est *vēr, aestūs, auctumnus, hiemps*.
 hinc;adv;[SA] locī. ex hōc locō. ab hāc parte. hāc dē causā. [F] ex hōc locō. Hinc inde = sex omnibus partibus.
 hiō,hiāre,hiāvī,hiātum;ver;[F] ōs aperiō. Sī hiās manum ante ōs pōne.
 hīrsūt|us,hīrsūt|a,hīrsūt|um;adi;[ONE] saetīs aut crīnibus horridus, asper.
@@ -1525,14 +1622,18 @@ Hispānia,Hispāni|ae;f;[RCR] terra ā Galliā Pȳrēnaeīs montibus dīvwīsa.
 Hispān|us,Hispān|a,Hispān|um;adi;[RCR] quī ab Hispāniā venit.
 histriō,histriōn|is;m;[F] is quī partem in cōmoediā aut in tragoediā in theātrō agit.
 hodiē;ind;[F] hōc diē.
+homō,homin|is;m;🧑
 honestē;ind;[F] ut hominem honestum decet.
 honest|us,honest|a,honest|um;adi;[F] homō honestus nēminem dēcipit.
+honor,honōr|is;m;
 honōrāt|us,honōrāt|a,honōrāt|um;adi;[ONE] honōribus ōrnātus. [F] summī honōris.
 honōrō,honōrāre,honōrāvī,honōrātum;ver;[RCR] praemiīs dōnō.
 honōs,honōr|is;m;[RCR] decus, praemium pūblicum. [F] bona fāma. venerātiō.
+hōra,hōr|ae;f;
 horreum,horre|ī;n;[F] locus ubi frūmentum custōdīmus.
 horribil|is,horribil|is,horribil|e;adi;[F] contrārium quam *iūcundus*.
 horror,horrōr|is;m;[RCR] timor vehemēns.
+hortor,hortārī,hortātus,—;ver;
 hortulus,hortul|ī;m;[F] hortus parvus.
 hortus,hort|ī;m;[RCR] locus quī flōrum causā colitur. [F] quasi ager parvus iuxtā domum. In hortō flōrēs atque arbores crēscunt.
 hortus; -ī;m;[SA] locus inclūsus ubi flōrēs coluntur.
@@ -1567,24 +1668,28 @@ ibī;adv;[SA] in eō locō.
 icō,icere,īcī,ictum;ver;[F] feriō.
 ictus,ict|ūs;m;[SA] āctus feriendī. verber. [PT] id quod tibi dō sī tē pulsō. *Feriō, pulsō* sunt verba, *ictus* est nōmen.
 Īdē,Īd|ēs;f;[ONE] mōns Trōadis.
+īdem | eadem | idem;pro;
 identidem;adv;[SA] iterum atque iterum. [F] iterum atque iterum. saepenumerō. [PT] saepe, iterum atque iterum.
 ideō;ind;[F] ob eam causam.
 idōne|us,idōne|a,idōne|um;adi;[RCR] aptus, commodus. [F] aptus, proprius. id alicui idōneum est quod eī est ūtile. Stilus est scrībendō idōneus, ferula percutiendō.
-Īdūs,Īd|uum;f;[PT] diēs mēnsis aut tertius decimus aut quīntus decimus.
+īdūs,īd|uum;f;[PT] diēs mēnsis aut tertius decimus aut quīntus decimus.
 iecur,iecinor|is;n;[RCR] pars quaedam extōrum, vīscerum.
 ieiūn|us,ieiūn|a,ieiūn|um;adi;[F] is est ieiūnus quī edere volt. [PT] ieiūnus est is quī edere volt.
 iēntāculum,iēntācul|ī;n;[F] id quod māne edimus.
 igitur;adv;[SA] causam dēsignāns. itaque. ergō. hāc dē causā.
 ignār|us,ignār|a,ignār|um;adi;[ONE] nescius. [SA] quī nescit. [RCR] quī nescit. [F] is est ignārus quī ignōrat.
+ignis,ign|is;m;🔥
 ignōrō,ignōrāre,ignōrāvī,ignōrātum;ver;[SA] nesciō. [RCR] nōn nōvī. [F] nōn sciō. [PT] nōn sciō.
 ignōscō,ignōscere,ignōvī,ignōtum;ver;[SA] veniam dō.
 ignōt|us,ignōt|a,ignōt|um;adi;[SA] nōn nōtus. [RCR] incognitus. [F] contrārium quam nōtus.
 Īlium,Īli|ī;n;[F] Trōia.
+ille | illa | illud;pro;
 illībāt|us,illībāt|a,illībāt|um;adi;[F] nōn volnerātus.
-illīc;ind;[F] ad illum locum.
+illīc;adv;[F] ad illum locum.
 illīdō,illīdere,illīsī,illīsum;ver;[F] aliquid contrā aliam rem iaciō ac frangō.
 illigō,illigāre,illigāvī,illigātum;ver;[RCR] vinciō.
 illinc;adv;[SA] ab illō locō. ex eā parte.
+illuc;adv;
 illūminō,illūmināre,illūmināvī,illūminātum;ver;[F] lūmen alicui reī praestō.
 illūstr|is,illūstr|is,illūstr|e;adi;[F] praeclārus, nōbilis.
 illūstrō,illūstrāre,illūstrāvī,illūstrātum;ver;[F] illūstre aliquid reddō.
@@ -1610,6 +1715,7 @@ impediō,impedīre,impedīvī,impedītum;ver;[ONE] coerceō: vinciō. [SA] prohi
 impellō,impellere,impulī,impulsum;ver;[ONE] in aliquam partem pellō vel agō. [F] cōgō, persuādeō, compellō.
 impendō,impendere,impendī,impensum;ver;[F] ēdō. intendō. ūtor, cōnsūmō.
 impēnsa,impēns|ae;f;[ONE] sūmptus, pecūnia in aliquid cōnsūmpta.
+imperātor,imperātōr|is;m;
 imperfect|us,imperfect|a,imperfect|um;adi;[RCR] nōn cōnfectus.
 imperīt|us,imperīt|a,imperīt|um;adi;[SA] quī alicuius reī nōn expertus est. quī rem nōn bene facit. [RCR] īnscius.
 imperium,imperi|ī;n;[RCR] iussum. potestās regentis.
@@ -1621,6 +1727,7 @@ impiger|,impigr|a,impigr|um;adi;[RCR] strēnuus.
 impleō,implēre,implēvī,implētum;ver;[RCR] efficiō (fāta). plēnum aliquid faciō. [F] plēnum faciō.
 implōrō,implōrāre,implōrāvī,implōrātum;ver;[F] ōrō.
 impluvium,impluvi|ī;n;[PT] locus in mediō ātriō situs in quem aqua dē caelō cadit. quasi stāgnum parvum.
+impōnō,impōnere,imposuī,impositum;ver;
 impotēns,impotent|is,—;adi;[RCR] quī aliquid cohibēre nōn potest.
 imprecor,imprecārī,—,—;ver;[F] precor. aliquid malī precor.
 impressiō,impressiōn|is;f;[RCR] impetus, irruptiō.
@@ -1634,6 +1741,7 @@ impudīc|us,impudīc|a,impudīc|um;adi;[RCR] sine pudīcitiā.
 impulsus,impuls|ūs;m;[F] vīs quā intrat aliquis. aliter impetus.
 impūne;adv;[RCR] sine poenā. [F] sine poenā.
 īm|us,īm|a,īm|um;adi;[PT] contrārium quam summus.
+in;pre,+abl|+acc;
 in orbem;ind;[RCR] invicem, ōrdine.
 in praeceps dēferor;ind;[RCR] praeceps cadō.
 in vicem;ind;[RCR] alternīs (vicibus). ōrdine.
@@ -1706,6 +1814,7 @@ inexsuperābil|is,inexsuperābil|is,inexsuperābil|e;adi;[RCR] invictus, quī su
 īnferī,īnfer|ōrum;m;[F] quī mundum īnferiōrem habitant.
 īnfern|us,īnfern|a,īnfern|um;adi;[F] ad īnferōs attinēns.
 īnferō,īnferre,intulī,illātum;ver;[SA] (bellam) in aliquem gerere incipiō. [F] ferō in. contrā aliquem adhibeō.
+īnfer|us,īnfer|a,īnfer|um;adi;
 īnfestō,īnfestāre,īnfestāvī,īnfestātum;ver;[F] īnfēstum reddō.
 īnfest|us,īnfest|a,īnfest|um;adi;[RCR] hostīlis. perīculōsus. [F] nōn tūtus. īnfestus est locus ubi multī sunt latrōnēs. [PT] nōn tūtus. īnfestus est locus ubi grassantur latrōnēs.
 īnfīnīt|us,īnfīnīt|a,īnfīnīt|um;adi;[PT] sine fīne, aeternus, diuturnus.
@@ -1718,6 +1827,7 @@ inexsuperābil|is,inexsuperābil|is,inexsuperābil|e;adi;[RCR] invictus, quī su
 ingeniōs|us,ingeniōs|a,ingeniōs|um;adi;[ONE] arte vel ingeniō praestantī: sollers.
 ingenium,ingeni|ī;n;[F] mēns. sagācitās,
 ingēns,ingent|is,—;adi;[SA] permagnus. [RCR] valdē magnus, ēnōrmī magnitūdine. [F] magnus.
+ingrāt|us,ingrāt|a,ingrāt|um;adi;
 ingredior,ingredī,ingressus,—;ver;[SA] ineō, intrō. [F] intrō. [PT] intrō.
 ingruō,ingruere,ingruī,—;ver;[RCR] aggredior.
 inguen,inguin|is;n;[RCR] īma pars abdōminis.
@@ -1751,7 +1861,6 @@ inquit;ind;[F] dīcit vel dīxit. [PT] dīcit vel dīxit.
 īnsidiae,īnsidi|ārum;f;[SA] dolus. fraus. [RCR] cōnsilium dolōsum. locus ubi mīlitēs cēlantur, ut necopīnātō oppugnent. [F] locus ubī mīlitēs latent ut hostēs dēcipiant. dolus.
 īnsidior,īnsidiārī,īnsidiātus,—;ver;[RCR] dolō aggredior.
 īnsign|is,īnsign|is,īnsign|e;adi;[ONE] praeclārus, splendidus. [RCR] cōnspicuus. īnsignia: magistrātūs sacerdōtisve ōrnāmenta. [F] splendidus. is est īnsignis quī ē cēterīs quasi exstat. nōn facere possumus quīn eum videāmus.
-īnsit|us,īnsit|a,īnsit|um;adi;[RCR] innātus.
 īnsolēns,īnsolent|is,—;adi;[F] superbus. impudēns.
 īnsolenter;ind;[F] adverbium ab adiectīvō īnsolēns ductum.
 īnsōns,īnsont|is,—;adi;[RCR] innocēns.
@@ -1765,10 +1874,12 @@ inquit;ind;[F] dīcit vel dīxit. [PT] dīcit vel dīxit.
 īnsula,īnsul|ae;f;[F] terra marī circumdata.
 īnsurgō,īnsurgere,īnsurrēxī,īnsurrēctum;ver;[F] mē tollō.
 integer|,integr|a,integr|um;adi;[RCR] intāctus. recēns. [F] tūtus. salvus, nōn volnerātus.
+intellegō,intellegere,intellēxī,intellēctum;ver;
 intempestā nocte;ind;[PT] mediā nocte.
 intempesta nox;ind;[F] est media nox.
 intendō,intendere,intendī,intēnsum | intentum;ver;[ONE] valdē tendō: dīrigō: arcum intendō cum sagittam ēmittō. [RCR] advertō, circumfundō. [F] tendō ad. intentus = summā cūrā.
 intentus;ind;[RCR] (animī) occupātus.
+inter;pre,+acc;
 interclūdō,interclūdere,interclūsī,interclūsum;ver;[SA] in viā excipiō. [RCR] sēparō.
 interdīcō,interdīcere,interdīxī,interdictum;ver;[F] (dat.) vetō.
 interdum;adv;[RCR] nōn nunquam.
@@ -1783,10 +1894,12 @@ interitus,interit|ūs;m;[RCR] exitium, mors.
 intermittō,intermittere,intermīsī,intermissum;ver;[ONE] in mediō opere cēssō.
 interpres,interpret|is;mf;[RCR] nūntius, quī quid velīmus explicat.
 interrēgnum,interrēgn|ī;n;[RCR] tempus inter duo rēgna interpositum, cīvitās sine rēge relicta.
+interrogō,interrogāre,interrogāvī,interrogātum;ver;
 intersum,interesse,interfuī,—;ver;[RCR] adsum, partem habeō. [F] (dat.) partem agō in aliquā rē.
 intervallum,intervall|ī;n;[RCR] interiectum spatium.
 interveniō,intervenīre,intervēnī,interventum;ver;[SA] in medium veniō. [F] inter duōs aliōs veniō.
 intexō,intexere,intexuī,intextum;ver;[F] inter aliās rēs aliquid texō.
+intrā;pre,+acc;
 intrō,intrāre,intrāvī,intrātum;ver;[SA] ineō. ingredior. [RCR] ineō. [F] eō in. [PT] eō in.
 intrōdūcō,intrōdūcere,intrōdūxī,intrōductum;ver;[F] indūcō. [PT] dūcō in.
 intueor,intuērī,intuitus,—;ver;[RCR] aspiciō.
@@ -1812,6 +1925,8 @@ involvō,involvere,involvolvī,involvolūtum;ver;[F] aliquid in aliā rē volvō
 ioculor,ioculārī,ioculātus,—;ver;[RCR] iocōs agō.
 iocus,ioc|ī;m;[RCR] cum rīsū lūdus.
 īoni|us,īoni|a,īoni|um;adi;[ONE] ad mare Īonium pertinēns, quod inter mare Adriāticum et mare Siculum est.
+ipse | ipsa | ipsum;pro;
+īra,īr|ae;f;
 īrācund|us,īrācund|a,īrācund|um;adi;[F] īrā plēnus. [PT] īrā plēnus.
 īrāscor,īrāscī,īrātus,—;ver;[SA] īrā afficī incipiō. [F] affectus sum īrā. [PT] īrātus sum.
 īrāt|us,īrāt|a,īrāt|um;adi;[SA] īrā affectus.
@@ -1820,8 +1935,12 @@ irrīsus,irrīs|ūs;m;[RCR] dērīdentis rīsus.
 irrit|us,irrit|a,irrit|um;adi;[ONE] inūtilis, vānus, nihil efficiēns.
 irrumpō,irrumpere,irrūpī,irruptum;ver;[SA] subitō ineō. [F] irruō.
 irruō,irruere,irruī,—;ver;[F] magnō impetū in aliquem locum currō.
+is | ea | id;pro;
 Ismari|us,Ismari|a,Ismari|um;adi;[ONE] ad Ismarum, montem Thrāciae, pertinēns.
+iste | ista | istud;pro;
+ita;adv;
 itaque;ind;[PT] hanc ob rem, igitur.
+item;adv;
 iter,itiner|is;n;[SA] iter facis cum ad longinquum locum īs.
 iterum;adv;[SA] iterum facis, id quod anteā fēcistī.
 iubeō,iubēre,iussī,iussum;ver;[SA] *Acc. et īnf. regit*. imperō, dīcō ‘Fac aliquid.’ [RCR] rēgem iubeō. i.e. rēgem esse iubeō.
@@ -1837,9 +1956,9 @@ iugulum,iugul|ī;n;[RCR] īmum collum, ubi pectorī coniūnctum est. [F] pars co
 iugum,iug|ī;n;[SA] id quō boum colla iunguntur. id sub quod, hastīs humī fīxīs, Rōmānī victōs mittēbant. [RCR] id quod colla iūmentōrum tenet vehiculum trahentium. collis longus. [F] id quod cum bovēs arātrō iungimus suprā colla eōrum pōnimus.
 Iugurthīn|us,Iugurthīn|a,Iugurthīn|um;adi;[ONE] ad Iugurtham, Numidārum rēgem, pertinēns.
 Iūlia templa,Iūlia templ|ōrum;n;[ONE] templa dīvī Iūlī.
+iungō,iungere,iūnxī,iūnctum;ver;
 Iūnō,Iūnōn|is;f;[ONE] Iovis uxor. [F] uxor Iovis.
-Iuppiter,Iov|is;m;[ONE] deōrum rēx. (sub) Iove: h.e. sub caelō apertō.
-Iūppiter,Iov|is;m;[F] pater deōrum.
+Iuppiter,Iov|is;m;[ONE] deōrum rēx. (sub) Iove: h.e. sub caelō apertō. [F] pater deōrum.
 iūrō,iūrāre,iūrāvī,iūrātum;ver;[RCR] teste invocātō prōmittō. [F] affirmō. Nōs Anglī dum iūrāmus librum sacrum manū tenēmus. [PT] affīrmō. Nōs Anglī dum iūrāmus librum sacrum manū tenēmus.
 iūs,iūr|is;n;[SA] id quod prō iūstō habētur. [RCR] id quod iūstum est. lēx, id quod docet quid iūstum sit. potestās. [F] potestās quam oportet nōs habēre. *iūs dō* = iūdicō. *In iūs eō* = rem ad iūdicium dēferō. [PT] potestās quam oportet nōs habēre.
 iūsiūrandum,iūr|is|iūrand|ī;n;[F] id quod iūrāmus.
@@ -1854,7 +1973,7 @@ iuventūs,iuventūt|is;f;[PT] aetās iuvenum.
 iuvō,iuvāre,iūvī,iūtum;ver;[SA] (i) auxilium dō. succurrō. (ii) *impers. acc. reg.* mē iuvat = mihī placet.
 iūxtā;adv;[RCR] eōdem modō.
 K.;ind;[RCR] Kaesō, praenōmen.
-Kalendae,Kalend|ārum;f;[PT] prīmus diēs mēnsis.
+kalendae,kalend|ārum;f;[PT] prīmus diēs mēnsis.
 L.;ind;[RCR] Lūcius, praenōmen.
 labō,labāre,labāvī,labātum;ver;[ONE] vacillō, iam iam cāsūrus sum. [RCR] titubō, vix cōnsistō.
 labor,labōr|is;m;[F] negōtium quod fessōs reddit hominēs. paene idem quod dolor. [PT] negōtium quod fessōs reddit hominēs.
@@ -1866,6 +1985,7 @@ lacerna,lacern|ae;f;[ONE] vestis exterior lānā crassiōre. [SA] vestis mīlit�
 lacerō,lacerāre,lacerāvī,lacerātum;ver;[ONE] vī scindō vel dīvellō. [F] quasi in fragmenta dentibus secō.
 lacertus,lacert|ī;m;[ONE] pars bracchiī superior.
 lacessō,lacessere,lacessīvī,lacessītum;ver;[F] vexō, perturbō.
+lacrima,lacrim|ae;f;
 lacrimō,lacrimāre,lacrimāvī,lacrimātum;ver;[SA] lacrimīs dolōrem exprimō.
 lacus,lac|ūs;m;[SA] aqua terrā inclūsa. [F] quasi parvum mare in mediā terrā situm.
 laedō,laedere,laesī,laesum;ver;[F] noceō. efficiō ut aliquis doleat. [PT] noceō, efficiō ut aliquis doleat.
@@ -1884,8 +2004,7 @@ lanius,lani|ī;m;[PT] quī animālia trucīdat, vel interficit, vel caedit, quō
 lapillus,lapill|ī;m;[F] lapis parvus.
 lapis,lapid|is;m;[SA] parvum saxum, quod iacere possīs. [RCR] lapis mīllia passuum indicāns.
 laqueus,laque|ī;m;[F] quasi circulus ē restī factus.
-Lār,Lar|is;m;[ONE] deus quī familiae Rōmānae praesidēbat.
-Larēs,Lar|ium;m;[RCR] dī domesticī, mortuōrum animae.
+lār,lar|is;m;[ONE] deus quī familiae Rōmānae praesidēbat. [RCR] dī domesticī, mortuōrum animae.
 largītiō,largītōn|is,—;adi;[F] dōnum. praecipuē dōnum quō aliquem corrumpere cōnor.
 largītiō,largītiōn|is;f;[RCR] dōnātiō.
 lārva,lārv|ae;f;[F] persōna.
@@ -1895,6 +2014,7 @@ Latium,Lati|ī;n;[RCR] Italiae pars (in laevā Tiberis rīpā).
 latrō,latrōn|is;m;[SA] is quī rēs rapit. fūr. [F] quī id quod nōn suum est capit. [PT] fūr.
 latrōcinium,latrōcini|ī;n;[RCR] latrōnum incursiōnēs.
 latus,later|is;n;[SA] pars corporis quae ā dextrā et ā sinistrā iacet. [F] pars corporis, neque tergum neque frōns.
+lāt|us,lāt|a,lāt|um;adi;
 laudō,laudāre,laudāvī,laudātum;ver;[SA] vōce approbō. *contr.* culpō.
 Laurēns,Laurent|is,—;adi;[ONE] ad Laurentum, oppidum Latīnum, pertinēns.
 laus,laud|is;f;[SA] laus vocātur sī aliquid laudās.
@@ -1921,10 +2041,12 @@ leō,leōn|is;m;[F] animal ferōcissimum quod Āfricam aliāsque regiōnēs habi
 Lēthae|us,Lēthae|a,Lēthae|um;adi;[F] ad Lēthēn attinēns.
 Lēthē,Lēth|ēs;f;[F] flūmen apud īnferōs ē quō sī quis bibit tōtīus priōris vītae oblīvīscitur.
 lētum,lēt|ī;n;[PT] nex, mors.
+lev|is,lev|is,lev|e;adi;
 levō,levāre,levāvī,levātum;ver;[ONE] levem faciō: tollō. [F] levius aliquid faciō. līberō. [PT] levius aliquid faciō.
 lēx,lēg|is;f;[SA] id quod rēx vel populus statuit ad cīvitātem regendam. [RCR] populī dēcrētum: conditiō. [F] quasi pūblicum ēdictum quod quid facere liceat quidve nōn liceat expōnit.
 libēns,libent|is,—;adi;[F] volēns. laetus.
 libenter;ind;[F] adverbium est. adiectīvum est *libēns*.
+liber,libr|ī;m;
 līber|,līber|a,līber|um;adi;[F] is est līber quī nōn est servus.
 Līber,Līber|ī;m;[F] Bacchus, deus vīnī. [PT] Bacchus, deus vīnī.
 līberāl|is,līberāl|is,līberāl|e;adi;[RCR] amplus, generōsus. [F] Ad līberōs hominēs attinēns. Contrārium quam avidus.
@@ -1937,6 +2059,7 @@ libīdō,libīdin|is;f;[RCR] cupīdō.
 lībrō,lībrāre,lībrāvī,lībrātum;ver;[ONE] aequābilī mōtū agitō vel sustineō. [F] duās rēs ita teneō ut aequālem habeant statum.
 lībum,līb|ī;n;[ONE] placenta: genus cibī frūmentō, oleō, melle factum.
 Libyc|us,Libyc|a,Libyc|um;adi;[ONE] ad Libyam vel Āfricam pertinēns.
+licet,licēre,licuit,licitum;ver;
 līctor,līctōr|is;m;[RCR] magistrātūs minister. [F] servus magistrātūs. Līctōrēs fascēs et secūrim portābant quibus scelerātōs solēbant pūnīrī.
 ligna,lign|ōrum;n;[F] fragmenta arboris.
 ligne|us,ligne|a,ligne|um;adi;[RCR] ex arborum māteriā factus. [F] adiectīvum ā nōmine *ligna* ductum.
@@ -1954,6 +2077,7 @@ liquid|us,liquid|a,liquid|um;adi;[F] adiectīvum ā nōmine *liquor* ductum. Con
 liquor,liquōr|is;m;[F] id quod fluit.
 līs,līt|is;f;[ONE] contrōversia, rixa, contentiō. [F] contentiō apud iūdicium.
 litō,litāre,litāvī,litātum;ver;[RCR] bonīs ōminibus immolō.
+littera,litter|ae;f;
 litterae,litter|ārum;f;[RCR] ars scrībendī legendīque.
 litterāri|us,litterāri|a,litterāri|um;adi;[PT] adiectīvum dē nōmine *littera* ductum. *Lūdus litterārius* est locus in quō litterās discimus.
 lītus,lītor|is;n;[F] pars terrae apud mare.
@@ -1964,8 +2088,10 @@ loculī,locul|ōrum;m;[PT] rēs in quā pecūniam aliāsque rēs habēmus. Puer�
 locuplēs,locuplēt|is,—;adi;[F] dīves.
 locus,loc|ī;m;[SA] *Plūr.* loca, n. ubi aliquid est.
 locūtiō,locūtiōn|is;f;[SA] modus aliquid dīcendī.
+longē;adv;
 longinqu|us,longinqu|a,longinqu|um;adi;[F] procul. contrārium quam *proximus*. *Ē longinquō* = contrārium quam *prope*.
 longitūdō,longitūdin|is;f;[F] nōmen est, adiectīvum est *longus*.
+long|us,long|a,long|um;adi;
 loquor,loquī,locūtus,—;ver;[SA] vōcem ēdō.
 lorarius,lorari|ī;n;[F] is quī servōs flagellat.
 lōrīca,lōrīc|ae;f;[RCR] pectoris tegmen. 
@@ -2022,15 +2148,21 @@ Maeōtis,Maeōtid|is,—;adi;[ONE] ad palūdem Maeōticam pertinēns.
 maereō,maerēre,maeruī,maeritum;ver;[ONE] dolōre vel trīstitiā afficior.
 maest|us,maest|a,maest|um;adi;[ONE] quī maeret, trīstis. [SA] dolōre affectus. [RCR] trīstis.
 magic|us,magic|a,magic|um;adi;[F] id est magicum quod suprā hūmānam potestātem est. quōmodo fīat nescīmus.
+magister,magistr|ī;m;
 magister equitum;ind;[RCR] dux sub dictātōre secundus.
 magistrātus,magistrāt|ūs;m;[RCR] vir ad rēs pūblicās administrandās ēlēctus. honōs, magistrātūs dignitās. [F] quī pūblica cūrat negōtia. Seriēs magistrātuum est *aedīlis, quaestor, praetor, cōnsul, prō cōnsule, cēnsor*. [PT] quī negōtia pūblica cūrat.
 magnific|us,magnific|a,magnific|um;adi;[F] splendidus. līberālis.
 magnitūdō,magnitūdin|is;f;[F] nōmen est, adiectīvum est *magnus*.
 Magnus,Magn|ī;m;[ONE] Cn. Pompēius Magnus, dux Rōmānus.
+māgn|us,māgn|a,māgn|um;adi;
+magis;adv;
 mai|or,mai|or,mai|us;adi;[SA] *comp. gradus adiect.* magnus.
+maiōrēs,maiōrum;m;
+male;adv;
 maledīcō,maledīcere,maledīxī,maledictum;ver;[PT] (dat.) mala verba dīcō.
 mālō,mālle,māluī,—;ver;[ONE] magis vel potius volō.
 mālum,māl|ī;n;[F] pōmum. 
+mal|us,mal|a,mal|um;adi;
 mālus,māl|ī;m;[F] tignum in mediā nāve ērēctum.
 Māmīlius,Māmīli|ī;m;[RCR] Octāvius, Tusculānus, Tar. Superbī gener, imperātor Latīnōrum.
 mamma,mamm|ae;f;[RCR] ūber, unde lac trahitur.
@@ -2045,6 +2177,7 @@ manipulus,manipul|ī;m;[RCR] mīlitum manus (duae centuriae).
 mānō,mānāre,mānāvī,mānātum;ver;[RCR] madeō, stīllō. diffundor, spargor.
 mānsuēt|us,mānsuēt|a,mānsuēt|um;adi;[ONE] manibus assuēfactus: nōn ferus, lēnis, placidus. [F] contrārium quam *ferōx*.
 manus,man|ūs;f;[RCR] pars corporis. caterva, congregātī quīdam.
+mare,mar|is;n;
 margō,margin|is;m;[ONE] extrēma alicuius reī ōra.
 marīn|us,marīn|a,marīn|um;adi;[F] ad mare attinēns.
 marītus,marīt|ī;m;[ONE] is cui mulier nūpta est. [RCR] vir, coniux. [F] cui est uxor. Pater tuus est marītus tuae mātris. [PT] cui est uxor. Pater tuus est marītus tuae mātris.
@@ -2052,6 +2185,7 @@ Marius,Mari|ī;m;[ONE] Rōmānōrum dux clārissimus.
 marmor,marmor|is;m;[F] saxum candidum ē quō signa deōrum et templa facimus.
 Mārs,Mārt|is;m;[ONE] (1) deus bellōrum auctor. (2) studium aut fortūna bellī. [RCR] bellātor deus. bellum, pugna.
 Mārtigena,Mārtigen|ae;m;[ONE] Mārtis fīlius.
+māter,mātr|is;f;
 māteria,māteri|ae;f;[RCR] id unde aliquid efficitur. causa. [F] id ē quō aliquid factum est māteria est.
 mātern|us,mātern|a,mātern|um;adi;[F] ad mātrem attinēns.
 mātrimōnium,mātrimōni|ī;n;[SA] vir mulierem in mātrimōnium dūcit, mulier virō nūbit. cōnūbium. [F] pater mātrem tuam in mātrimōnium dūxit.
@@ -2065,6 +2199,7 @@ medicāmentum,medicāment|ī;n;[F] herba mala. remedium. medicīna.
 medicīna,medicīn|ae;f;[F] id quod medicus nōbīs dat.
 medic|us,medic|a,medic|um;adi;[F] ars medica est ars sānandī aegrōtantēs.
 medicus,medic|ī;m;[F] is quī aegrōs sānat.
+medi|us,medi|a,medi|um;adi;
 mel,mell|is;n;[ONE] liquor dulcis ab apibus cōnfectus. [F] id quod apēs ē flōribus colligunt.
 melilōtus,melilōt|ī;f;[ONE] herba odōrāta.
 membrum,membr|ī;n;[F] pars corporis.
@@ -2077,12 +2212,14 @@ mendācium,mendāci|ī;n;[F] nōmen est. adiectīvum est *mendāx*.
 mendāx,mendāc|is,—;adi;[F] is est mendāx quī mentītur.
 mendīcus,mendīc|ī;m;[F] homō quī vagātur ac sīcui occurrit hunc in modum eum alloquitur. “Ō benigne,” inquit, “dā mihi, sīs, aliquantulum pecūniae. Septemdecim mīlia passuum hodiē ambulāvī. nihil habeō quod edam, neque uxor habet, neque līberī, quī mihi sunt duodecim.”
 mēns,ment|is;f;[F] animus. [PT] animus.
+mēnsa,mēns|ae;f;
 mēnsis,mēns|is;m;[F] duodecima pars annī.
 mēnsūra,mēnsūr|ae;f;[ONE] modus, id quō aliquid mētīmur.
 mentior,mentīrī,mentītus,—;ver;[ONE] id dīcō quod nōn est. [F] nōn vērum dīcō.
 mentum,ment|ī;n;[F] pars ōris īnferior.
 mēōrum,mēōr|ī;n;[ONE] bāca nigra, suāvissimō sapōre, autumnō mātūra.
 mercēs,mercēd|is;f;[RCR] pretium (operis vel factī).
+mereō,merēre,meruī,meritum;ver;
 mereor,merērī,meritus,—;ver;[PT] dignus sum aliquā rē.
 meretrīx,meretrīc|is;f;[ONE] fēmina improba.
 mergō,mergere,mersī,mersum;ver;[ONE] sub undās premō. [SA] aquā opprimō. [RCR] dēmittō (sub aquam).
@@ -2094,6 +2231,7 @@ merum,mer|ī;n;[ONE] vīnum. [SA] vīnum pūrum. [F] vīnum cum nūllā aquā ad
 Metanīra,Metanīr|ae;f;[ONE] Celeī uxor.
 metuō,metuere,metuī,metūtum;ver;[ONE] timeō, paveō. [SA] timeō. metū afficior. [PT] timeō.
 metus,met|ūs;m;[ONE] timor. [SA] timor. *contr.* fortitūdō. [RCR] timor. [F] timor.
+me|us,me|a,me|um;pro;
 micō,micāre,micuī,—;ver;[ONE] crēbrō celerīque mōtū agitor: coruscō: e.g. stēlla micat. [RCR] renīdeō, lūmen repercutiō.
 migrō,migrāre,migrāvī,migrātum;ver;[PT] in alium locum abeō:
 mīles,mīlit|is;m;[F] homō quī pugnat et patriam dēfendit. [PT] homō quī pugnat et patriam dēfendit.
@@ -2118,6 +2256,7 @@ mīrāculum,mīrācul|ī;n;[SA] id quō attonitus es: id quod rārō accidit. [R
 mīror,mīrārī,mīrātus,—;ver;[RCR] commoveor, cum animī perturbātiōne videō. [F] intellegere nōn possum. [PT] intellegere nōn possum.
 mīr|us,mīr|a,mīr|um;adi;[ONE] admīrandus. [RCR] mīrābilis.
 misceō,miscēre,miscuī,mixtum;ver;[RCR] cōnfundō, cōnserō.
+miser|,miser|a,miser|um;adi;
 miserābil|is,miserābil|is,miserābil|e;adi;[RCR] dignus miserātiōne, lacrimīs. [F] miser.
 miserātiō,miserātiōn|is;f;[F] misericordia.
 miserē;ind;[F] adverbium ab adiectīvō *miser* ductum.
@@ -2128,6 +2267,7 @@ mītēscō,mītēscere,—,—;ver;[ONE] mītis vel tener fīō.
 mītigō,mītigāre,mītigāvī,mītigātum;ver;[ONE] mītem faciō. [RCR] plācō, cōnsōlor (mītis).
 mīt|is,mīt|is,mīt|e;adi;[RCR] nōn ferōx.
 mitra,mitr|ae;f;[ONE] capitis tegimentum gentium orientālium.
+mittō,mittere,mīsī,missum;ver;
 mōbil|is,mōbil|is,mōbil|e;adi;[ONE] quī facile movētur: īnstabilis.
 modic|us,modic|a,modic|um;adi;[RCR] nōn nimius, nōn modum excēdēns.
 modo;adv;[SA] sōlum. tantum. N.B. (i) nōn modo ... sed etiam. (ii) nōn modo nōn ... sed nē ... quidem.
@@ -2144,20 +2284,23 @@ mōmentum,mōment|ī;n;[RCR] brevissimum spatium. impulsus.
 moneō,monēre,monuī,monitum;ver;[F] moneō tē ut caveās nē quid accidat.
 monitum,monit|ī;n;[F] id quod moneō.
 monitus,monit|ūs;m;[F] nōmen ā verbō *moneō* ductum.
-mōns,mont|is;m;[F] collis altus.
+mōns,mont|is;m;⛰️[F] collis altus.
 mōnstrō,mōnstrāre,mōnstrāvī,mōnstrātum;ver;[SA] digitō dēsignō.
 mōnstrum,mōnstr|ī;n;[F] signum dīvīnum, portentum.
 monumentum,monument|ī;n;[F] sepulcrum.
 mora,mor|ae;f;[SA] m. vocātur cum morāris, vel cum nīl agitur.
+morbus,morb|ī;m;
 mordeō,mordēre,momordī,morsum;ver;[SA] dentibus cibum dīvidō. [F] dentibus mordēmus aliquid. [PT] dentibus mordēmus aliquid.
 moribund|us,moribund|a,moribund|um;adi;[SA] moriēns, moritūrus. [RCR] moriēns.
 morior,morī,mortuus,—;ver;[SA] ex vītā discēdō. *contr.* nāscor.
 moror,morārī,morātus,—;ver;[ONE] cūnctor, cessō, tardō. [SA] moram faciō: cessō. [F] moram faciō. nōn festīnō. [PT] moram faciō. nōn festīnō.
+mors,mort|is;f;
 mortāl|is,mortāl|is,mortāl|e;adi;[F] nōn immortālis.
 mortifer|,mortifer|a,mortifer|um;adi;[F] mortem ferēns.
 mōrum,mōr|ī;n;[F] arbor humilis quae nigrās bācās fert.
 mōs,mōr|is;m;[ONE] modus agendī ūsitātus : īnstitūtum: cōnsuētūdō. [SA] cōnsuētūdō: id quod facere solēs. [RCR] ūsus, cōnsuētūdō, īnstitūtum. [F] id quod facere solēmus. *Mōrem alicui gerō* = *ita agō ut alicui placeam*.
 mōtus,mōt|ūs;n;[F] nōmen est mōtus, verbum moveō.
+moveō,movēre,mōvī,mōtum;ver;
 mox;adv;[SA] post spatium temporis. [F] nōn ita multō post. [PT] post breve tempus. brevī.
 mūcrō,mūcrōn|is;m;[SA] aliquid acūtum: gladius. [F] gladius.
 mucrō,mucrōn|is;m;[RCR] gladiī apex.
@@ -2166,8 +2309,9 @@ mūgītus,mūgīt|ūs;m;[ONE] vōx boum. [F] vōx bovis.
 mulceō,mulcēre,mulsī,mulsum;ver;[ONE] manū lēniter tractō: lēniō vel molliō.
 Mulciber,Mulciber|ī;m;[ONE] Volcānus.
 muliebr|is,muliebr|is,muliebr|e;adi;[RCR] fēmineus. [F] adiectīvum ā nōmine mulier ductum. [PT] fēmineus. ad mulierēs vel fēminās attinēns.
-mulier,mulier|is;f;[SA] fēmina. [RCR] fēmina. [F] fēmina.
+mulier,mulier|is;f;👩[SA] fēmina. [RCR] fēmina. [F] fēmina.
 multitūdō,multitūdin|is;f;[SA] magnus numerus. [F] turba magna. multī hominēs. [PT] magna hominum turba.
+mult|us,mult|a,mult|um;adi;
 mundus,mund|ī;m;[F] orbis terrārum.
 mūnia,mūn|ium;n;[RCR] rēs agendae.
 mūnīmentum,mūnīment|ī;n;[SA] aliquid validum dēfēnsiōnis causā factum. moenia. [RCR] praesidium.
@@ -2189,21 +2333,29 @@ mūt|us,mūt|a,mūt|um;adi;[F] is quī loquī nōn potest.
 mūtu|us,mūtu|a,mūtu|um;adi;[ONE] reciprocus, in vicem pariter respondēns. [F] propriē id quod ad multōs attinet est mūtuum. *Mūtuum aliquid accipiō* est *aliquid accipiō quod oportet mē posteā reddere*. Contrārium est *mūtuum aliquid dō*. [PT] propriē id quod ad multōs attinet est mūtuum. *Mūtuum aliquid dō est aliquid dō quod oportet tē posteā mihī reddere.*
 myrtus,myrt|ī;f;[ONE] arbor humilis bācās suāveolentēs ferēns.
 mysta | mystēs,myst|ae;m;[ONE] sacrōrum perītus: arcānīs sacrīs initiātus.
+nam;con;
 namque;con;[SA] nam, enim.
 nancīscor,nancīscī,nactus,—;ver;[ONE] cāsū inveniō vel experior. [F] adipīscor. potior.
 nārēs,nār|ium;f;[F] nāsus.
+narrō,narrāre,narrāvī,narrātum;ver;
 nārrātiō,nārrātiōn|is;f;[F] id quod narrō. [PT] id quod narrō.
 nāscor,nāscī,nātus,—;ver;[SA] in vītam intrō. *contr.* morior.
 nātāl|is,nātāl|is,nātāl|e;adi;[ONE] diēs nātālis est quō diē nātī sumus. [PT] *nātālis dīēs est* diēs quō nātus est aliquis.
 nātiō,nātiōn|is;f;[F] cīvēs ab eādem orīgine ortī. Rōmānī sunt nātiō.
 natō,natāre,natāvī,natātum;ver;[SA] in aquā bracchiīs et crūribus mē moveō. [F] in aquā quasi currō et manibus et pedibus ūsus. [PT] in aquā quasi currō et manibus et pedibus ūsus.
+nātūra,nātūr|ae;f;
+nātus,nāt|ī;m;
 naufragium,naufragi|ī;n;[F] est naufragium cum nāvēs contrā saxa franguntur.
 nauta,naut|ae;m;[F] is quī nāvigat.
 nāvālia,nāvāl|ium;n;[RCR] locus ubi nāvēs aedificantur vel reficiuntur.
 nāvigō,nāvigāre,nāvigāvī,nāvigātum;ver;[F] iter in nāvī faciō.
 nāvis,nāv|is;f;[F] id quod nōs trāns mare portat.
 nāvita,nāvit|ae;m;[ONE] nauta. :
+-ne;adv;?
+nē;con;
 nē... quidem;gra;[RCR] etiam nōn.
+nec | neque;con;et nōn
+necesse;ind;
 necesse est;ind;[F] oportet. [PT] oportet.
 necessitās,necessitāt|is;f;[F] id quod mūtārī nūllō modō potest.
 necne;ind;[SA] stat in interrogātiōne oblīquā prō coniūnctiōne annōn.
@@ -2212,11 +2364,15 @@ necopīnātō;adv;[RCR] ex imprōvīsō, praeter spem (opīnor).
 nectō,nectere,nexuī | nexi,nexum;ver;[ONE] ligō, iungō, plectō. [RCR] compōnō. exquīrō.
 nefand|us,nefand|a,nefand|um;adi;[RCR] nōn dīcendus, impius.
 nefāri|us,nefāri|a,nefāri|um;adi;[F] malus, scelestus. [PT] scelestus.
+nefās,—;f;
 neglegō,neglegere,neglēxī,neglēctum;ver;[SA] *contr.* cūrō. [F] contrārium quam *cūrō*.
 nēgligenter;ind;[F] contrārium quam dīligenter. sine cūrā.
 negō,negāre,negāvī,negātum;ver;[SA] dīeō aliquid nōn esse. *contr.* affīrmō, āiō. [F] dīcō *nōn*.
+negōtium,negōti|ī;n;
 Nemesis,Nemes|is;f;[F] dea quae male facta, praecipuē superbiam, ulcīscitur.
+nēmō;pro;
 nemorōs|us,nemorōs|a,nemorōs|um;adi;[ONE] arboribus plēnus. (nemus, n.)
+nemus,nemor|is;n;
 neō,nēre,nēvī,nētum;ver; [SA] fīlum lānā faciō.
 nepōs,nepōt|is;m;[ONE] fīlī aut fīliae fīlius. [SA] fīlius fīlī vel fīliae. *contr.* avus. [RCR] fīliī fīliaeve fīlius.
 Neptūnus,Neptūn|ī;m;[F] deus maris.
@@ -2224,6 +2380,7 @@ nēquam;ind;[F] nefārius. [PT] nefārius.
 nēquāquam;adv;[RCR] nūllō modō, nōn.
 nequeō,nequīre,nequīvī,nequitum;ver;[RCR] nōn possum. [F] nōn possum.
 nēquīquam;adv;[RCR] frūstrā.
+nesciō,nescīre,nesciī | nescīvī,nescītum;ver;
 nescioquis;ind;[PT] aliquis.
 Nestor,Nestor|is;m;[ONE] rēx Pylius, Graecōrum Trōiam obsidentium nātū maximus.
 neu;con;[SA] et nō. nēve.
@@ -2231,32 +2388,39 @@ neutrō;adv;[RCR] in neutram partem.
 nēve;con;[SA] et nē. neu.
 nex,nec|is;f;[ONE] mors. [F] mors. caedēs.
 nīdus,nīd|ī;m;[F] domus avis.
-nihil;ind;[F] nūlla rēs. [PT] nulla rēs.
+niger|,nigr|a,nigr|um;adi;⚫
+nihil | nil;ind;[F] nūlla rēs. [PT] nulla rēs.
 nihilum,nihil|ī;n;[F] nihil. *nihilī* = nūllīus pretiī.
 nimbus,nimb|ī;m;[RCR] nūbēs ātra.
 nimis;ind;[F] plūs quam oportet.
 nimi|us,nimi|a,nimi|um;adi;[ONE] modum excēdēns, maior quam opus est. [F] maior quam oportet. *nimiī* = plūrēs quam oportet.
-nisi;con;[SA] sī nōn.
+nisi | nī;con;[SA] sī nōn.
 niteō,nitēre,nituī,—;ver;[ONE] splendeō, fulgeō.
 nītor,nītī,nīsus | nīxus,—;ver;[ONE] valdē cōnor. [RCR] trūdō.
 nitor,nitōr|is;m;[PT] splendor. fulgor. sōl clārō nitōre rīdet.
 nive|us,nive|a,nive|um;adi;[ONE] quī colōre nivis, h.e. albō, est. [F] candidus.
+nōn;adv;❌
+nōs;pro;
 nō,nāre,nāvī,nātum;ver;[RCR] per aquam mē prōpellō.
 nōbil|is,nōbil|is,nōbil|e;adi;[SA] bene nōtus.
 nōbilitās,nōbilitāt|is;f;[SA] id quō vir nōbilīs praeditus est.
 nōbilitō,nōbilitāre,nōbilitāvī,nōbilitātum;ver;[RCR] efficiō ut aliquid cognōscātur.
 nocēns,nocent|is,—;adi;[F] nōn innocēns. is quī rē vērā scelus admīsit nocēns est. [PT] nōn innocēns. is quī rē vērā scelus admīsit nocēns est.
+noceō,nocēre,nocuī,nocitum;ver;
 noctū;adv;[SA] nocte. *contr.* interdiū. [F] nocte.
 noctua,noctu|ae;f;[F] būbō.
 nocturn|us,nocturn|a,nocturn|um;adi;[SA] ad noctem pertinēns. [F] ad noctem attinēns.
 nōdus,nōd|ī;m;[F] sī restim aliā restī intexō fit nōdus.
 nōlō,nōlle,nōluī,—;ver;[F] nōn volō. [PT] nōn volō.
+nōmen,nōmin|is;n;
 nōminō,nōmināre,nōmināvī,nōminātum;ver;[F] nōmen alicui dō. appellō.
-Nōnae,Nōn|ārum;f;[F] aut quīntus aut septimus diēs mēnsis.
+nōnae,nōn|ārum;f;[F] aut quīntus aut septimus diēs mēnsis.
 nōndum;adv;[SA] nōn usque ad hoc tempus.
 nōnnūll|ī,nōnnūll|ae,nōnnūll|a;adi;[SA] aliquot.
 nōnnumquam;ind;[PT] nōn numquam. interdum.
 nōscitō,nōscitāre,nōscitāvī,nōscitātum;ver;[RCR] agnōscō.
+nōscō,nōscere,nōvī,nōtum;ver;
+noster | nostra | nostrum;pro;
 nota,not|ae;f;[SA] signum. [F] signum scrīptum.
 nōtitia,nōtiti|ae;f;[RCR] nōtitiam habeō ēius quī mihi nōtus est.
 notō,notāre,notāvī,notātum;ver;[ONE] (oculīs) dēsignō, dēligō. [SA] notam faciō. signō. percipiō. [RCR] cernō. [F] indicō.
@@ -2269,6 +2433,7 @@ nōvī,—,nōvisse,—;ver;[F] sciō.
 novissim|us,novissim|a,novissim|um;adi;[F] ultimus.
 novitās,novitāt|is;f;[F] nōmen est, adiectīvum est *novus*.
 nov|us,nov|a,nov|um;adi;[SA] nōn antīquus.
+nox,noct|is;f;
 noxa,nox|ae;f;[RCR] culpa.
 noxi|us,noxi|a,noxi|um;adi;[F] id est noxium quod nōbīs nocet.
 nūbō,nūbere,nūpsī,nūptum;ver;[SA] uxor maritō nūbit. [RCR] uxor fī. [F] (dat.) māter tua patrī tuō nūpsit.
@@ -2276,9 +2441,12 @@ nudius tertius;ind;[PT] abhinc tribus diēbus.
 nūdō,nūdāre,nūdāvī,nūdātum;ver;[ONE] nūdum faciō: (gladium) stringō. [F] nūdum aliquem reddō.
 nūd|us,nūd|a,nūd|um;adi;[ONE] veste aut auxiliō carēns. [SA] sine vestibus vel armīs. [F] sine vestibus.
 nūgae,nūg|ārum;f;[PT] nūllīus mōmentī rēs. rēs inānēs.
+nūll|us,nūll|a,nūll|um;adi;
 num;ind;[SA] particula interrogātīva admīrātiōnem exprimēns.
 nūmen,nūmin|is;n;[ONE] potentia dīvīna: deus ipse. [RCR] vīs dīvīna. [F] deus. deī potestās.
 numerus,numer|ī;m;[ONE] in rē mūsicā vel poēticā certa mēnsūra. modus. carmen. [F] i, ii, iii, iiiī, v, sunt numerī.
+nunc;adv;
+numquam;adv;
 nūntiō,nūntiāre,nūntiāvī,nūntiātum;ver;[F] narrō ut nūntius.
 nūntius,nūnti|ī;m;[SA] is quī mittitur litterās portāns vel ad nūntiandum. [F] is quī ad aliōs it ut aliquid nārret.
 nūper;ind;[F] paulō anteā.
@@ -2294,6 +2462,7 @@ nūtrīx,nūtrīc|is;f;[F] fēmina quae īnfantēs cūrat.
 nūtus,nūt|ūs;m;[RCR] mōtiō capitis. signum. [F] mōtus capitis.
 nux,nuc|is;f;[F] genus frūgis. externam partem dūrissimam habet. interiōrem modo partem edimus. Sīmiī nucēs valdē amant.
 nympha,nymph|ae;f;[SA] puella, virgō, dea quae in silvā aut marī habitat.
+ob;pre,+acc;
 obdō,obdere,obdidī,obditum;ver;[F] oppōnō. forēs obdō vel claudō.
 obdormiō,obdormīre,obdormīvī,obdormītum;ver;[F] dormīre incipiō. [PT] dormīre incipiō.
 obdūcō,obdūcere,obdūxī,obductum;ver;[F] tegō.
@@ -2346,7 +2515,9 @@ occursus,occurs|ūs;m;[RCR] occursus hominum. hominēs occurrentēs.
 ōceanus,ōcean|ī;m;[F] mare magnum.
 ocrea,ocre|ae;f;[F] id quō mīles crūs tegit nē volnerētur.
 Octōber,Octōbr|is,—;adi;[PT] mēnsis octāvī.
+oculus,ocul|ī;m;
 ōdī,—,ōdisse,—;ver;[F] contrārium quam *amō*. [PT] contrārium quam amō.
+odium,odi|ī;n;
 odor,odōr|is;m;[F] id quod nāribus percipiō.
 odōrāt|us,odōrāt|a,odōrāt|um;adi;[ONE] suāveolēns. (odor.)
 offendō,offendere,offendī,offensum;ver;[F] inveniō, ita currō ut aliquem corpore meō feriam. Efficiō ut aliquis īrāscātur vel indignētur. [PT] ita currō ut aliquem corpore meō feriam.
@@ -2383,6 +2554,7 @@ opportūn|us,opportūn|a,opportūn|um;adi;[RCR] commodus. obnoxius.
 opprimō,opprimere,oppressī,oppressum;ver;[SA] subitō cōnficiō. mors aliquem opprimit. [RCR] graviter premō. dēvincō (velut iniectā mōle). [PT] vī superō. ad terram dēiciō.
 oppugnātiō,oppugnātiōn|is;f;[SA] āctus oppugnanqī.
 oppugnō,oppugnāre,oppugnāvī,oppugnātum;ver;[SA] impetum faciō in. *contr.* dēfendō. [F] pugnō contrā.
+ops,op|is;f;
 optō,optāre,optāvī,optātum;ver;[F] habēre volō.
 opulentia,opulenti|ae;f;[ONE] dīvitiae, cōpia.
 opulent|us,opulent|a,opulent|um;adi;[RCR] dīves, potēns.
@@ -2456,6 +2628,9 @@ Parcae,Parc|ārum;f;[F] fēminae, seu deae rēctius appellantur, quae fātum nō
 parcō,parcere,pepercī,parsum;ver;[SA] *dat. reg.* hostem victum nōn occīdō. [F] (dat.) veniam dō. nōn interficiō. [PT] veniam dō.
 parēns,parent|is;mf;[F] pater et māter sunt parentēs. [PT] māter et pater sunt parentēs.
 pāreō,pārēre,pāruī,pāritum;ver;[SA] (sc. iussīs). *dat. req.*. *contr.* imperō. [RCR] oboediēns sum, iussa perficiō.
+parō,parāre,parāvī,parātum;ver;
+parv|us,parv|a,parv|um;adi;
+pars,part|is;f;
 pariēs,pariet|is;m;[F] cellae mūrus.
 pariō,parere,peperī,partum;ver;[RCR] prōdūcō. efficiō. [F] faciō, gignō. Avis ōva parit. [PT] faciō, gignō. avis ōva parit.
 Paris,Parid|is;m;[ONE] Priamī fīlius.
@@ -2479,6 +2654,7 @@ patefaciō,patefacere,patefēcī,patefactum;ver;[RCR] aperiō, reclūdō. [F] ap
 pateō,patēre,patuī,—;ver;[SA] apertus vel manifestus sum. *contr.* latcē. [RCR] apertus sum. manifestus sum.
 patientia,patienti|ae;f;[ONE] facultās patiendī.
 patior,patī,passus,—;ver;[SA] (iniūriam) ferō. [F] sinō. sentiō. *dolōrem patior* est doleō. [PT] sinō, sentiō.
+pater,patr|is;m;
 patrēs,patr|um;m;[RCR] senātōrēs Rōmānī.
 patria,patri|ae;f;[F] terra ubi nātus est aliquis. [PT] terra ubi nātus est aliquis.
 patrici|us,patrici|a,patrici|um;adi;[SA] fīlius senātōris. *contr.* plēbēius. [RCR] nōbilis genere.
@@ -2486,13 +2662,16 @@ patrōnus,patrōn|ī;m;[PT] amīcus et quasi custōs quī aliōs cūrat quibus a
 patruēl|is,patruēl|is,patruēl|e;adi;[F] ad patruum attinēns.
 patruus,patru|ī;m;[ONE] patris frāter. [F] patris frāter.
 pauca;ind;[F] nōn multa. [PT] nōn multa.
+pauc|ī,pauc|ae,pauc|a;adi;
 paulātim;adv;[ONE] sēnsim, gradātim.
 paulīsper;ind;[F] breve tempus. [PT] breve tempus. nōn longum tempus.
-paulō;ind;[F] nōn multō. [PT] nōn multō.
+paulō;adv;[F] nōn multō. [PT] nōn multō.
 paululum;ind;[F] nōn multum.
+paulum;adv;
 pauper,pauper|is,—;adi;[SA] dīvitiīs carēns. [F] is quī nōn multum habet pecūniae.
 paveō,pavēre,pāvī,—;ver;[ONE] metuō, timeō.
 pavid|us,pavid|a,pavid|um;adi;[ONE] quī semper vel ex mōre suō pavet: pavēns.
+pāvō,pāvōn|is;m;
 pavor,pavōr|is;m;[SA] magnus timor. [RCR] timor, timor vehemēne. [F] terror.
 pāx,pāc|is;f;[SA] . *contr.* bellum.
 peccō,peccāre,peccāvī,peccātum;ver;[RCR] ā rēctō discēdō, scelus admittō.
@@ -2507,9 +2686,9 @@ pelagus,pelag|ī;n;[F] mare.
 Pelasgus,Pelasg|ī;m;[ONE] Iovis fīlius, gentis Argolicae auctor.
 pellō,pellere,pepulī,pulsum;ver;[RCR] agō, īre cōgō. [F] aliquem in fugam vertō agō.
 Peloponnēsus,Peloponnēs|ī;f;[RCR] pars Graeciae merīdiāna.
-Penātēs,Penāt|ium;m;[ONE] dī domesticī: domus ipsa. [F] deī domūs.
-penātēs,penāt|ium;m;[RCR] dī domesticī.
+penātēs,penāt|ium;m;[ONE] dī domesticī: domus ipsa. [F] deī domūs. [RCR] dī domesticī.
 pendeō,pendēre,pependī,—;ver;[ONE] pōma dē arbore pendent. [SA] suspēnsus maneō. [F] id pendet quod suspenditur.
+pendō,pendere,pependī,pēnsum;ver;
 pendul|us,pendul|a,pendul|um;adi;[F] id est pendulum quod pendet.
 penes;ind;[RCR] praep. Acc. reg., in potestāte (alicuius), apud.
 penitus;adv;[RCR] omnīnō. [F] altē. ad intimam partem.
@@ -2565,12 +2744,14 @@ persuādeō,persuādēre,persuāsī,persuāsum;ver;[SA] *dat. reg.* verbīs add�
 perterreō,perterrēre,perterruī,perterritum;ver;[F] valdē terreō.
 perterrit|us,perterrit|a,perterrit|um;adi;[SA] terrōre affectus.
 pertinācia,pertināci|ae;f;[SA] cōnstantia.
+pertineō,pertinēre,pertinuī,—;ver
 pertractō,pertractāre,pertractāvī,pertractātum;ver;[F] tangō.
 perturbātiō,perturbātiōn|is;f;[F] nōmen est, verbum est *perturbō*.
 perturbō,perturbāre,perturbāvī,perturbātum;ver;[F] agitō. timor vel terror mentem perturbat. [PT] agitō. timor vel terror mentem perturbat.
 perveniō,pervenīre,pervēnī,perventum;ver;[SA] ad fīnem itineris veniō. [F] ad fīnem veniō. [PT] veniō ūsque ad fīnem.
 pervigilō,pervigilāre,pervigilāvī,pervigilātum;ver;[ONE] per tōtam noctem vigilō. [SA] tōtam noctem vigilō (h.e. nōn dormiō).
 pervincō,pervincere,pervīcī,pervictum;ver;[RCR] persuādeō.
+pēs,ped|is;m;
 pessulus,pessul|ī;m;[F] longum īnstrūmentum aut ligneum aut ferreum quō iānuam ita pangimus ut nēmō possit intrāre.
 pestilentia,pestilenti|ae;f;[SA] morbus validus. [F] pestis. tempestās īnsalūbris. [PT] tempestās īnsalūbris.
 pestis,pest|is;f;[RCR] : perniciēs. [F] rēs horribilis. aliquid malī quod nōs vexat. [PT] quicquid malī quod nōs vexat.
@@ -2603,6 +2784,7 @@ piscis,pisc|is;m;[F] animal parvum quod mare habitat. Piscēs edimus.
 pīstor,pīstōr|is;m;[F] is quī pānem facit ac vēndit.
 pi|us,pi|a,pi|um;adi;[ONE] quī dēbita ergā deōs, parentēs, patriam solvit. [SA] quī officium ergā deōs vel parentēs praestat. [F] is est pius quī ergā parentēs suōs bonum sē praestat. bonus, probus.
 placenta,placent|ae;f;[F] dulce genus pānis.
+placeō,placēre,placuī,placitum;ver;
 placid|us,placid|a,placid|um;adi;[F] quiētus, mollis. nōn īrācundus.
 plācō,plācāre,plācāvī,plācātum;ver;[SA] contentum reddō. [F] īram alicuius dēprecor. efficiō ut aliquis placidus sit.
 plānē;adv;[SA] manifestē, clārō.
@@ -2618,7 +2800,8 @@ plēbēi|us,plēbēi|a,plēbēi|um;adi;[SA] *contr.* patricius.
 plēbs,plēb|is;f;[SA] eī quī nōn patriciī sunt. [RCR] ea populī pars quae nōn gentium nōbilium est. [F] humiliōrēs ac pauperiōrēs cīvēs.
 plēn|us,plēn|a,plēn|um;adi;[SA] impīētus. *contr.* vacuus.
 plērīque;ind;[F] paene omnēs.
-plērumaque;ind;[F] paene semper.
+plērusque | plēraque | plērumque;ind;
+plērumque;adj;[F] paene semper.
 plōrātus,plōrāt|ūs;m;[RCR] lāmenta.
 pluit;ind;[PT] cum aqua dē caelō dēcidit.
 plūma,plūm|ae;f;[F] id quod corpus avis contegit.
@@ -2629,6 +2812,7 @@ poena,poen|ae;m;[SA] id quod scelerātus merētur, damnātus dat.
 poenās dō;ind;[PT] pūnior. Contrārium est *poenās sūmō*.
 poenās dō alicui;ind;[F] aliquis mē pūnītur. contrārium est *poenās sūmō*.
 Poen|us,Poen|a,Poen|um;adi;[ONE] Carthāginiēnsis. Āfer.
+poēta,poēt|ae;m;
 pollex,pollic|is;m;[ONE] ille digitus, quī cēterīs crassior est.
 polliceor,pollicērī,pollicitus,—;ver;[SA] prōmittō. [F] prōmittō.
 pollūt|us,pollūt|a,pollūt|um;adi;[F] nōn pūrus. foedus.
@@ -2638,6 +2822,7 @@ Pōmptīn|us,Pōmptīn|a,Pōmptīn|um;adi;[RCR] ager Pōmptīnus in Latiō erat 
 pōmum,pōm|ī;n;
 pondō;ind;[RCR] abl., pondere.
 pondus,ponder|is;n;[SA] id quō rem pēnsam aestimās. mōlēs. [F] aliquid grave. onus.
+pōnō,pōnere,posuī,positum;ver;
 pōns,pōnt|is;m;[SA] id quō flūmen trānsīs. quod rīpās iungit.
 pontifex,pontific|is;m;[SA] sacerdōs prīnceps. [RCR] sacerdōs Rōmānus.
 pontus,pont|ī;m;[ONE] mare.
@@ -2648,8 +2833,7 @@ populor,populārī,populātus,—;ver;[RCR] vāstō.
 pōpulus,pōpul|ī;f;
 populus,popul|ī;m;[F] cīvēs.
 porculus,porcul|ī;m;[PT] porcus parvus.
-porcus,porc|ī;m;
-Porcus,Porc|ī;m;
+porcus,porc|ī;m;🐷
 porrigō,porrigere,porrēxī,porrēctum;ver;[ONE] prō-tendō. [RCR] extendō. [F] extendō. dō.
 porrō;adv;[RCR] prōtinus, longius.
 porta,port|ae;f;[F] quasi iānua urbis.
@@ -2661,6 +2845,8 @@ positus,posit|ūs;m;[ONE] situs. (pōnō, vb.)
 possessiō,possessiōn|is;f;[F] nōmen ā verbō *possideō* ductum.
 possideō,possidēre,possēdī,possessum;ver;[ONE] habeō, teneō. [F] habeō, teneō.
 possum,posse,potuī,—;ver;[SA] facultātem aliquid faciendī habeō. *contr.* nequeō.
+post;adv;
+post;pre,+acc;
 post-modo;adv;[ONE] brevī tempore posteā.
 posteā;adv;[SA] post hoc. hōc factō. *contr.* anteā.
 poster|us,poster|a,poster|um;adi;[SA] quī post alium sequitur. [RCR] sequēns. posterī sunt quī post aetātem quamdam nāscuntur. [F] quī posteā venit. *posterō diē* = diē secundō. [PT] quī posteā venit. *posterō diē*, diē secundō.
@@ -2672,9 +2858,11 @@ postrēm|us,postrēm|a,postrēm|um;adi;[SA] quī post omnēs aliōs venit. *cont
 postrīdiē;ind;[F] posterō diē.
 postulō,postulāre,postulāvī,postulātum;ver;[RCR] petō. volō ita esse. [F] poscō.
 potentia,potenti|ae;f;[ONE] potestās, imperium. (possum, vb.) [F] potestās. vīs.
+potēns,potent|is,—;adi;
 potestās,potestāt|is;f;[SA] potentia. [F] est nōmen. verbum est *possum*. occāsiō, facultās, opportūnitās. [PT] verbum est *possum*. nōmen est *potestūs*.
 pōtiō,pōtiōn|is;f;[F] pōtus.
 potior,potīrī,potītus,—;ver;[RCR] acquīrō. [F] (abl.) adipīscor, mihi parō.
+pot|is,pot|is;pot|e;adi;
 potissimum;adv;[RCR] māximē, ante omnia (cf. potius). [F] maximē.
 pōtō,pōtāre,pōtāvī,pōtātum;ver;[RCR] bibō, multum bibō.
 pōtus,pōt|ūs;m;[F] id quod bibimus.
@@ -2716,6 +2904,7 @@ praestō,praestāre,praestitī,praestātum | praestitum;ver;[RCR] superō, excel
 praestruō,praestruere,praestrūxī,praestrūctum;ver;[ONE] ā fronte struō.
 praesultō,praesultāre,praesultāvī,praesultātum;ver;[RCR] saltō ante oculōs alicuius.
 praesum,praeesse,praefuī,—;ver;[SA] prīmus vel prīnceps sum. [RCR] imperō.
+praeter;pre,+acc;
 praetereā;ind;[F] praeter ea. nōn modo ... sed etiam.
 praetereō,praeterīre,praeteriī | praeterīvī,praeteritum;ver;[SA] praeter (aliquem) eō. [F] eō praeter aliquem. neglegō. omittō.
 praeterquam;adv;[ONE] aut coniūnctiō excipiendī, nisi, praeter, exceptō.
@@ -2730,6 +2919,7 @@ prāv|us,prāv|a,prāv|um;adi;[RCR] turpis. malus.
 precor,precārī,—,—;ver;[SA] (deōs) ōrō. [F] ōrō. [PT] ōrō.
 prehendō,prehendere,prehendī,prehēnsum;ver;[F] teneō, capiō, tangō.
 prēlum,prēl|ī;n;[F] locus in quō ūvās premimus ut sūcus effluat.
+premō,premere,pressī,pressum;ver;
 prēnsō,prēnsāre,prēnsāvī,prēnsātum;ver;[RCR] manum prehendō. colloquor, ōrō.
 pretiōs|us,pretiōs|a,pretiōs|um;adi;[F] magnī pretiī.
 pretium,preti|ī;n;[SA] quantā pecūniā aliquid vēndis vel emis. [F] pecūnia quam prō rē acceptā solvimus.
@@ -2739,6 +2929,8 @@ Priamus,Priam|ī;m;[ONE] rēx Trōiānōrum.
 prīdiē;ind;[PT] diē priōre.
 prīmipīlār|is,prīmipīlār|is,prīmipīlār|e;adi;[PT] mīles quī inter prīmōs mīlitum ōrdinēs stat est prīmipīlāris.
 prīmōrēs,prīmōr|um;m;[RCR] prīmī virī, prīncipēs.
+prīmum;adv;
+prīm|us,prīm|a,prīm|um;adi;
 prīnceps,prīncip|is;m;[SA] is quī prīmus est. rēx. [F] homō illūstris.
 prīncipēs,prīncip|um;m;[RCR] prīma Rōmānae legiōnis aciēs.
 prīncipia;ind;[RCR] prīmī ōrdinēs.
@@ -2746,8 +2938,10 @@ prīncipium,prīncipi|ī;n;[RCR] orīgō, initium.
 pri|or,pri|or,pri|us;adi;[SA] *comp. grad.* quī praecēdit.
 prīsc|us,prīsc|a,prīsc|um;adi;[ONE] antīquus.
 prīstin|us,prīstin|a,prīstin|um;adi;[SA] antīquus. priōris temporis. [RCR] vetus. [F] antīquus.
+prius;adv;
 prīvāt|us,prīvāt|a,prīvāt|um;adi;[F] contrārium quam pūblicus.
 prīvō,prīvāre,prīvāvī,prīvātum;ver;[F] *aliquem aliquā rē prīcō* = aliquam rem ab aliquō capiō. [PT] aliquem aliquā rē prīvō = aliquam rem ab aliquō capō.
+prō;pre,+abl;
 proavus,proav|ī;m;[ONE] avī pater.
 probābil|is,probābil|is,probābil|e;adi;[RCR] laudandus.
 probō,probāre,probāvī,probātum;ver;[F] laudō. idōneum aliquem esse putō.
@@ -2801,6 +2995,7 @@ propinquus,propinqu|ī;m;[F] pater, frāter, soror, avunculus, patruus, cēterī
 propiti|us,propiti|a,propiti|um;adi;[SA] quī prope tē iuvandī causā stat: benignus. [RCR] secundus, benevolus.
 prōpōnō,prōpōnere,prōposuī,prōpositum;ver;[ONE] ā fronte pōnō. [F] paene idem quod expōnō.
 propri|us,propri|a,propri|um;adi;[F] id mihi proprium est quod mihi sōlī est. Contrārium quam commūnis.
+propter;pre,+acc;
 prōsiliō,prōsilīre,prōsiluī,—;ver;[SA] prō-saliō. [F] saliō ex.
 prospere;ind;[F] bene, fēlīciter.
 prōsperē;ind;[PT] bene, fēlīciter.
@@ -2819,6 +3014,7 @@ prōvehō,prōvehere,prōvexī,prōvectum;ver;[RCR] addūcō.
 prōvehor,prōvehī,prōvectus,—;ver;[F] prōcēdō. *homō prōvectae aetātis* est *homō multōs annōs nātus*.
 prōverbium,prōverbi|ī;n;[F] vōx sapientiae. [PT] verba sapientiae. Sapiēns est contrārium quam stultus.
 prōvideō,prōvidēre,prōvīdī,prōvīsum;ver;[RCR] ante cūrō. [F] caveō. cūram adhibeō nē quid accidat. [PT] caveō. cūram adhibeō nē quid accidat.
+prōvincia,prōvinci|ae;f;
 prōvocō,prōvocāre,prōvocāvī,prōvocātum;ver;[SA] ad pugnam vocō. [RCR] in pugnam vocō. [F] ēvocō. ad certāmen aliquem vocō.
 proxim|us,proxim|a,proxim|um;adi;[SA] *superl. dē adv.* prope ductus. [F] prope, propior, proximus.
 prūdēns,prūdent|is,—;adi;[F] is quī prōvidet. sapiēns. [PT] quī prōvidet.
@@ -2827,14 +3023,17 @@ pruīna,pruīn|ae;f;
 pūber,pūber|is,—;adi;[RCR] adultus, mātūrus.
 pūbēs,pūb|is;f;[RCR] iuventūs, adultī vīrī.
 pūblicē;ind;[F] adverbium ab adiectīvō pūblicus ductum.
+public|us,public|a,public_um;adi;
 pudend|us,pudend|a,pudend|um;adi;[ONE] cuius nōs pudēre oportet.
 pudet,pudēre,puduit,—;ver;[F] id mē pudet quod efficit ut genae mihi rubeant.
 pudīcitia,pudīciti|ae;f;[RCR] castitās.
 pudīc|us,pudīc|a,pudīc|um;adi;[ONE] pudōre plēnus.
 pudor,pudōr|is;m;[ONE] affectus animī quō ā rē turpī prohibēmur. [SA] id quod sentīs, cum quid malum fēcistī. [RCR] dēdecoris timor. [F] nōmen est, verbum est pudet. Pudor efficit ut genae nōbīs rubeant.
 puella,puell|ae;f;[F] soror est puella, frāter puer.
+puer,puer|ī;m;
 puerulus,puerul|ī;m;[PT] puer parvus.
 pugna,pugn|ae;f;[F] nōmen ā verbō *pugnō* ductum.
+pugnō,pugnāre,pugnāvī,pugnātum;ver;
 pulcher|,pulchr|a,pulchr|um;adi;[SA] quī oculēs dēlectat. fōrmōsus, bonā speciē. *contr.* dēfōrmis.
 pulchritūdō,pulchritūdin|is;f;[SA] id quod aliquis pulcher habet. *contr.* turpitūdō. [RCR] pulchritūdinem habet is quī pulcher est. [F] nōmen est *pulchritūdō*, adiectīvum *pulcher*.
 pullus,pull|ī;m; 
@@ -2846,9 +3045,10 @@ pūniō,pūnīre,pūnīvī,pūnītum;ver;[PT] sī quandō pēnsum male faciō ma
 pūnior,pūnīrī,—,—;ver;[F] sī quando pēnsum male faciō magister mē pūnītur. poenās ā mē sūmit. Ego — ō mē miserum — poenās dō.
 pūrgō,pūrgāre,pūrgāvī,pūrgātum;ver;[ONE] pūrum faciō. [F] pūrum faciō.  Cum tabula nigra litterārum est plēna magister puerō cuidam imperat ut eam pūrget. [PT] pūrum faciō. Cum tabula nigra litterārum est plēna magister puerō cuidam imperat ut eam pūrget.
 purpurātus,purpurāt|ī;m;[F] satelles nōbilis quī rēgem comitātur.
-purpure|us,purpure|a,purpure|um;adi;[F] color quīdam splendidus, paene idem quod ruber.
+purpure|us,purpure|a,purpure|um;adi;🟣[F] color quīdam splendidus, paene idem quod ruber.
 pūr|us,pūr|a,pūr|um;adi;[PT] *argentum pūrum* est contrārium quam *caelātum*.
 puteus,pute|ī;m;[F] forāmen in terrā dēfossum ex quō aquam haurīmus.
+putō,putāre,putāvī,putātum;ver;
 putr|is,putr|is,putr|e;adi;[F] nōn recēns.
 Pyladēs,Pylad|is;m;[ONE] vir Phōcēus, Orestis amīcus.
 pyra,pyr|ae;f;[F] multa ligna in ūnō locō exstrūcta super quae cadāver combūrī solet.
@@ -2862,18 +3062,29 @@ quadrupēs,quadruped|is,—;adi;[F] quī quattuor habet pedēs.
 quaerō,quaerere,quaesīvī,quaesītum;ver;[ONE] petō: rogō. [SA] petō. rogō. [F] invenīre cōnor, petō. *Quaerō dē aliquō* est *aliquem rogō*. [PT] invenīre cōnor. petō.
 quaevīs;ind;[F] vidē quīvīs.
 quālibet;adv;[SA] loci. ubi vīs.
+quālis | quāle;pro;
 quamdiū;ind;[F] quantum temporis.
 quamquam;con;[SA] *concēssīva.*
+quamvīs;adv;
 quandō;adv;[SA] interrog. tempus dēsignāns. quō tempore?
 quandōque;con;[RCR] quandō, quoniam.
 quantī;ind;[F] quantī pretiī.
 quantul|us|cunque,quantul|a|cunque,quantul|um|cunque;adi;[ONE] quamvīs parvus.
+quantus | quanta | quantum;pro;
 quāpropter;ind;[F] quam ob causam. [PT] quam ob causam. quārē.
+quārē;adv;
 quasi;con;[SA] tanquam. eōdem modō quō.
 quatiō,quatere,quassī,quassum;ver;[ONE] vehementer agitō. [RCR] violenter moveō. feriō.
+quattuor;ind;
+-que;con;
+quemadmodum;adv;
 querēlla,querēll|ae;f;[RCR] vōx indignantis (queror).
 queror,querī,questus,—;ver;[ONE] vōce dolōrem significō. [SA] *contr.* approbō. [F] aliquid nōn aequum esse putō. indignor.
-quīcumque | quaecumque | quodcumque;ind;[SA] prōn. rel. indēfīnītum.
+quī | quae | quod;pro;
+quia;con;
+quīcumque | quaecumque | quodcumque;pro;[SA] prōn. rel. indēfīnītum.
+quīdam | quaedam | quoddam;pro;
+quidem;adv;
 quiēs,quiēt|is;f;[ONE] tranquillitās: operis intermissiō: somnus. [SA] tranquillitās, somnus. [RCR] ōtium, silentium. [F] ōtium. Verbum est *quiēscō*. *Quiētem capiō* = dormiō.
 quiēscō,quiēscere,quiēvī,quiētum;ver;[RCR] taceō, nihil agō. [F] quiētem agō, dormiō, nūllum negōtium agō.
 quiēt|us,quiēt|a,quiēt|um;adi;[SA] placidus, tranquillus.
@@ -2883,13 +3094,17 @@ quippe;con;[RCR] nempe, scīlicet. nam.
 quippe quī;ind;[RCR] ut quī.
 Quirīnus,Quirīn|ī;m;[ONE] Mārs: Mārtis fīlius, Rōmulus.
 Quirītēs,Quirīt|ium;m;[ONE] cīvēs Rōmānī. [RCR] alterum nōmen populī Rōmānī. [F] Rōmānī.
+quis | quae | quid;pro;
 quisnam | quaenam | quidnam;ind;[SA] *fortius est quam* quis? quis in terrīs ? quis, tē precor?
-quisque | quaeque | quidque;ind;[SA] *prōnōmen distribūtīvum.*
-quisquis | quaequae | quicquid;ind;[SA] *prōn. rel. indēf.*
+quisque | quaeque | quidque;pro;[SA] *prōnōmen distribūtīvum.*
+quisquam | quicquam | quidqam;pro;
+quisquis | quaequae | quicquid;pro;[SA] *prōn. rel. indēf.*
 quīvīs;ind;[F] quīcumque tibi placet. ullus.
 quodvīs;ind;[F] vidē quīvīs.
+quō;adv;
 quōmodo;adv;[SA] interrog. modi.
 quondam;ind;[F] ōlim, tempore quōdam.
+quoniam;con;
 quoque;adv;[RCR] etiam.
 quotiēns;adv;[SA] rel. quam saepe.
 quot|us,quot|a,quot|um;adi;[SA] num. ord. interrog. quī in ordine?
@@ -2926,6 +3141,7 @@ recuperō,recuperāre,recuperāvī,recuperātum;ver;[SA] recipiō. [RCR] rem ām
 recurv|us,recurv|a,recurv|um;adi;[ONE] curvus, reflexus.
 recūsō,recūsāre,recūsāvī,recūsātum;ver;[SA] reiciō. negō mē velle. [RCR] negō, mē nōlle dīcō. [F] nōlō, nōn volō. negō. [PT] nōlō, nōn volō.
 reddō,reddere,reddidī,redditum;ver;[SA] rūrsus dō. trādō. [F] faciō. [PT] faciō.
+redeō,redīre,rediī,reditum;ver;
 redigō,redigere,redēgī,redāctum;ver;[F] retrō agō. reddō.
 redimiō,redimīre,redimīvī,redimītum;ver;[F] cingō, circumdō.
 redimō,redimere,redēmī,redemptum;ver;[RCR] pecūniā solūtā līberō. [F] captīvōs pecūniā solūtā redimimus.
@@ -2948,11 +3164,13 @@ regiōnēs caelī;ind;[F] sunt quattuor:— ↑ septentriōnēs. ← occidēns. 
 rēgi|us,rēgi|a,rēgi|um;adi;[SA] ad rēgem pertinēns.
 rēgnō,rēgnāre,rēgnāvī,rēgnātum;ver;[SA] rēx sum.
 rēgnum,rēgn|ī;n;[F] rēx rēgnum obtinet. [PT] rēx rēgnum obtinet.
+regō,regere,rēxī,rēctum;ver;
 regredior,regredī,regressus,—;ver;[SA] redeō. retrō eō. [PT] redeō.
 regressus,regress|ūs;m;[ONE] reditus, āctus regrediendī.
 rēgulus,rēgul|ī;m;[SA] rēx parvae gentis. [RCR] dur, prīnceps.
 reiciō,reicere,reiēcī,reiectum;ver;[SA] recūsō. repudiō. [F] retrō iaciō. repellō.
 religiō,religiōn|is;f;[RCR] deōrum reverentia. deōrum metus.
+relinquō,relinquere,relīquī,relictum;ver;
 reliqu|us,reliqu|a,reliqu|um;adi;[SA] quī relictus est vel superest. [RCR] relictus. [F] relictus. sī ē tribus librīs ūnum capiō duo sunt reliquī. [PT] relictus. sī ē tribus librīs ūnum capiō, duo sunt reliquī.
 remedium,remedi|ī;n;[F] id quod nōs sānat.
 rēmigium,rēmigi|ī;n;[ONE] id quō nāvicula movētur.
@@ -2980,6 +3198,7 @@ reputō,reputāre,reputāvī,reputātum;ver;[F] dē aliquā rē cōgitō.
 requiēs,requiēt|is;f;[ONE] quiēs.
 requiēscō,requiēscere,requiēvī,requiētum;ver;[ONE] ā labōre cēssō: quiētem agō. [F] quiētem agō, dormiō ut vīrēs recipiam. [PT] quiētem agō. dormiō.
 rescindō,rescindere,rescidī,rescissum;ver;[SA] (pontem) frangō. [RCR] frangō, interrumpō.
+rēs,r|eī;ver;
 resecō,resecāre,resecuī,resectum;ver;[ONE] ad vīvum secō: rescindō.
 reserō,reserāre,reserāvī,reserātum;ver;[F] aperiō.
 reservō,reservāre,reservāvī,reservātum;ver;[F] servō.
@@ -2989,6 +3208,7 @@ resolvō,resolvere,resolvī,resolūtum;ver;[ONE] ā vinculō līberō. [SA] mōb
 respergō,respergere,respersī,respersum;ver;[RCR] spargō, maculō.
 respiciō,respicere,respexī,respectum;ver;[SA] retrō oculōs vertō.
 respīrō,respīrāre,respīrāvī,respīrātum;ver;[RCR] spīritum dūcō, mē reficiō.
+respondeō,respondēre,respondī,respōnsum;ver;
 respōnsum,respōns|ī;n;[F] nōmen est. verbum est *respondeō*.
 rēspūblica,re|ī|pūblic|ae;f;[SA] cīvitās. [F] pūblica negōtia. ratiō haec agendī. cīvitās.
 restis,rest|is;f;[F] fūnis.
@@ -3003,10 +3223,12 @@ retundō,retundere,rettudī,retūsum;ver;[RCR] repellō.
 reus,re|ī;m;[RCR] accūsātus. [F] homō accūsātus. *Capitis reus* est is quī dē rē capitālī accūsātus est. [PT] homō accūsātus.
 revellō,revellere,revellī,revulsum;ver;[RCR] vī aperiō.
 revēlō,revēlāre,revēlāvī,revēlātum;ver;[F] contrārium quam tegō.
+revertō,revertere,revertī,reversum;ver;
 revertor,revertī,reversus,—;ver;[F] . redeō. [PT] mē recipiō.
 revīvō,revīvere,revīvīxī,revīvīctum;ver;[ONE] in vītam redeō. [SA] iterum vīvō. ad vītam redeō.
 revocāmen,revocāmin|is;n;[ONE] id quod revocat.
 revocō,revocāre,revocāvī,revocātum;ver;[SA] ad locum, ubi anteā erās, tē vocō, redīre iubeō. [F] retrō vocō. [PT] retrō vocō.
+rēx,rēg|is;m;
 Rhēsus,Rhēs|ī;m;[ONE] dux Thrācum.
 rīdeō,rīdēre,rīsī,rīsum;ver;[SA] vōce et voltū mē gaudentem praebeō. *contr.* lacrimō. [PT] rīdet significat pulchrum vidētur esse.
 rīdicul|us,rīdicul|a,rīdicul|um;adi;[SA] quī rīsum movet.
@@ -3026,13 +3248,14 @@ rōdō,rōdere,rōsī,rōsum;ver;[F] paene idem quod mordeō. dentibus aliquid f
 roga,rog|ae;f;[F] pyra.
 rogātor,rogātōr|is;m;[PT] is quī interrogātiōnēs rogat.
 rogitō,rogitāre,rogitāvī,rogitātum;ver;[RCR] rogō (ācriter).
+rogō,rogāre,rogāvī,rogātum;ver;
 rōrāriī,rōrāri|ōrum;m;[RCR] vēlitēs, levis armātūra.
 rosa,ros|ae;f;[F] flōs quīdam pulcherrimus.
 rōstrum,rōstr|ī;n;[RCR] ōs avis.
 rota,rot|ae;f;[F] pars currūs vel plaustrī quae cum volvitur currus prōcēdit. [PT] Vidē Raeda.
 rotund|us,rotund|a,rotund|um;adi;[F] līttera O est rotunda.
 rubeō,rubēre,rubuī,rubitum;ver;[ONE] ruber sum. [F] ruber fīō. genae mihi rubent. [PT] ruber fīō. genae mihi rubent.
-ruber|,rubr|a,rubr|um;adi;[ONE] eō colōre quō sanguis. [SA] colōrem sanguinis dēsignat.
+ruber|,rubr|a,rubr|um;adi;🔴[ONE] eō colōre quō sanguis. [SA] colōrem sanguinis dēsignat.
 rubētum,rubēt|ī;n;[ONE] locus in quō rubī crēbrī gignuntur.
 rubus,rub|ī;m;
 rudēns,rudent|is;m;[F] fūnis nāvis.
@@ -3049,6 +3272,7 @@ ruō,ruere,ruī,rutum;ver;[SA] celerrimē mē moveō. [RCR] cadō.
 rūpēs,rūp|is;f;[ONE] saxum, scopulus. [F] saxum magnum.
 rūricola,rūrico|ae,—;adi;[ONE] quī rūs incolit.
 rūrsus;adv;[RCR] retrō. [F] iterum. [PT] iterum.
+rūs,rūr|is;n;
 rūstic|us,rūstic|a,rūstic|um;adi;[PT] ad rūs attinēns. quī rūrī habitat.
 rutrum,rutr|ī;n;[ONE] īnstrūmentum quō solum foditur vel ēruitur.
 Sabīn|us,Sabīn|a,Sabīn|um;adi;[RCR] Sabīnī Rōmānīs fīnitimī erant, partem Italiae interiōrem habitantēs.
@@ -3062,9 +3286,11 @@ sacrificium,sacrifici|ī;n;[F] nōmen est, verbum est sacrificō.
 sacrificō,sacrificāre,sacrificāvī,sacrificātum;ver;[F] animal interficiō ac combūrō ut deōs plācem.
 saeculum,saecul|ī;n;[RCR] aetās, temporis spatium. [F] centum annī.
 saepenumerō;ind;[F] saepe. [PT] saepe.
+saepe;adb;
 saepiō,saepīre,saepsī,saeptum;ver;[RCR] prōtegō.
 saeviō,saevīre,saevīvī,saevītum;ver;[F] saevum mē praestō.
 saevitia,saeviti|ae;f;[F] nōmen est *saevitia*, adiectīvum *saevus*.
+saev|us,saev|a,saev|um;adi;
 sāga,sāg|ae;f;[F] fēmina quae magicam artem scit. plērumque foedā sunt speciē. nigrae fēlēs eās comitantur.
 sagācitās,sagācitāt|is;f;[F] nōmen est. adiectīvum est *sagāx*.
 sagāx,sagāc|is,—;adi;[F] sapiēns. nōn stultus.
@@ -3088,7 +3314,9 @@ sānct|us,sānct|a,sānct|um;adi;[RCR] quī ad deōs pertinet, reverendus.
 sānē;ind;[F] scīlicet.
 sanguis,sanguin|is;m;[SA] id rubrum quod ex corde per vēnās fluit. [F] ruber quīdam liquor quī corporī inest. [PT] ruber quīdam liquor quī corporī inest.
 sānō,sānāre,sānāvī,sānātum;ver;[F] efficiō ut aliquis valeat.
+sān|us,sān|a,sān|um;adi;
 sapiēns,sapient|is,—;adi;[SA] quī multa scit vel intellegit. [F] contrārium quam *stultus*. [PT] doctus.
+sapientia,sapienti|ae;f;
 sapor,sapōr|is;m; [F] id quod linguā percipiō dum edō.
 sarcina,sarcin|ae;f;[F] onus.
 sata,sat|ōrum;n;[ONE] ea quae sata sunt, frūgēs. (serō, vb.)
@@ -3113,6 +3341,7 @@ scīpiō,scīpiōn|is;m;[SA] baculum sacrum.
 scīscitor,scīscitārī,scīscitātus,—;ver;[RCR] interrogō (sciō). [F] interrogō. quaerō.
 scopulus,scopul|ī;m;[ONE] rūpēs angusta et abrupta. [F] saxum. [PT] saxum.
 scrība,scrīb|ae;m;[SA] is quī scrībit. [RCR] quī scrīpta cūrat.
+scrībō,scrībere,scrīpsī,scrīptum;ver;
 scrīptor,scrīptōr|is;m;[PT] is quī scrībit aliquid.
 scrīptūra,scrīptūr|ae;f;[F] aliquid scrīptum.
 sculptor,sculptōr|is;m;[F] is quī signa ex marmore fingit.
@@ -3129,6 +3358,8 @@ secund|us,secund|a,secund|um;adi;[SA] quī sequitur. *contr.* adversus (ventus).
 secūris,secūr|is;f;[RCR] ferrum quō secantur arborēs, vel colla hūmāna. [F] īnstrūmentum quō arborēs abscīdimus.
 sēcūr|us,sēcūr|a,sēcūr|um;adi;[ONE] sine cūrā. [PT] sine timōre.
 secus;adv;[RCR] aliter. [F] aliter. nōn rēctē.
+sed;con;
+sedeō,sedēre,sēdī,sessum;ver;
 sēdēs,sēd|is;f;[ONE] domus. (sedeō, vb.) [SA] locus ubi sedēs. sellā. [RCR] habitātiō. sella. [F] sella.
 sēditiō,sēditiōn|is;f;[SA] s. vocātur cum cīvēs inter sē pugnant. [RCR] dēfectiō, discordia intestīna.
 sēdō,sēdāre,sēdāvī,sēdātum;ver;[RCR] in tranquillitātem redūcō.
@@ -3137,12 +3368,14 @@ seges,seget|is;f;[PT] ager herbīs plēnus.
 sēgn|is,sēgn|is,sēgn|e;adi;[SA] ignāvus. [RCR] piger, ignāvus.
 sēgregō,sēgregāre,sēgregāvī,sēgregātum;ver;[RCR] sēparō, extrūdō (grex).
 sella,sell|ae;f;[SA] id in quō sedēs.
+semel;adv;
 sēmibōs,sēmibov|is,—;adi;[ONE] quī dīmidiā parte bōs est.
 sēmimortu|us,sēmimortu|a,sēmimortu|um;adi;[F] paene mortuus.
 sēmirut|us,sēmirut|a,sēmirut|um;adi;[RCR] cuius dīmidia pars ēversa est (ruō).
 sēmisomn|us,sēmisomn|a,sēmisomn|um;adi;[F] vix vigilāns.
 sēmivir|,sēmivir|a,sēmivir|um;adi;[ONE] quī dīmidiā parte vir est.
 sēmoveō,sēmovēre,sēmōvī,sēmōtum;ver;[F] āmoveō, removeō.
+semper;adv;
 senātor,senātōr|is;m;[SA] senātōrēs sunt eī, ex quibus senātus cōnstat.
 senātus,senāt|ūs;m;[SA] concilium senum dēlīberandī causā convocātum. [RCR] dēlēctum Rōmānōrum concilium (senex). [F] ōrdō virōrum quōrum cōnsiliō rēspūblica regitur.
 senectūs,senectūt|is;f;[F] aetās senis.
@@ -3169,17 +3402,21 @@ serpēns,serpent|is;f;[F] animal quod serpit.
 serpō,serpere,serpsī,serptum;ver;[F] rēpō.
 sēr|us,sēr|a,sēr|um;adi;[RCR] prōvectus.
 serva,serv|ae;f;[SA] ea quae dominō servit.
+serviō,servīre,serviī | servīvī;servītum;ver;
 servitium,serviti|ī;n;[ONE] servī condiciō, servitūs. [RCR] servitūs. servus.
 servitūs,servitūt|is;f;[SA] s. vocātur cum alicui servīs. [F] contrārium quam *lībertās*. Servī in servitūte sunt.
 servō,servāre,servāvī,servātum;ver;[SA] efficiō ut aliquid salvum sit. [F] tūtum vel salvum faciō. custōdiō. dēfendō. [PT] tūtum vel salvum faciō. custōdiō. dēfendō.
 servus,serv|ī;m;[SA] is quī dominō servit. *contr.* līber.
 sēta,sēt|ae;f;[F] capillus quālem habet porcus.
+seu;con;
 sevēritās,sevēritāt|is;f;[PT] vīs gravis.
 sevēriter;ind;[F] adverbium ab adiectīvō sevērus ductum.
 sevēr|us,sevēr|a,sevēr|um;adi;[F] saevus, crūdēlis.
 Sex.;ind;[RCR] Sextus, praenōmen.
 sextīl|is,sextīl|is,sextīl|e;adi;[PT] sextī mēnsis. Mēnsis est duodecima pars annī.
+sī;con;
 Sibylla,Sibyll|ae;f;[RCR] praeclāra in Italiā vātēs (quae librōs Sibyllīnos Rōmānīs dedit).
+sīc;adv;
 sīcārius,sīcāri|ī;m;[F] is quī alium interficit. [PT] is quī aliquem interficit.
 siccitās,siccitāt|is;f;[F] nōmen est, adiectīvum est *siccus*.
 siccō,siccāre,siccāvī,siccātum;ver;[F] siccum aliquid reddō.
@@ -3210,6 +3447,7 @@ simulātiō,simulātiōn|is;f;[F] nōmen ā verbō *simulō* ductum.
 simulō,simulāre,simulāvī,simulātum;ver;[ONE] verbīs aut āctīs efficiō ut id quod nōn est videātur esse. [F] simulō mē esse quod rē vērā nōn sum. Sī lātrō simulō mē esse canem. sī mūgiō bovem mē esse simulō. [PT] simulō mē esse quod rē vērā nōn sum. Sī lātrō simulō mē esse canem. sī mūgiō bovem mē esse simulō.
 simultās,simultāt|is;f;[RCR] discordia.
 sīn;con;[SA] sī tamen.
+sine;pre,+abl;
 singul|ī,singul|ae,singul|a;adi;[SA] omnēs sēparātim.
 singultus,singult|ūs;m;[ONE] sonitus frāctus dolōre labōrantis.
 sinister|,sinistr|a,sinistr|um;adi;[SA] *contr.* dexter. [F] contrārium quam dexter.
@@ -3221,6 +3459,7 @@ sitiō,sitīre,sitiī | sitīvī,—;ver;[SA] biberō cupiō. [RCR] bibere cupi�
 sitis,sit|is;f;[F] sitim habeō = sitiō.
 sit|us,sit|a,sit|um;adi;[F] positus. [PT] positus.
 situs,sit|ūs;m;[RCR] locus (urbis, castrōrum, etc.).
+sīve;con;
 soccus,socc|ī;m;[F] leve calceī genus.
 socer,socer|ī;m;[ONE] marītī aut uxōris pater. [SA] coniugis pater. [RCR] uxōris pater.
 sociāl|is,sociāl|is,sociāl|e;adi;[ONE] ad socium vel convīvam pertinēns.
@@ -3240,6 +3479,7 @@ sollers,sollert|is,—;adi;[F] sagāx.
 sollicitō,sollicitāre,sollicitāvī,sollicitātum;ver;[RCR] ānxium aliquem faciō.
 sollicit|us,sollicit|a,sollicit|um;adi;[ONE] anxius, metū agitātus. [SA] anxius, intentus. *contr.* sēcūrus. [RCR] ānxius.
 solum,sol|ī;n;[ONE] humus, terra. [F] terra.
+sōlum;adv;
 sōl|us,sōl|a,sōl|um;adi;[F] sine aliīs.
 solvō,solvere,solvī,solūtum;ver;[ONE] ē vinculīs līberō. [SA] laxum faciō ita ut facile moveātur. (pecūniam) pendō. [RCR] relaxō, remittō. [F] līberō. *Pecūniam solvō* = pecūniam dō. *Nāvem solvō* = nāvigāre incipiō. [PT] līberō. pecūniam solvō = pecūniam dō.
 somniō,somniāre,somniāvī,somniātum;ver;[F] somnium percipiō.
@@ -3253,17 +3493,20 @@ sōpiō,sōpīre,sōpīvī,sōpītum;ver;[RCR] sopōre afficiō.
 sopor,sopōr|is;m;[RCR] somnus gravis. [F] somnus profundus.
 sopōrifer|,sopōrifer|a,sopōrifer|um;adi;[ONE] sopōrem vel somnum indūcēns.
 sordid|us,sordid|a,sordid|um;adi;[RCR] foedus, dēfōrmis. [F] nōn pūrus. Sī sordidae sunt manūs lavandae sunt.
+soror,sorōr|is;f;
 sors,sort|is;f;[SA] dēlēctus. id quō aliquōs ex plūribus dēligis. [RCR] id quō ūtimur ut rem dubiam cāsū dēcernāmus. [F] cāsus. fortūna. respōnsum ōrāculī.
 sospes,sospit|is,—;adi;[ONE] salvus, incolumis. [RCR] salvus, tūtus.
 sospitō,sospitāre,sospitāvī,sospitātum;ver;[RCR] cōnservō, tueor.
 Sp.;ind;[RCR] Spurius, praenōmen.
 spargō,spargere,sparsī,sparsum;ver;[ONE] hūc illūc iaciō, agō. [F] hūc illūc iactō vel iaciō. [PT] hūc illūc iactō vel iaciō.
+spatium,spati|ī;n;
 speciēs,speci|ēī;f;[RCR] fōrma. simulātiō.
 speciōs|us,speciōs|a,speciōs|um;adi;[RCR] āspectū bonus. [F] pulcher.
 spectācula,spectācul|ōrum;n;[PT] lūdus quem in circō spectāmus.
 spectāculum,spectācul|ī;n;[F] id quod spectāmus.
 spectātor,spectātōr|is;m;[F] is quī spectāculum spectat.
 spectātrīx,spectātrīc|is;f;[ONE] ea quae spectat.
+spectō,spectāre,spectāvī,spectātum;ver;
 spectō ad;ind;[RCR] (vim etc.) tendō ad.
 speculor,speculārī,—,—;ver;[F] īnspiciō, spectō.
 specus,spec|ūs;m;[RCR] antrum, locus in terrā cavus.
@@ -3306,6 +3549,7 @@ stīps,stīp|is;f;[F] dōnum parvum. aliquantulum pecūniae.
 stipula,stipul|ae;f;[ONE] culmus vel calamus frūmentī.
 stirps,stirp|is;f;[ONE] prōlēs, prōgeniēs, nātus vel nāta. [RCR] prōgeniēs, prōlēs.
 stīva,stīv|ae;f;[ONE] ea pars arātrī quā regitur.
+stō,stāre,stetī,statum;ver;
 strāgula;ind;[F] vestis est vestis quā lectum tegimus.
 strāmen,strāmin|is;n;[ONE] stipula ārida humī strāta. (sternō, vb.)
 strēnu|us,strēnu|a,strēnu|um;adi;[ONE] impiger, nōn ignāvus.
@@ -3325,6 +3569,7 @@ Styx,Styg|is | Styg|os;f;[F] flūmen quoddam apud īnferōs.
 suādeō,suādēre,suāsī,suāsum;ver;[PT] ōrō, persuādeō.
 suāv|is,suāv|is,suāv|e;adi;[F] dulcis, iūcundus. [PT] dulcis, iūcundus.
 suāvitās,suāvitāt|is;f;[F] nōmen est, adiectīvum est suāvis. [PT] *suāvis* est adiectīvum. *suāvitās* est nōmen.
+sub;pre,+abl|+acc;
 subdūcō,subdūcere,subdūxī,subductum;ver;[F] abdūcō. abripiō.
 subeō,subīre,subiī | subīvī,subitum;ver;[SA] adveniō, surgō. [RCR] āscendō. [F] eō sub. patior. suscipiō. *Tēctum subeō* = intrō.
 subiciō,subicere,subiēcī,subiectum;ver;[F] iaciō sub. suppōnō, addō.
@@ -3355,17 +3600,22 @@ sūcus,sūc|ī;m;[ONE] liquor quī est in herbīs: [F] liquor quī herbīs et ar
 sūdō,sūdāre,sūdāvī,sūdātum;ver;[PT] cum sūdāmus liquor, sūdor nōminātus, per tōtum corpus fluit.
 sūdor,sūdōr|is;m;[RCR] hūmor quī fit in labōrantis corpore. [F] liquor quī dum festīnāmus per tōtum corpus fluit.
 suffrāgium,suffrāgi|ī;n;[PT] aut tabella aut vōx eōrum quī cōnsulēs aliōsque magistrātūs creant. Hodiē apud nōs fēminae iūs suffrāgiī flāgitant.
+suī;pro;
 suggestus,suggest|ūs;m;[F] locus altior unde ōrātor ōrātiōnem ad populum habet. rōstrum, pulpitum.
 sulcus,sulc|ī;m;[ONE] quasi fossa, quam arandō facimus. [F] quasi longum forāmen in terrā dēfossum quod agricola arandō facit.
 Sulmo,Sulmōn|is;m;[ONE] oppidum Paelignōrum.
+sum,esse,fuī,futūrum;ver;
 summittō,summittere,summīsī,summissum;ver;[RCR] dēmittō.
 summoveō,summovēre,summōvī,summōtum;ver;[SA] urgeō. [RCR] dē locō moveō.
 summ|us,summ|a,summ|um;adi;[SA] superl. gradus *ductus ā* suprā. suprēmus.
 sūmō,sūmere,sūmpsī,sūmptum;ver;[SA] sūmptum. capiō. *contr.* dēpōnō. poenās sūmō dē aliquō = aliquem pūniō. [F] capiō. [PT] capiō.
 suōpte;ind;[RCR] suō (cf: meōpte, tuōpte).
+super;adv;
+super;pre,+acc;
 superbia,superbi|ae;f;[SA] arrogantia. crūdēlitās. [F] nōmen est, adiectīvum est *superbus*.
 superb|us,superb|a,superb|um;adi;[RCR] arrogāns, crūdēlis. [F] contrārium quam *humilis*.
 supergredior,supergredī,supergressus,—;ver;[F] superō.
+superī,super|ōrum;m;
 superincidō,superincidere,superincidī,superincāsum;ver;[SA] dēsuper in aliquid cadō.
 superior;ind;[RCR] altior. prior. melior, fortior.
 superi|or,superi|or,superi|us;adi;[SA] quī suprā est. *contr.* īnferior.
@@ -3373,11 +3623,15 @@ supernē;adv;[RCR] ex parte superiōre.
 superō,superāre,superāvī,superātum;ver;[SA] vincō. trānseō. [RCR] vincō. praetereō. supersum. [F] vincō, praecēdō, antecēdō. [PT] vincō.
 superstes,superstit|is,—;adi;[ONE] quī aliīs mortuīs adhūc vīvit.
 supersum,superesse,superfuī,—;ver;[ONE] superstes sum. [SA] reliquus sum. [RCR] abundō. [F] restō. nōn pereō.
+super|us,super|a,super|um;adi;
 suppetō,suppetere,suppetiī | suppetīvī,suppetītum;ver;[PT] satis esse.
 supplex,supplic|is,—;adi;[RCR] quī supplicat, ōrat. [F] is est supplex quī precātur.
 supplex,supplic|is;m;[SA] quī supplicat vel precātur.
 supplicium,supplici|ī;n;[RCR] poena. [F] poena.
 suppōnō,suppōnere,supposuī,suppositum;ver;[F] sub aliquid pōnō. Aliquid in locō alterīus reī pōnō.
+suprā,adv;
+suprā,pre,+acc;
+surgō,surgere,surrēxī,surrēctum;ver;
 surrēct|us,surrēct|a,surrēct|um;adi;[RCR] ērēctus.
 sūrsum;ind;[F] ex īnferiōre ad superiōrem partem.
 sūs,su|is;mf;[F] porcus.
@@ -3390,6 +3644,7 @@ suspiciō,suspicere,suspexī,suspectum;ver;[F] sūrsum spectō.
 suspicor,suspicārī,suspicātus,—;ver;[ONE] nōn prō certō quidem habeō, sed ad opīnandum indūcor. [F] nōn prō certō habeō, sed putō. [PT] nōn prō certō habeō sed putō.
 sustineō,sustinēre,sustinuī,sustentum;ver;[SA] ferō, patior, resistō. [RCR] ferō. retineō. [F] ita aliquid teneō ut cadere nōn possit. perferō, patior.
 sūtor,sūtōr|is;m;[F] is quī soccōs ac calceōs facit.
+su|us,su|a,su|um;adi;
 suusmet;ind;[RCR] suus (cf. egomet, sēmet, etc.).
 T.;ind;[RCR] Titus, praenōmen.
 tabella,tabell|ae;f;[ONE] tabula parva. [F] tabula parva. [PT] tabula parva.
@@ -3407,7 +3662,9 @@ Tagus,Tag|ī;m;[ONE] flūmen Lūsītāniae aquīs auriferīs.
 tālī,tāl|ōrum;m;[PT] fragmenta ossis, quibus Rōmānī ut tesserīs ūtēbantur.
 tāl|is,tāl|is,tāl|e;adi;[PT] huius modī.
 tālus,tāl|ī;m;[F] membrum corporis inter pedem et crūs.
+tam;adv;
 tamdiū;ind;[F] tantum temporis.
+tamen;con;
 tamquam;con;[RCR] velut.
 Tanaquil,Tanaquīl|is;f;[RCR] uxor Tarquinī Prīscī.
 tandem;adv;[SA] temp. post aliquod tempus.
@@ -3425,8 +3682,7 @@ tēctum,tēct|ī;n;[SA] summum aedificium. aedificium ipsum. [F] superior pars c
 tegō,tegere,tēxī,tēctum;ver;[ONE] vēlō, operiō. [SA] operiō. vēlō. cēlō. [RCR] operiō. servō.
 tēgula,tēgul|ae;f;[RCR] fictile aedificiī tegumentum.
 tēla,tēl|ae;f;[F] id quod teximus.
-tellūs,tellūr|is;f;[ONE] terra. [F] terra.
-Tellūs,Tellūr|is;f;[RCR] terra.
+tellūs,tellūr|is;f;[ONE] terra. [F] terra. [RCR] terra.
 tēlum,tēl|ī;n;[ONE] id quod in pugnā ē manibus ēmittitur. [SA] id quod mīles iacit. [F] īnstrūmentum quō aliquem interficere possumus.
 temerāri|us,temerāri|a,temerāri|um;adi;[ONE] quī incōnsultō in perīcula currit. [SA] stultē audāx.
 temere;adv;[RCR] forte, sine cōnsiliō.
@@ -3435,10 +3691,12 @@ tempestās,tempestāt|is;f;[RCR] ventus violentus. tempus. [F] est tempestās cu
 templum,templ|ī;n;[SA] aedificium deō dēdicātum. [RCR] fānum. regiō ad ōmina exspectanda. [F] domus deī.
 tempore;ind;[PT] bonō tempore. nōn sērō.
 temptō,temptāre,temptāvī,temptātum;ver;[SA] cōnor, sc. id quod difficile est. [RCR] perspiciō, scrūtor. [F] cōnor.
+tempus,tempor|is;n;
 tempus terō,tempus terere,tempus trīvī,tempus trītum;ver;[PT] *tempus terō* est tempus perdō. tempore nōn bene ūtor.
 tendō,tendere,tetendī,tēnsum | tentum;ver;[ONE] (arcum) tendō, (cursum) tendō, magnō studiō eō. [SA] porrigō. longius reddō. [RCR] contendō, iter faciō.
 tenebrae,tenebr|ārum;f;[F] contrārium quam lūx.
 teneō,tenēre,tenuī,tentum;ver;[RCR] tenet fāma, i.e. fāma est, fāma dūrat.
+tener|,tener|a,tener|um;adi;
 tenu|is,tenu|is,tenu|e;adi;[ONE] nōn crassus, subtīlis. [F] nōn crassus. mollis.
 tenuō,tenuāre,tenuāvī,tenuātum;ver;[ONE] tenuem faciō.
 tenus;ind;[F] (abl.) ūsque ad.
@@ -3449,9 +3707,11 @@ tergum,terg|ī;n;[F] pars corporis posterior. Contrārium est frōns. *Tergum d�
 terminus,termin|ī;m;[F] fīnis. regiō cōnstitūta.
 tern|ī,tern|ae,tern|a;adi;[RCR] cuique trēs, ab utrāque parte trēs.
 terō,terere,trīvī,trītum;ver;[RCR] peragō, cōnsūmō.
+terra,terr|ae;f;
 terreō,terrēre,terruī,territum;ver;[F] terrōre aliquem afficiō. efficiō ut aliquis timeat.
 terribil|is,terribil|is,terribil|e;adi;[F] id terribile est quod nōs terret.
 terror,terrōr|is;m;[SA] vocātur cum valdē timēs. timor magnus. [F] timor magnus.
+terti|us,terti|a,terti|um;adi;
 tesserae,tesser|ārum;f;
 testāmentum,testāment|ī;n;[RCR] tabula ad hērēdēs nōminandōs scrīpta. [PT] id quod homō moritūrus scrībit.
 testificor,testificārī,—,—;ver;[PT] vērum esse dīcō. testis testificātur vel testimōnium dat.
@@ -3478,6 +3738,7 @@ Tibullus,Tibull|ī;m;[ONE] poēta elegīacus Latīnus: flōruit A.v.c. DCCXXX.
 tignum,tign|ī;n;[F] rēs quaedam lignea et longa et quadrāta. Tigna tēctum sustinent.
 timeō,timēre,timuī,—;ver;[SA] metuō: timidus sum.
 timid|us,timid|a,timid|um;adi;[SA] timēns. metuēns. *contr.* impavidus, fortis, audāx. [F] is quī timēre solet est timidus. [PT] quī timēre solet.
+timor,timōr|is;m;
 tingō,tingere,tīnxī,tīnctum;ver;[ONE] madefaciō, ūmōre imbuō: īnficiō.
 tīrō,tīrōn|is;m;[PT] contrārium quam veterānus. novus quīdam.
 titubō,titubāre,titubāvī,titubātum;ver;[F] hūc illūc quasi cadō dum ambulāre cōnor. Ēbriī titubant.
@@ -3496,6 +3757,7 @@ torquēs,torqu|is;m;[RCR] collī ōrnāmentum.
 torreō,torrēre,torruī,tostum;ver;[RCR] ūrō. [F] ignī aliquid siccum faciō. Sōl torret terram.
 torrid|us,torrid|a,torrid|um;adi;[F] siccus, tostus.
 torus,tor|ī;m;[ONE] lectus nūptiālis. [F] lectus.
+tot;adv;
 tōt|us,tōt|a,tōt|um;adi;[F] cūnctus. omnis.
 tractō,tractāre,tractāvī,tractātum;ver;[F] tangō. agō.
 trādō,trādere,trādidī,trāditum;ver;[SA] dō. reddō. [RCR] dō. posterīs narrō. [F] dō. alicui ut custōdiat dō. [PT] alicui aliquid ut servet dō. mandō. commendō.
@@ -3515,6 +3777,7 @@ trānsvers|us,trānsvers|a,trānsvers|um;adi;[SA] trāns aliquid positus, vel qu
 tremō,tremere,tremuī,—;ver;[PT] ob timōrem quatior.
 trepidō,trepidāre,trepidāvī,trepidātum;ver;[ONE] metū vel aliquā mentis perturbātiōne tremō. [RCR] paveō, commoveor.
 trepid|us,trepid|a,trepid|um;adi;[ONE] quī trepidat. [RCR] ānxius, pavidus. [F] terrōre affectus. [PT] timidus.
+tr|ēs,tr|ēs,tri|a;adi;
 triāriī,triāri|ōrum;m;[RCR] tertia aciēs Rōmāna.
 tribūnal,tribūnāl|is;n;[SA] locus ēditus ubi rēx sedet. [RCR] solium, sēdēs. [PT] locus ubi praetor iūs dat.
 tribūnici|us,tribūnici|a,tribūnici|um;adi;[RCR] tribūnicium est id quod tribūnus habet.
@@ -3526,6 +3789,7 @@ triennium,trienni|ī;n;[RCR] trēs annī.
 trigemin|us,trigemin|a,trigemin|um;adi;[RCR] trigeminī sunt trēs frātrēs eōdem tempore nātī.
 trinōd|is,trinōd|is,trinōd|e;adi;[ONE] trēs nōdōs habēns.
 triplex,triplic|is,—;adi;[F] quasi trēs partēs habēns.
+trīst|is,trīst|is,trīst|e;adi;
 triumphō,triumphāre,triumphāvī,triumphātum;ver;[ONE] dē aliquō victōriam reportō: triumphum agō. [SA] triumphum agō. id quod victor Rōmam redux faciēbat. [RCR] laudēs post victōriam ferō.
 Trivia,Trivi|ae;f;[ONE] Diāna quae in triviīs colitur.
 trucīdō,trucīdāre,trucīdāvī,trucīdātum;ver;[RCR] obtruncō. [F] interficiō, occīdō. [PT] caedō. interficiō.
@@ -3536,6 +3800,7 @@ tuba,tub|ae;f;[SA] īnstrūmentum quō sonitum ēdis.
 tubicen,tubicin|is;n;[F] is quī tubā canit.
 tueor,tuērī,tuitus | tūtus,—;ver;[ONE] servō.
 tugurium,tuguri|ī;n;[RCR] casa. [F] domus pauperis. casa lignea.
+tum | tunc;adv;
 tumeō,tumēre,tumuī,tumitum;ver;[ONE] turgeō. e.g. vēla nāvis ventō tument. [F] tumidus fīō.
 tumid|us,tumid|a,tumid|um;adi;[F] adiectīvum est. nōmen est *tumor*. [PT] id quod tumet est tumidum.
 tumor,tumōr|is;m;[F] sī caput tuum vehementer percutiō tumor rotundus in capite fit. Verbum est *tumeō*. [PT] sī caput tuum vehementer percutiō tumor rotundus in capite fit.  Verbum est *tumeō*.
@@ -3552,6 +3817,7 @@ turbō,turbāre,turbāvī,turbātum;ver;[ONE] misceō, cōnfundō.
 turma,turm|ae;f;[RCR] equitum manus.
 turp|is,turp|is,turp|e;adi;[ONE] inhonestus, foedus, indecōrus. [F] foedus.
 turris,turr|is;f;[ONE] aedificium in magnam altitūdinem ēditum.
+tū;pro;
 tūs,tūr|is;n;
 Tusculān|us,Tusculān|a,Tusculān|um;adi;[RCR] Tusculum urbs Latīna erat.
 Tūsc|us,Tūsc|a,Tūsc|um;adi;[ONE] ad Etrūriam pertinēns.
@@ -3560,6 +3826,7 @@ tūtēla,tūtēl|ae;f;[RCR] cūra.
 tūtor,tūtārī,tūtātus,—;ver;[RCR] tueor, dēfendō. [F] servō, dēfendō.
 tūtor,tūtōr|is;m;[RCR] quī puerōs cūrat.
 tūt|us,tūt|a,tūt|um;adi;[SA] salvus.
+tu|us,tu|a,tu|um;pro;
 tympanum,tympan|ī;n;[F] īnstrūmentum quoddam rotundum quod quatiendō sonum facimus.
 Typhōeus,Typhō|eōs;m;[ONE] mōnstrum terrā genitum, centum bracchiīs, ōre flammiferō. Bellō contrā deōs mōtō ā Iove fulmine ictus sub Aetnam, montem Siciliae, sepultus est. Cum autem Aetna flammās et saxa ārdentia ēvomeret, fāma erat Typhōea haec effundere.
 tyrannus,tyrann|ī;m;[F] prīnceps. rēx.
@@ -3567,11 +3834,14 @@ Tyri|us,Tyri|a,Tyri|um;adi;[ONE] ad Tyrum, urbem Phoenīciae, pertinēns.
 Tyrrhēn|us,Tyrrhēn|a,Tyrrhēn|um;adi;[ONE] Tūscus.
 ūber,ūber|is,—;adi;[ONE] fēcundus, fertilis, ferāx.
 ūber,ūber|is;n;[ONE] mamma.
+ubi;adv;
 ulcīscor,ulcīscī,ultus,—;ver;[SA] iniūriam ulcīscor sī eum quī fēcit poenās dare cōgō. [F] vindicō.
 ūll|us,ūll|a,ūll|um;adi;[SA] indēfīnītum.
 ultim|us,ultim|a,ultim|um;adi;[SA] quī post aliōs omnēs venit. *contr.* prīmus. [PT] postrēmus.
 ultiō,ultiōn|is;f;[F] est nōmen. verbum est *ulcīscor*.
 ultor,ultōr|is;m;[RCR] vindex.
+ultrā;adv;
+ultrā;pre,+acc;
 ultrō;adv;[RCR] praeter spem. suā sponte.
 ululātus,ululāt|ūs;m;[ONE] clāmor muliebris.
 ulva,ulv|ae;f;[ONE] herba palūstris.
@@ -3579,6 +3849,7 @@ umbō,umbōn|is;m;[RCR] id quod in mediō clipeō ēminēbat.
 umbra,umbr|ae;f;[F] āēr sōle carēns ex obiectū alicuius corporis, ut parietis, arboris.
 umerus,umer|ī;m;[SA] pars corporis īnfrā collum posita, ubi onera portās. [F] pars tergī superior suprā quam situm est caput.
 uncus,unc|ī;m;[F] aliquid dē uncō suspendere possumus.
+unda,und|ae;f;
 unde;adv;[SA] quō ex locō. [F] ex quō locō. [PT] ex quō.
 undique;adv;[SA] loci. ab omnibus partibus. [RCR] ex omnī parte.
 unguentum,unguent|ī;n;[F] rēs quaedam mollis quam membrō quod laesum est impōnimus.
@@ -3587,8 +3858,11 @@ ungula,ungul|ae;f;[F] pēs equī. [PT] pēs equī.
 ūnic|us,ūnic|a,ūnic|um;adi;[RCR] sōlus.
 ūniversī;ind;[RCR] omnēs simul.
 ūnivers|us,ūnivers|a,ūnivers|um;adi;[RCR] omnis. [F] omnis, tōtus.
+umquam;adv;
 unquam;adv;[SA] temp. ūllō tempore. *cum neg. ūsūrpātur.*
+ūn|us,ūn|a,ūn|um;adi;
 urbān|us,urbān|a,urbān|um;adi;[F] quī urbem habitat. [PT] ad urbem attinēns.
+urbs,urb|is;f;🏙️
 urgeō,urgēre,ursī,—;ver;[ONE] impellō, prōpellō. [RCR] premō, impellō.
 ūrna,ūrn|ae;f;[F] vas. praecipuē aut vās quod ossa combusta mortuī hominis continet, aut vās in quod iūdicēs tabellās iaciunt.
 ūrō,ūrere,ussī,ustum;ver;[F] ignis quicquid tangit ūrit. [PT] ignis quicquid tangit ūrit.
@@ -3597,6 +3871,7 @@ usquam;adv;[RCR] in ūllō locō. [F] contrārium quam nusquam.
 usque;adv;[SA] omnīnō. continenter.
 ūsūra,ūsūr|ae;f;[F] sī mūtuam pecūniam ā mē accēpistī atque ego tibi imperō ut plūs reddās quam accēpistī, id est ūsūra.
 ūsus,ūs|ūs;m;[ONE] āctus ūtendī: ūtilitās. [SA] modus ūtendī. [F] nōmen est *ūsus*, verbum ūtor. *Id mihi ūsuī est quō possum ūtī, ūtile est mihi*.
+ut;adv;
 uter,utr|is;m;[F] pellis in quā Rōmānī aquam portābant.
 uter | utra | utrum;ind;[SA] quis ex duōbus?
 uterque | utraque | utrumque;ind;[SA] idem ferē quod ambō significat.
@@ -3623,6 +3898,7 @@ vāgīna,vāgīn|ae;f;[F] id quod gladium continet.
 vāgiō,vāgīre,vāgīvī | vāgiī,vāgītum;ver;[ONE] clāmōrem īnfantilem ēdō. [F] fleō ut īnfāns. [PT] fleō ut īnfāns.
 vāgītus,vāgīt|ūs;m;[RCR] clāmor īnfantium.
 vagor,vagārī,—,—;ver;[SA] errō. hūc illūc eō. [F] hūc illūc ambulō. [PT] hēūc illūc ambulō.
+vag|us,vag|a,vag|um;adi
 valdē;adv;[SA] (i.q. validē) magnopere.
 valeō,valēre,valuī,valitum;ver;[ONE] validus sum, vīrēs habeō. [RCR] potēns, validus sum. [F] validus sum. [PT] validus et fortis sum. nōn aegrōtō.
 valētūdō,valētūdin|is;f;[F] nōmen est. verbum est *valeō*.
@@ -3642,10 +3918,13 @@ vāstō,vāstāre,vāstāvī,vāstātum;ver;[F] regiōnem vāstō sī omnēs inc
 vāst|us,vāst|a,vāst|um;adi;[ONE] immānis et incultus. [RCR] incultus. vacuus hominibus.
 vātēs,vāt|is;mf;[RCR] deōrum interpres. [F] sacerdōs. quī rēs sacrās cūrat.
 vāticinor,vāticinārī,—,—;ver;[F] vātis rītū praedīcō.
+-ve;con;
 vēcors,vēcord|is,—;adi;[F] vēsānus.
 veget|us,veget|a,veget|um;adi;[F] ācer, valēns.
 vehementer;ind;[F] magnā vī. [PT] magnā vī.
+vehō,vehere,vēxī,vectum;ver;
 Vēiī,Vēi|ōrum;m;[RCR] urbs Etrūsca.
+vel;con;
 vēlifer|,vēlifer|a,vēlifer|um;adi;[ONE] vēlīs īnstrūctus.
 vēlō,vēlāre,vēlāvī,vēlātum;ver;[RCR] tegō (veste).
 vēlōciter;adv;[ONE] celeriter.
@@ -3665,6 +3944,7 @@ venerābund|us,venerābund|a,venerābund|um;adi;[RCR] venerāns.
 venerātiō,venerātiōn|is;f;[F] nōmen est, verbum est *veneror*.
 veneror,venerārī,—,—;ver;[F] deōs venerāmur.
 venia,veni|ae;f;[F] potestās. *veniam dō* = sinō, vel parcō tibi. [PT] potestās. veniam dō=sinō.
+veniō,venīre,vēnī,ventum;ver;
 vēnor,vēnārī,vēnātus,—;ver;[SA] ferās sequor capiendī vel occīdendī causā. [RCR] ferās sector. [F] animālia persequor ut ea capiam.
 venter,ventr|is;m;[SA] pars corporis quō cibus dēscendit. [F] pars corporis quō cibus it. stomachus. [PT] pars corporis quō cibus it. stomachus.
 ventus,vent|ī;m;[F] quasi āēr quī movētur. [PT] quasi āēr quī movētur.
@@ -3672,17 +3952,20 @@ vēnum;ind;[F] aliquid dō significat *in tabernā aliquid pōnō ut vēndam*.
 vēr,vēr|is;n;[F] vidē hiemps.
 verber,verber|is;n;[SA] id quod dās cum ferīs. [F] id quod tibi dō sī tē pulsō.
 verberō,verberāre,verberāvī,verberātum;ver;[F] flagellō, pulsō. [PT] ferulā percutiō.
+verbum;verb|ī;n;
 vērē;ind;[F] rē vērā. rēctē.
 verēcundia,verēcundi|ae;f;[RCR] reverentia.
 vereor,verērī,veritus,—;ver;[SA] timeō, metuō. [RCR] timeō, pudōre teneor. [F] timeō. [PT] timeō.
 vēridic|us,vēridic|a,vēridic|um;adi;[RCR] quī vēra dīcit.
 vēritās,vēritāt|is;f;[F] contrārium quam mendācium.
+vēro;adv;
 versicolor,versicolōr|is,—;adi;[RCR] variīs colōribus.
 versiculus,versicul|ī;m;[PT] versus parvus.
 versō,versāre,versāvī,versātum;ver;[ONE] saepe vertō. [RCR] saepe vel vehementer vertō. [F] vertō. efficiō ut aliquid volvātur.
 versus,vers|ūs;m;[PT] carminis pars.
 vertex,vertic|is;m;[ONE] summum caput. [RCR] caput, apex.
 vertō,vertere,vertī,versum;ver;[SA] aliam in partem dīrigō vel moveō. [RCR] flectō. nōn nunquam intrānsitīvum, vertor.
+vēr|us,vēr|a,vēr|um;adi;
 verūtum,verūt|ī;n;[RCR] pīlum.
 vēsān|us,vēsān|a,vēsān|um;adi;[F] īnsānus.
 vēscor,vēscī,—,—;ver;[F] edō. [PT] edō. dēvorō.
@@ -3690,6 +3973,7 @@ vesper,vesper|is | vesper|ī;m;[F] tempus inter diem et noctem.
 vesperī;adv;[SA] temp. inter diem noctemque. *contr.* māne.
 Vesta,Vest|ae;f;[ONE] dea cui focus domesticus cūrae est.
 Vestāl|is,Vestāl|is,Vestāl|e;adi;[RCR] virginēs Vestālēs sacerdōtēs erant deae Vestae.
+vester | vestr|a | vestr|um;adi;
 vestibulum,vestibul|ī;n;[SA] pars aedium quae ante portam est. [RCR] prīma domūs pars, aditus. [F] prīma pars domūs.
 vestīgium,vestīgi|ī;n;[SA] signum pedibus pressum. [RCR] pedis nota in terram pressī.
 vestis,vest|is;f;[F] id quō corpus tegitur vel amicītur. [PT] id quō corpus tegitur vel amicītur.
@@ -3698,6 +3982,7 @@ vetus,veter|is,—;adi;[SA] antīquus. [F] contrārium quam *novus*.
 vetustās,vetustāt|is;f;[ONE] longum temporis spatium. (vetus, adj.)
 vetust|us,vetust|a,vetust|um;adi;[RCR] vetus, antīquus.
 vexō,vexāre,vexāvī,vexātum;ver;[F] perturbō, agitō dolōre aliquem afficiō. [PT] perturbō. agitō. pestis sum alicui.
+via,vi|ae;f;
 viātor,viātōr|is;m;[F] quī iter facit. [PT] quī iter facit.
 vibrō,vibrāre,vibrāvī,vibrātum;ver;[ONE] iactō, quatiō.
 vicāri|us,vicāri|a,vicāri|um;adi;[F] id est vicārium quod prō aliō faciō. ad alium attinēns.
@@ -3729,17 +4014,18 @@ vīnea,vīne|ae;f;[F] locus ubi crēscunt vītēs.
 vīnum,vīn|ī;n;[F] id quod ex ūvīs facimus. [PT] id quod ex ūvīs facimus.
 violentia,violenti|ae;f;[F] vīs valida.
 violō,violāre,violāvī,violātum;ver;[SA] aliquid contrā iūs faciō: frangō. [RCR] vim afferō, vel dēdecus.
+vir,vir|ī;m;👨
 virga,virg|ae;f;[ONE] rāmulus vel surculus arboris: baculum.
 virgināl|is,virgināl|is,virgināl|e;adi;[F] ad virginēs attinēns.
 virginitās,virginitāt|is;f;[RCR] virgō (virginis, f.) puella est innūpta.
 virgō,virgin|is;f;[SA] nōn nūpta. [F] puella nōndum in mātrimōnium ducta.
 virgulta,virgult|ōrum;n;[F] tenuissimī arboris rāmī.
 virgultum,virgult|ī;n;[ONE] locus virgīs cōnsitus.
-virid|is,virid|is,virid|e;adi;[ONE] eō colōre quō frondēs sunt. [F] color quīdam. ager est viridis.
+virid|is,virid|is,virid|e;adi;🟢[ONE] eō colōre quō frondēs sunt. [F] color quīdam. ager est viridis.
 virīl|is,virīl|is,virīl|e;adi;[RCR] quī virum decet.
 virītim;adv;[RCR] ubi singulī virī prō sē quisque adsunt.
 virtūs,virtūt|is;f;[ONE] habitus virīlis: fortitūdō.
-vīs;f;[SA] acc. vīm. gen. et dat. dēsunt. abl. vī. vī ūteris, sī quid violenter facis. [RCR] dēest Gen., cōpia.
+vīs,—;f;[SA] acc. vīm. gen. et dat. dēsunt. abl. vī. vī ūteris, sī quid violenter facis. [RCR] dēest Gen., cōpia.
 vīscera,vīscer|um;n;[F] partēs corporis interiōrēs.
 vīsō,vīsere,vīsī,vīsum;ver;[PT] apud aliquem eō ut eum videam.
 vīta,vīt|ae;f;[F] contrārium quam mors. Verbum est *vīvō*, nōmen *vīta*.
@@ -3753,8 +4039,10 @@ vitta,vitt|ae;f;[ONE] īnfula, quā caput vincītur.
 vitulus,vitul|ī;m;[ONE] bōs nōndum adultus. [F] hōs parvus.
 vīvō,vīvere,vīxī,vīctum;ver;[SA] vīvus sum. vītam agō.
 vīv|us,vīv|a,vīv|um;adi;[SA] quī vīvit. *contr.* mortuus.
+vix;adv;
 vōcāl|is,vōcāl|is,vōcāl|e;adi;[ONE] magnā aut clārā vōce praeditus.
 vōciferor,vōciferārī,—,—;ver;[F] clāmō.
+vocō,vocāre,vocāvi,vocātum;ver;
 Volcānus,Volcān|ī;m;[F] deus ignis.
 volgus,volg|ī;n;[ONE] plēbs, multitūdō hominum tenuiōrum. [F] plēbs.
 volnerābil|is,volnerābil|is,volnerābil|e;adi;[F] id est volnerābile quod volnerāre possumus.
@@ -3767,14 +4055,19 @@ volucer|,volucr|is,volucr|e;adi;[ONE] quī volat: avis, āles.
 volucris,volucr|is;f;[F] avis.
 voluntāri|us,voluntāri|a,voluntāri|um;adi;[SA] quī suā sponte aliquid facit. nōn coāctus. [RCR] quī suā sponte adest.
 voluntās,voluntāt|is;f;[SA] āctus volendī. [RCR] quod in animō est volentis.
+voluptās;voluptāt|is;f;
 volvō,volvere,volvī,volūtum;ver;[ONE] rota volvitur. [F] id quod rotundum est volvitur, volvendō sē movet.
 vōmer | vōmis,vōmer|is;m;[ONE] ea pars arātrī quā sulcus ēruitur.
 vorāgō,vorāgin|is;f;[RCR] cavum, locus cavus (quī quod incidit dēvorat).
+vōs;pro;
 vōtum,vōt|ī;n;[F] id quod volō habēre.
 voveō,vovēre,vōvī,vōtum;ver;[SA] (dīs) prōmittō.
 vōx,vōc|is;f;[RCR] spīritūs sonus in faucibus resonantis. dictum.
 vulgō;adv;[RCR] saepe, multum.
+vulgus,vulg|ī;n;
 vulnerō,vulnerāre,vulnerāvī,vulnerātum;ver;[SA] tēlō aliquem laedō.
+vulnus,vulner|is;n;
 vultur,vultur|is;m;[SA] avis magna et plērumque nigra. [RCR] avis quaedam magna, quae cadāveribus vēscitur.
+vultus,vult|ūs;m;
 Xanthus,Xanth|ī;m;[ONE] Scamander, fluvius Trōadis.
 Zephyrus,Zephyr|ī;m;[ONE] ventus ex occidente ortus.
