@@ -18,7 +18,7 @@ puppi litus leniter e conspectu recedens conspiciebant. Ac
 postremo Drusilla: ‘“Quinque iam sunt anni,” inquit, ‘“cum in
 hanc terram barbaram iter fecimus. Quam gaudeo nobis denique
 licere domum reverti, ut tandem patriam et parentes meos
-visamus!”’ 3 :
+visamus!”’
 
 Tum Cornelius: ‘“Recte dicis,” inquit. ‘“Sed dum hic mora-
 bamur, multa miranda et iucunda vidimus, nec me paenitet, his
