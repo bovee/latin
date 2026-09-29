@@ -8,9 +8,9 @@ Each line is a semicolon-delimited list of the following: `headwords; grammatica
 
 ### Headwords
 
-The first entry is a comma-delimited list of headwords. Verbs will always have at least four parts, adjectives three, nouns two, and all other forms one. The verb forms are the first person singular, the infinitive, the perfect infinitive, and the supine. If a form is missing, a `—` is used as a placeholder. The adjective forms are the male, female, and neuter for most adjectives (or) the nominative, the genitive, and a `—` for adjectives of one termination. Nouns have the nominative form and the genitive and all other entries have only one headword.
+The first entry is a comma-delimited list of headwords. Verbs will always have at least four parts, adjectives three, nouns two, and all other forms one. The verb forms are the first person singular, the infinitive, the perfect infinitive, and the supine. If a form is missing, a `—` is used as a placeholder. The adjective forms are the nominative male, nominative neuter, and genitive male. Nouns have the nominative and the genitive and all other entries have only one headword.
 
-Each headword is fully expanded for ease of parsing (e.g. no `-ōrum` forms are present) with a `|` used to separate the stem from the ending and if multiple forms are present (e.g. `abiī | abīvī`), they are separated by ` | `s. It is possible that there may be more entries for a given word than above (to specify irregularities), but the first ones are guaranteed to follow the above format.
+Each headword is fully expanded for ease of parsing (e.g. no `-ōrum` with a dash forms are present) and if multiple forms are commonly used (e.g. `abiī | abīvī`), they are separated by ` | `s. It is possible that there may be more entries for a given word than above (to specify irregularities), but the first ones are guaranteed to follow the above format.
 
 ### Grammatical Tags
 
@@ -27,7 +27,7 @@ The second entry is a comma-delimited list of grammatical information. The first
  - `pro`: pronoun
  - `ver`: verb
 
-If the part-of-speech is a preposition, the next entry will indicate which case the preposition takes (e.g. `+abl` or `+abl|+acc`).
+If the part-of-speech is a preposition, the next entry will indicate which case the preposition takes (e.g. `+abl` or `+abl | +acc`).
 
 ### Definition
 
